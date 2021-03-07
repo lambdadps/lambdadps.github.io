@@ -71,6 +71,8 @@ In my undergraduate research project, I use the MultiDark cosmological numerical
 
 **Date:** September 20, 2019
 
+[Click here for the lecture notes!](https://lambdadps.github.io/seminars/pdf/19-09-20.pdf)
+
 **Remark:** As stated during the seminar, the method is not correctly described in the lecture notes. Do read the references in order to see the correct approach. The very same references have other examples of applications.
 
 ### Classical Transport Phenomena: The Elusiveness of the Second Law
@@ -83,6 +85,8 @@ The aim of this lecture is to give some intuition towards how the irreversible n
 **Résumé:** I'm an undergraduate sophomore in the Bachelor in Physics at the University of São Paulo. Before getting into university, I've been studying physics since my first year of high school preparing for international physics olympiads. I'm an EuPhO 2017 silver medalist and IPhO 2017 gold medalist. I'm interested in theoretical solid state physics, but also enjoy looking into fundamental phenomena and how many postulates we can abandon and still come up with the same physical theories.
 
 **Date:** September 11, 2019
+
+[Click here for the lecture notes!](https://lambdadps.github.io/seminars/pdf/19-09-11.pdf)
 
 ### Pra Dizer Adeus Ao Office
 #### Uma Introdução ao LaTeX
@@ -151,6 +155,8 @@ In the first part of the talk we will remember life of Emmy Noether, discussing 
 
 **Date:** May 23, 2019
 
+[Click here for the slideshow!](https://lambdadps.github.io/seminars/pdf/19-05-23.pdf)
+
 ### Under Pressure... and Extremely High Temperatures
 
 **Abstract:** When the first atomic nuclei formed, there was only Hydrogen, Helium and traces of Lithium. I’ll try to elucidate how the rest of the periodic table appeared, through a variety of nucleosynthesis processes. From the proton-proton chain to processes that create the heaviest elements found in nature, we’ll discover why we are formed of stellar dust.
@@ -191,6 +197,8 @@ In the first part of the talk we will remember life of Emmy Noether, discussing 
 
 **Date:** April 11, 2019
 
+[Click here for the lecture notes!](https://lambdadps.github.io/seminars/pdf/19-04-11.pdf)
+
 ### Quantum Mechanics: A Pedagogical Approach To a Geometric Theory
 
 **Abstract:** Instead of trying to explore the historical side of QM, I will begin with it’s postulates and what is their physical inspiration. Moreover, since QM is a theory formulated on vector spaces, I will emphasize the geometrical aspects and possible analogies with the Euclidean Geometry that new students are studying at the moment.I will try to restrain myself to the systems that can lead to finite dimension eigenproblems, which are easy to follow through.
@@ -200,6 +208,8 @@ In the first part of the talk we will remember life of Emmy Noether, discussing 
 **About me:** I’m a MsC student at IFT-UNESP and an alumnus of IFUSP from the class of 2018. Being a high-school teacher since 2016, I used to think of myself as a “jack of all-trades” (or just a good trickster), but I finally decided to dive into theoretical condensed matter physics as my research area.
 
 **Date:** April 04, 2019
+
+[Click here for the slideshow!](https://lambdadps.github.io/seminars/pdf/19-04-04.pdf)
 
 ### The Geometry of Spacetime
 
@@ -211,6 +221,8 @@ In the first part of the talk we will remember life of Emmy Noether, discussing 
 
 **Date:** March 28, 2019
 
+[Click here for the slideshow!](https://lambdadps.github.io/seminars/pdf/19-03-28.pdf)
+
 ### Topology (and Metrics) for the Young at Heart
 
 **Abstract:** Aside from Set Theory, everyone who aims to work with Mathematics and Theoretical Physics (and, in particular, Mathematical Physics) must at some point learn about Metric Spaces and Topological Spaces, specially due to the use of convergence (like in infinite series) and continuity in abstract spaces. This lecture is aimed for those who already have at least some familiarity with Set Theory, and would like to have a look at the kind of mathematics used in modern theoretical physics and maths.
@@ -220,6 +232,9 @@ In the first part of the talk we will remember life of Emmy Noether, discussing 
 **Résumé:** Graduated from high school in 2014 and began his bachelor's degree in Physics Engineering in the year after. Transferred to a bachelor in Physics in 2017. Interested in Mathematical Physics, particularly in Differential Manifolds.
 
 **Date:** March 21, 2019
+
+[Click here for the slideshow!](https://lambdadps.github.io/seminars/pdf/19-03-21.pdf)
+[Click here for the lecture notes!](https://lambdadps.github.io/seminars/pdf/19-03-21N.pdf)
 
 ### Connecting Dots
 #### From Hamilton's Principle to Schrödinger's Equation
@@ -232,6 +247,8 @@ In the first part of the talk we will remember life of Emmy Noether, discussing 
 
 **Date:** March 14, 2019
 
+[Click here for the slideshow!](https://lambdadps.github.io/seminars/pdf/19-03-14.pdf)
+
 ### Mathematical Proofs
 #### Applications on Physics and Discourse in General
 
@@ -242,6 +259,8 @@ In the first part of the talk we will remember life of Emmy Noether, discussing 
 **Résumé:** He graduated from high school in 2015 and started his bachelor's degree in the following year. He is currently being advised by Prof. Rodrigo Bissacot (IME-USP) and takes interest in statistical mechanics under a mathematical physics approach, as well as combinatorics and graph theory.
 
 **Date:** March 07, 2019
+
+[Click here for the slideshow!](https://lambdadps.github.io/seminars/pdf/19-03-07.pdf)
 
 ### From Ebony to Ivory
 #### Fourier Transforms and their applications to PDEs
@@ -254,7 +273,7 @@ In the first part of the talk we will remember life of Emmy Noether, discussing 
 
 **Date:** February 28, 2019
 
-**Remark:** This seminar will happen at Room 2022, due to the registration of freshmen students that will be happening at the Institute
+[Click here for the slideshow!](https://lambdadps.github.io/seminars/pdf/19-02-28.pdf)
 
 ### Representing Symmetry
 #### The Dynamics of the Universe
@@ -286,6 +305,8 @@ In the first part of the talk we will remember life of Emmy Noether, discussing 
 **Résumé:** He started his undergraduate degree on Physics at the Institute of Physics of the University of São Paulo in 2017. Currently, he's enrolled on a research project entitled "Fluid Computational Simulation with SPH Method" under the advisement of Professor Dr. Frederique M. S. Grassi.
 
 **Date:** November 07, 2018
+
+[Click here for the slideshow!](https://lambdadps.github.io/seminars/pdf/18-11-07.pdf)
 
 ### What is the Cosmos?
 
@@ -331,3 +352,5 @@ In these conditions, we have as our only resouce the methods of approximation an
 **Résumé:** He has graduated from high school in 2016, having started a Bachelor's degree in Physics at the Institute of Physics of the University of São Paulo (IFUSP) in 2017. At the Institute, he has been organizing some extension events aimed mainly at the undergraduate students. Has been advised by Prof. Dr. João Carlos Alves Barata (FMA-IFUSP) since January 2018.
 
 **Date:** October 3, 2018
+
+[Click here for the slideshow!](https://lambdadps.github.io/seminars/pdf/18-10-03.pdf)
