@@ -1,6 +1,6 @@
 ## Frequently Asked Questions
 
-Check our list of Frequently Asked Questions to know if your doubt has already been answered. If not, you can send an e-mail to alves.nickolas@ufabc.edu.br.
+Check our list of Frequently Asked Questions to know if your doubt has already been answered. If not, you can send an e-mail to [alves.nickolas@ufabc.edu.br](mailto:alves.nickolas@ufabc.edu.br).
 
 - Who can attend the seminars?
 
@@ -16,7 +16,7 @@ Physics or a closely related topic. Talks on Physics Education, Mathematics, Ast
 
 - How can I submit a seminar?
 
-Fill the form in the "Submit" tab. It will ask you for some information about you (your name, e-mail, etc) and your presentation (title, abstract, language, etc). Your subscription will be analised and you shall receive a response within three days.
+Contact us in any way you prefer. You can send us a message on social media, talk to one of our members or send an e-mail to [alves.nickolas@ufabc.edu.br](mailto:alves.nickolas@ufabc.edu.br).
 
 - I am going to speak in portuguese during my presentation. Should my abstract, slideshow or notes be in english?
 
