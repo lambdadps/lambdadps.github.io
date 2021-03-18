@@ -4,25 +4,14 @@
 
 **Abstract:** To be announced
 
-**Speaker:** [Thiago Costa Raszeja](http://lattes.cnpq.br/3233356285345259), IME-USP (PhD)
+**Speaker:** [Théo Louzada Meireles](http://lattes.cnpq.br/2508816340684081), DFEP-IFUSP
 
-**Résumé:** To be announced
-
-**Date:** March 18, 2021
-
-
-### To be announced
-
-**Abstract:** To be announced
-
-**Speaker:** [Thiago Costa Raszeja](http://lattes.cnpq.br/3233356285345259), IME-USP (PhD)
-
-**Résumé:** To be announced
+**Résumé:** Physics undergrad at the physics institute at the University of São Paulo (USP). Has experience in the study of turbulence in magneticaly confined plasmas. Currently works with quantum optics and atomic physics applied to manipulation of quantum information at LMCAL-USP.
 
 **Date:** March 25, 2021
 
 
-### To be announced
+### Physics of Societies
 
 **Abstract:** We will present the paper [Consensus Formation Times in Anisotropic Societies](https://doi.org/10.1103/PhysRevE.95.062305), in which Juan Neirotti developed a statistical mechanics model to study the emergence of a consensus in societies of adapting, interacting agents constrained by a social rule B. In the mean-field approximation, we find that if the agents' interaction H0 is weak, all agents adapt to the social rule B, with which they form a consensus; however, if
 the interaction is sufficiently strong, a consensus is built against the established status quo.
