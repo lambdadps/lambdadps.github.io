@@ -1,8 +1,8 @@
 ## Upcoming Seminars
 
-### To be announced
+### What does speed have to do with the size of a Burst?
 
-**Abstract:** To be announced
+**Abstract:**  Many hope that magnetically confined tokamak plasmas can become a source of energy in the future through the fusion process. However, there is still much to be developed before that. One necessary thing is to ensure good confinement for plasmas, which is difficult due to turbulence. At the plasma edge in these devices there are coherent, high-density structures called Bursts that cause an anomalous phenomenon where we have a much greater loss of particles than expected by diffusive effects. In this presentation I will discuss the process (with an unusual use of least square method) and the results of my work where I analyzed the hypothesis to improved confinement that when breaking a burst they would travel more slowly, thus improve the confinement.
 
 **Speaker:** [Théo Louzada Meireles](http://lattes.cnpq.br/2508816340684081), DFEP-IFUSP
 
