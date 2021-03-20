@@ -10,7 +10,7 @@
 
 **Date:** March 25, 2021
 
-**Meeting link:** 
+**Meeting:** [Click here for the Google Meet link!](https://calendar.google.com/event?action=TEMPLATE&tmeid=MXQ4NWhrcm5wNWR2ZDYwNTJoczlxbmxuMWkgYWx2ZXMubmlja29sYXNAYWx1bW5pLnVzcC5icg&tmsrc=alves.nickolas%40alumni.usp.br)
 
 ### Physics of Societies
 
