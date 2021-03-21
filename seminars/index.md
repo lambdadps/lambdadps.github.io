@@ -13,7 +13,7 @@ You can also check our seminar agenda [here](https://calendar.google.com/calenda
 
 **Date:** March 25, 2021
 
-**Meeting:** [Click here for the Google Meet link!](https://meet.google.com/osy-uwau-pqw)
+**Meet us at:** [Click here for the Google Meet link](https://meet.google.com/osy-uwau-pqw) or [add it to your Google Calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=MXQ4NWhrcm5wNWR2ZDYwNTJoczlxbmxuMWkgdWpiM2psYmQ3YXJkYWVobXMzbG84aXZpbzRAZw&tmsrc=ujb3jlbd7ardaehms3lo8ivio4%40group.calendar.google.com).
 
 ### Physics of Societies
 
