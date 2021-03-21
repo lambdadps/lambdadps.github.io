@@ -1,6 +1,6 @@
 # Projects
 
-Here you may find a list of the projects the Dead Physicists is currently maintaining. Some of these are in Portuguese and some are in English. We leave the descriptions in agreement with the project’s language. 
+Here you may find an imcomplete list of the Dead Physicists Society current and old projects. Some of these are in Portuguese and some are in English. We leave the descriptions in agreement with the project’s language. 
 
 ## Escola Jayme Tiomno de Física Teórica
 
