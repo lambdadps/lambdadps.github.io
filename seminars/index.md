@@ -35,3 +35,17 @@ the interaction is sufficiently strong, a consensus is built against the establi
 **Résumé:** To be announced
 
 **Date:** April 08, 2021
+
+
+
+### To be announced
+
+**Abstract:** To be announced
+
+**Speaker:** [Vinícius Silva Franção](http://lattes.cnpq.br/2740065021564950), DFMA-IFUSP
+
+**Résumé:** To be announced
+
+**Date:** April 22, 2021
+
+**Remark:** This seminar will happen at 16h30 BRT instead of the usual 14h00 BRT
