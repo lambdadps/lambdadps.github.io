@@ -38,7 +38,7 @@ the interaction is sufficiently strong, a consensus is built against the establi
 
 
 
-### To be announced
+### Statistical Quantum Correlations in Many-Particle Systems
 
 **Abstract:** To be announced
 
