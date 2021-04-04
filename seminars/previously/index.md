@@ -2,6 +2,17 @@
 
 Here you can find the previous Dead Physicists Society seminars! 
 
+
+### What does speed have to do with the size of a burst?
+
+**Abstract:**  Many hope that magnetically confined plasmas can become a source of energy in the future through the fusion process. However, there is still much to be developed before that. One necessary thing is to ensure good confinement for plasmas, which is difficult due to turbulence. At the plasma edge in these devices there are coherent, high-density structures called Bursts that cause an anomalous phenomenon where we have a much greater loss of particles than expected by diffusive effects. In this presentation I will discuss the process (with an unusual use of least square method) and the results of my work where I analyzed the hypothesis to improved confinement that when breaking a burst they would travel more slowly, thus improve the confinement.
+
+**Speaker:** [Théo Louzada Meireles](http://lattes.cnpq.br/2508816340684081), DFEP-IFUSP
+
+**Résumé:** Physics undergrad at the physics institute at the University of São Paulo (USP). Has experience in the study of turbulence in magneticaly confined plasmas. Currently works with quantum optics and atomic physics applied to manipulation of quantum information at LMCAL-USP.
+
+**Date:** March 25, 2021
+
 ### Bootstrap: O Espaço das Teorias Físicas
 
 Para retomar os seminários da Dead Physicists Society em 2020, receberemos um seminário especial nesta sexta-feira, dia 06 de março, às 12h! Venha assistir o Professor Pedro Vieira nos contar sobre Bootstrap: O Espaço das Teorias Físicas!
