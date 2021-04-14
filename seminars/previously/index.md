@@ -2,6 +2,15 @@
 
 Here you can find the previous Dead Physicists Society seminars! 
 
+### Python for Data Analysis in Experimental Physics
+
+**Abstract:** Declare your freedom from the softwares used for experimental physics data analysis. Many undergrads are completely dependent on softwares that can limit their analysis, and Python is way more flexible and complete to any purpose. You'll be introduced to the main libraries and methods for data analysis with focus on experimental physics and then you'll finally be capable of fitting a model. Nowadays one of the most common and finest approaches to data analysis is Python and it's libraries. Hence, this seminar is a must to everyone interested in data science and computational approach to physics.
+
+**Speaker:** Rodrigo da Motta, IFUSP and IFGW
+
+**Résumé:** Physics undergrad at University of São Paulo (USP). Interested in Statistical Physics, Neuroscience and Data Science. Currently being advised by Rickson C. Mesquita on Computational Neuroscience.
+
+**Date:** April 08, 2021
 
 ### What does speed have to do with the size of a burst?
 
