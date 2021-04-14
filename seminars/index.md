@@ -4,7 +4,7 @@ For the Zoom link to the weekly seminar, send us an email at [lambdadps@gmail.co
 
 ### Correlações Estatísticas Quânticas em Sistemas de Muitas Partículas
 
-**Resumo:** A natureza probabilística da mecânica quântica possibilita, através do estudo de distribuições para eventos, a análise de sistemas microscópicos com o que chamamos de função de correlação. Construindo o formalismo necessário para esse estudo, veremos como utilizá-lo para caracterizar fontes de emissão de partículas quaisquer através das correlações de pares de partículas emitidas, técnica conhecida como Interferometria HBT. Vamos ver como a natureza bosônica e fermiônica da matéria afetam essa função de correlação e a importância do método no estudo da produção do plasma de quarks e glúons nas colisões de íons pesado.
+**Resumo:** A natureza probabilística da mecânica quântica possibilita, através do estudo de distribuições para eventos, a análise de sistemas microscópicos com o que chamamos de função de correlação. Construindo o formalismo necessário para esse estudo, veremos como utilizá-lo para caracterizar fontes de emissão de partículas quaisquer através das correlações de pares de partículas emitidas, técnica conhecida como Interferometria HBT. Vamos ver como a natureza bosônica e fermiônica da matéria afetam essa função de correlação e a importância do método no estudo da produção do plasma de quarks e glúons nas colisões de íons pesados.
 
 **Palestrante:** [Vinícius Silva Franção](http://lattes.cnpq.br/2740065021564950), DFMA-IFUSP
 
