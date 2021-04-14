@@ -8,11 +8,11 @@ For the Zoom link to the weekly seminar, send us an email at [lambdadps@gmail.co
 
 **Palestrante:** [Vinícius Silva Franção](http://lattes.cnpq.br/2740065021564950), DFMA-IFUSP
 
-**Currículo:** Em breve
+**Currículo:** Sou bacharel em física e doutorando no Instituto de Física da USP. Atualmente trabalho com modelos fenomenológicos para descrição de colisões de íons pesados a altas velocidades em aceleradores de partículas com o objetivo de estudar a formação e a evolução de plasma de quarks e glúons. Utilizo técnicas de interferometria de partículas e simulações computacionais para estudar esses sistemas. Também tenho algum interesse no estudo de física de partículas elementares, gravitação e cosmologia, principalmente no que diz respeito a física além do modelo padrão.
 
 **Data:** 22 de abril de 2021
 
-**Observação:** Este seminário ocorrerá às 16h30 (horário de Brasilía) ao invés das 14h00 (horário de Brasília) usuais
+**Observação:** Este seminário ocorrerá às 16h30 (horário de Brasilía) ao invés das 14h00 (horário de Brasília) usuais.
 
 **Nos encontre em:** envie um e-mail para [lambdadps@gmail.com](mailto:lambdadps@gmail.com) solicitando o link para a reunião no Zoom.
 
