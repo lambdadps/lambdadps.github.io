@@ -12,9 +12,9 @@ For the Zoom link to the weekly seminar, send us an email at [lambdadps@gmail.co
 
 **Data:** 22 de abril de 2021
 
-**Observação:** Este seminário ocorrerá às 16h30 (horário de Brasilía) ao invés das 14h00 (horário de Brasília) usuais.
+**Observação:** Este seminário ocorrerá às 16h30 (horário de Brasilía) ao invés das 14h00 (horário de Brasília) usuais
 
-**Nos encontre em:** envie um e-mail para [lambdadps@gmail.com](mailto:lambdadps@gmail.com) solicitando o link para a reunião no Zoom.
+**Nos encontre em:** envie um e-mail para [lambdadps@gmail.com](mailto:lambdadps@gmail.com) solicitando o link para a reunião no Zoom
 
 ### Physics of Societies
 
@@ -25,7 +25,7 @@ the interaction is sufficiently strong, a consensus is built against the establi
 
 **Résumé:** Currently he is an undergraduate student in Molecular Sciences at University of São Paulo (USP) with major in Physics. He is interested in Theoretical Physics, particularly in Neural Networks, Statistical Mechanics and Information Theory, being advised by Prof. Nestor Caticha (DFGE-IFUSP) on the topic.
 
-**Date:** To be announced
+**Date:** April 29, 2021
 
 
 ### To be announced
