@@ -2,19 +2,19 @@
 
 For the Zoom link to the weekly seminar, send us an email at [lambdadps@gmail.com](mailto:lambdadps@gmail.com).
 
-### Statistical Quantum Correlations in Many-Particle Systems
+### Correlações Estatísticas Quânticas em Sistemas de Muitas Partículas
 
-**Abstract:** To be announced
+**Resumo:** Em breve
 
-**Speaker:** [Vinícius Silva Franção](http://lattes.cnpq.br/2740065021564950), DFMA-IFUSP
+**Palestrante:** [Vinícius Silva Franção](http://lattes.cnpq.br/2740065021564950), DFMA-IFUSP
 
-**Résumé:** To be announced
+**Currículo:** Em breve
 
-**Date:** April 22, 2021
+**Data:** 22 de abril de 2021
 
-**Remark:** This seminar will happen at 16h30 BRT instead of the usual 14h00 BRT
+**Observação:** Este seminário ocorrerá às 16h30 (horário de Brasilía) ao invés das 14h00 (horário de Brasília) usuais
 
-**Meet us at:** send an e-mail to [lambdadps@gmail.com](mailto:lambdadps@gmail.com) to ask for the Zoom link.
+**Nos encontre em:** envie um e-mail para [lambdadps@gmail.com](mailto:lambdadps@gmail.com) solicitando o link para a reunião no Zoom.
 
 ### Physics of Societies
 
