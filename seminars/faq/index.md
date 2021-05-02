@@ -1,6 +1,6 @@
 ## Frequently Asked Questions
 
-Check our list of Frequently Asked Questions to know if your doubt has already been answered. If not, you can send an e-mail to [alves.nickolas@ufabc.edu.br](mailto:alves.nickolas@ufabc.edu.br).
+Check our list of Frequently Asked Questions to know if your doubt has already been answered. If not, you can send an e-mail to [lambdadps@gmail.com](mailto:lambdadps@gmail.com).
 
 - Who can attend the seminars?
 
@@ -16,7 +16,7 @@ Physics or a closely related topic. Talks on Physics Education, Mathematics, Ast
 
 - How can I submit a seminar?
 
-Contact us in any way you prefer. You can send us a message on social media, talk to one of our members or send an e-mail to [alves.nickolas@ufabc.edu.br](mailto:alves.nickolas@ufabc.edu.br).
+Contact us in any way you prefer. You can send us a message on social media, talk to one of our members or send an e-mail to [lambdadps@gmail.com](mailto:lambdadps@gmail.com).
 
 - I am going to speak in portuguese during my presentation. Should my abstract, slideshow or notes be in english?
 
