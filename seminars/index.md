@@ -23,4 +23,4 @@ For the Zoom link to the weekly seminar, send us an email at [lambdadps@gmail.co
 
 **Date:** May 20, 2021
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScu0v8RB5WtfGVGbAk_GbxwkXBS4rWCF7U_g5ZueaQBd_o8gg/viewform?embedded=true" width="640" height="550" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScu0v8RB5WtfGVGbAk_GbxwkXBS4rWCF7U_g5ZueaQBd_o8gg/viewform?embedded=true" width="640" height="575" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
