@@ -1,8 +1,6 @@
 ## Upcoming Seminars
 
-For the Zoom link to the weekly seminar, send us an email at [lambdadps@gmail.com](mailto:lambdadps@gmail.com). Consider signing our newsletter to receive information about our seminars by e-mail!
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScu0v8RB5WtfGVGbAk_GbxwkXBS4rWCF7U_g5ZueaQBd_o8gg/viewform?embedded=true" width="640" height="527" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+For the Zoom link to the weekly seminar, send us an email at [lambdadps@gmail.com](mailto:lambdadps@gmail.com). Consider signing our newsletter to receive information about our seminars by e-mail by filling the form at the end of the page!
 
 ### Em breve
 
@@ -24,3 +22,5 @@ For the Zoom link to the weekly seminar, send us an email at [lambdadps@gmail.co
 **Résumé:** To be announced
 
 **Date:** May 20, 2021
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScu0v8RB5WtfGVGbAk_GbxwkXBS4rWCF7U_g5ZueaQBd_o8gg/viewform?embedded=true" width="640" height="550" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
