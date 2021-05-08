@@ -25,7 +25,7 @@
             <div class="dropdown-content">
               {% for workshop in site.workshops %}
                 {% if workshop.eventcode contains 'jayme3' %}
-                  <a href="{{ workshop.url }}">{{ workshop.shortname }}</a>
+                  <a href="{{ workshop.url }}">{{ workshop.shortname | default: workshop.title }}</a>
                 {% endif %}
               {% endfor %}
             </div>
