@@ -1,10 +1,10 @@
 ---
 schedule: 16h às 18h (BRT)
-lecturer: Nathan Berkovits (IFT-Unesp, ICTP-SAIFR)
+lecturer: Prof. Dr. Nathan Berkovits (IFT-Unesp, ICTP-SAIFR)
 eventcode: jayme3
 ---
 
-**Ministrante:** [Nathan Berkovits](http://lattes.cnpq.br/7565192274317470) ([IFT-Unesp](https://www.ift.unesp.br/), [ICTP-SAIFR](https://www.ictp-saifr.org/))
+**Ministrante:** [Prof. Dr. Nathan Berkovits](http://lattes.cnpq.br/7565192274317470) ([IFT-Unesp](https://www.ift.unesp.br/), [ICTP-SAIFR](https://www.ictp-saifr.org/))
 
 **Horário:** 16h às 18h (BRT)
 
