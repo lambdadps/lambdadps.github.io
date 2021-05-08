@@ -1,11 +1,16 @@
 theme: jekyll-theme-midnight
 title: Dead Physicists Society
 description: 
+
+jayme3title: III Escola Jayme Tiomno de Física Teórica
+
 github:
   is_project_page: false
+
 collections:
   workshops:
     output: true
+    
 defaults:
   - scope:
       path: ""
