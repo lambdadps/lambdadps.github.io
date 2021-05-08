@@ -13,7 +13,7 @@ eventcode: jayme3
 **Resumo:** O curso visa a introduzir temas relevantes na área de física do estado sólido, em especial técnicas relacionadas ao modelo tight-biding.
 Serão desenvolvidas técnicas computacionais e analíticas para resolução de problemas de relevância em pesquisa.
 
-**Conteúdo:** Redes de Bravais, Teorema de Bloch, Bandas, Tight-biding, Introdução a segunda quantização, Magnetismo e Supercondutividade.
+**Conteúdo:** Redes de Bravais, Teorema de Bloch, Bandas, Tight-biding, Introdução à segunda quantização, Magnetismo e Supercondutividade.
 
 **Pré-requisitos:** [Mecânica Quântica I](https://uspdigital.usp.br/jupiterweb/obterDisciplina?nomdis=&sgldis=4302403).
 
