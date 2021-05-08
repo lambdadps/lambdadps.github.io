@@ -1,6 +1,6 @@
 ---
 schedule: 19h -- 21h (BRT)
-lecturer: [Níckolas de Aguiar Alves](http://lattes.cnpq.br/4933609438452718) ([UFABC](fisica.ufabc.edu.br))
+lecturer: Níckolas de Aguiar Alves (UFABC)
 eventcode: jayme3
 ---
 
