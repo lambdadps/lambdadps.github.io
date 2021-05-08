@@ -1,5 +1,6 @@
 ---
 title: Introdução à Teoria de Gauge Matemática
+shortname: Teoria de Gauge
 schedule: 14h às 16h (BRT)
 lecturer: Patrícia Ewald (IME-USP, University of Texas at Austin)
 eventcode: jayme3
