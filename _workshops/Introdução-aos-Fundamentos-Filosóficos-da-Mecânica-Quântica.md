@@ -10,12 +10,7 @@ eventcode: jayme3
 
 **Carga Horária Total:** 8h
 
-**Descrição:** Não obstante a teoria quântica ser hoje a base formal em cujos termos toda a atividade da física teórica se dá, não há consenso entre físicos 
-ou filósofos da física sobre o que o seu manifesto sucesso empírico nos diz sobre o mundo físico — se é que diz algo. Este curso introduzirá o estudante a alguns dos
-conceitos teóricos e filosóficos necessários para um entendimento básico dos principais problemas nos fundamentos da mecânica quântica (como o problema da
-medição e o debate sobre o status ontológico da função de onda). Para este fim, será necessário tornar explícitas as premissas e precisar os conceitos que definem
-a imagem de mundo da mecânica clássica, e fazer evidente a ruptura (ontológica, epistemológica) da física quântica com essa concepção. O conceito que servirá de 
-eixo diretor ao programa deste curso será o de observável.
+**Descrição:** Não obstante a teoria quântica ser hoje a base formal em cujos termos toda a atividade da física teórica se dá, não há consenso entre físicos  ou filósofos da física sobre o que o seu manifesto sucesso empírico nos diz sobre o mundo físico — se é que diz algo. Este curso introduzirá o estudante a alguns dos conceitos teóricos e filosóficos necessários para um entendimento básico dos principais problemas nos fundamentos da mecânica quântica (como o problema da medição e o debate sobre o status ontológico da função de onda). Para este fim, será necessário tornar explícitas as premissas e precisar os conceitos que definem a imagem de mundo da mecânica clássica, e fazer evidente a ruptura (ontológica, epistemológica) da física quântica com essa concepção. O conceito que servirá de eixo diretor ao programa deste curso será o de observável.
 
 **Pré-requisitos:** [Mecânica Quântica I](https://uspdigital.usp.br/jupiterweb/obterDisciplina?nomdis=&sgldis=4302403).
 
