@@ -47,7 +47,6 @@ Theory:
    <li><i>Introduction to QCD</i>, P. Skands, lecture notes from 2012 TASI course. <a href="https://arxiv.org/abs/1207.2389">Click here for the arXiv file</a>. </li>
    <li>(Adv) <i>Quarks & Leptons: An Introductory Course In Modern Particle Physics</i>, F. Halzen and A. Martin, Wiley. </li>
    <li>(Adv) <i>The Standard Model and Beyond</i>, P. Langacker. CRC Press. </li>
-</li>
  </ul>
 </div>
  
