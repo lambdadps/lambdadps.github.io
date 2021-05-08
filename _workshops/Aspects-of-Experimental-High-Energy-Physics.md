@@ -1,12 +1,12 @@
 ---
-schedule: 14h -- 16h (BRT)
+schedule: 14h às 16h (BRT)
 lecturer: Prof. Dr. Thiago Tomei (NCC-Unesp, IFT-Unesp)
 eventcode: jayme3
 ---
 
 **Ministrante:** [Prof. Dr. Thiago Tomei](http://lattes.cnpq.br/8046594106198115) ([NCC-Unesp](https://www2.unesp.br/portal#!/gridunesp), [IFT-Unesp](https://www.ift.unesp.br))
 
-**Horário:** 19h às 21h (BRT)
+**Horário:** 14h às 16h (BRT)
 
 **Abstract:** High Energy Physics (HEP) explores the elementary particles, which are the fundamental constituents of matter, and their interactions. Elementary particles are the underlying structure at the inner kernel of matter and, at the same time, plays an essential role in the evolution of the Universe. The last century has shown that collider accelerators have been among the most powerful tools used to explore the deep structure of matter that enabled the development of a universal quantum field theory – the standard model. HEP experiments led to important discoveries that go from the identification of heavy quarks, passing by the discovery of the W ± and Z 0 bosons, up to the breakthrough represented by the recent discovery of the Higgs boson at CERN. In this course, we will discuss some aspects of the field, with some bias with respect to the current work being done at the Large Hadron Collider.
 
@@ -45,9 +45,9 @@ Theory:
 <div style="text-align: justify">
  <ul>
   <li><i>Standard model: An Introduction</i>, S. F. Novaes, in <i>Proceedings of the 10th Jorge André Swieca Summer School of Particles and Fields</i>. <a href="https://arxiv.org/abs/hep-ph/0001283">Click here for the arXiv file</a>.
-   <li><i>Introduction to QCD</i>, P. Skands, <i>Lecture notes from 2012 TASI course</i>. <a href="https://arxiv.org/abs/1207.2389">Click here for the arXiv file</a>.
-   <li><i>(Adv) Quarks & Leptons: An Introductory Course In Modern Particle Physics</i>, F. Halzen and A. Martin, <i>Wiley.
-   <li><i>(Adv) The Standard Model and Beyond</i>, P. Langacker. <i>CRC Press.
+   <li><i>Introduction to QCD</i>, P. Skands, lecture notes from 2012 TASI course. <a href="https://arxiv.org/abs/1207.2389">Click here for the arXiv file</a>.
+   <li><i>(Adv) Quarks & Leptons: An Introductory Course In Modern Particle Physics</i>, F. Halzen and A. Martin, Wiley.
+   <li><i>(Adv) The Standard Model and Beyond</i>, P. Langacker. CRC Press.
 </li>
  </ul>
 </div>
@@ -56,12 +56,11 @@ Theory:
  
  <div style="text-align: justify">
  <ul>
-  <li><i>The Particle Detector BriefBook</i>, R. K. Bock and A. Vasilescu, <i>Springer. <a href= "http://physics.web.cern.ch/Physics/ParticleDetector/BriefBook/">
-   Click here for the file</a>.
-  <li><i>High P_T Physics at Hadron Colliders</i>, D. Green, <i>Cambridge. Chapters 2 and 3.
-  <li><i>(Adv) The Physics of Particle Detectors</i> D. Green, <i>Cambridge. Chapters 7 to 11.
-  <li><i>(Adv) Data Analysis Techniques for High‐Energy Physics</i> R. Frühwirth et.al., <i>Cambridge, Chapters 2 to 4.
-  <li><i>(Adv) Discovery of the Higgs Boson</i> A. Nisati and V. Sharma (editors), <i>World Scientific.
+  <li><i>The Particle Detector BriefBook</i>, R. K. Bock and A. Vasilescu, Springer. <a href= "http://physics.web.cern.ch/Physics/ParticleDetector/BriefBook/">Click here for the file</a>.
+  <li><i>High P_T Physics at Hadron Colliders</i>, D. Green, Cambridge. Chapters 2 and 3.
+  <li><i>(Adv) The Physics of Particle Detectors</i> D. Green, Cambridge. Chapters 7 to 11.
+  <li><i>(Adv) Data Analysis Techniques for High‐Energy Physics</i> R. Frühwirth et.al., Cambridge, Chapters 2 to 4.
+  <li><i>(Adv) Discovery of the Higgs Boson</i> A. Nisati and V. Sharma (editors), World Scientific.
 </li>
  </ul>
 </div>
@@ -70,8 +69,7 @@ Reinterpretation
 
  <div style="text-align: justify">
  <ul>
-  <li><i>(Adv) Reinterpretation of LHC results for new physics: status and recommendations after run 2</i>, The LHC BSM Reinterpretation Forum. <i> <a href= "https://scipost.org/10.21468/SciPostPhys.9.2.022">
-   Click here for the file</a>.
+  <li><i>(Adv) Reinterpretation of LHC results for new physics: status and recommendations after run 2</i>, The LHC BSM Reinterpretation Forum. <a href= "https://scipost.org/10.21468/SciPostPhys.9.2.022">Click here for the file</a>.
 </li>
  </ul>
 </div>
