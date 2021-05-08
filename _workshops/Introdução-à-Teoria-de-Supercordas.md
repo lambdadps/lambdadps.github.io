@@ -1,5 +1,6 @@
 ---
 title: Introdução à Teoria de Supercordas
+shortname: Supercordas
 schedule: 16h às 18h (BRT)
 lecturer: Prof. Dr. Nathan Berkovits (IFT-Unesp, ICTP-SAIFR)
 eventcode: jayme3
