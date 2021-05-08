@@ -1,4 +1,5 @@
 ---
+title: Introdução ao Efeito Casimir
 schedule: 16h às 18h (BRT)
 lecturer: Larissa Inácio (IF-UFRJ, Grupo de Flutuações Quânticas), Guilherme Costa (IF-UFRJ, Grupo de Flutuações Quânticas)
 eventcode: jayme3
