@@ -1,4 +1,5 @@
 ---
+title: Introdução aos Fundamentos Filosóficos da Mecânica Quântica
 schedule: 10h às 12h (BRT)
 lecturer: Diana Taschetto (Departamento de Filosofia, FFLCH-USP)
 eventcode: jayme3
