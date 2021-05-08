@@ -1,6 +1,6 @@
 # F.A.Q.
 
-Caso sua dúvida não esteja respondida abaixo, nos contate pelo e-mail [lambdadps@gmail.com](mailto:lambdadps@gmail.com).
+Caso sua dúvida não esteja entre as que estão listadas abaixo, nos contate pelo e-mail [lambdadps@gmail.com](mailto:lambdadps@gmail.com).
 
 <div style="text-align: justify">
 <ol>
