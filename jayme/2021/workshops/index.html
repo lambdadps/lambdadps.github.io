@@ -4,14 +4,8 @@ title: Workshops
 ---
 <h1>Workshops</h1>
 
-Headset Bluetooth
-
-<ul>
-  {% for workshop in site.workshops %}
-    <li>
-      <h2><a href="{{ workshop.url }}">{{ workshop.title }}</a></h2>
-      <p><b>Ministrante:</b> {{ workshop.lecturer }}</p>
-      <p><b>Horário:</b> {{ workshop.schedule }}</p>
-    </li>
-  {% endfor %}
-</ul>
+{% for workshop in site.workshops %}
+    <h2><a href="{{ workshop.url }}">{{ workshop.title }}</a></h2>
+    <p><b>Ministrante:</b> {{ workshop.lecturer }}</p>
+    <p><b>Horário:</b> {{ workshop.schedule }}</p>
+{% endfor %}
