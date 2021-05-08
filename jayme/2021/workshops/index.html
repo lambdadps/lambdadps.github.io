@@ -4,16 +4,14 @@ title: Workshops
 ---
 <h1>Workshops</h1>
 
-Mala postal direta
+Headset Bluetooth
 
 <ul>
   {% for workshop in site.workshops %}
-  {% if post.eventcode contains 'jayme3' %}
     <li>
       <h2><a href="{{ workshop.url }}">{{ workshop.title }}</a></h2>
       <p><b>Ministrante:</b> {{ workshop.lecturer }}</p>
       <p><b>Horário:</b> {{ workshop.schedule }}</p>
     </li>
-  {% endif %}
   {% endfor %}
 </ul>
