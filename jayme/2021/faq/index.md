@@ -10,12 +10,12 @@ Caso sua dúvida não esteja respondida abaixo, nos contate pelo e-mail [lambdad
 		<p>O público alvo da Escola são graduandos de Física e áreas correlatas (e.g. Astronomia, Matemática), mas as inscrições são abertas para todos que se interessarem.</p>
 	<li>Quais são os pré-requisitos?</li>			
 		<p>Cada workshop possui requisitos diferentes, sendo que é necessário observar a seção do workshop de interesse para obter informações melhores.</p>
+	<li>Haverá avaliação?</li>			
+		<p>Não, embora os ministrantes possam passar listas de exercícios opcionais.</p>
 	<li>Haverá certificação?</li>			
 		<p>Sim, os participantes inscritos nos workshops receberão certificação de horas, mediante presença em 75% das aulas.</p>
   <li>Por que é obrigatória a presença síncrona nas aulas para receber o certificado?</li>
     <p>Como os certificados não estão atrelados a qualquer avaliação, assistir às aulas síncronas é o único tipo de controle que pode ser feito para assegurar que os alunos de fato cumpriram as horas certificadas.</p>
-	<li>Haverá avaliação?</li>			
-		<p>Não, embora os professores possam passar listas de exercícios opcionais.</p>
 	<li>Não tenho os requisitos para o curso em que tenho interesse, isso é muito prejudicial ou ainda posso tentar assistir às aulas?</li>	
 		<p>Não será exigido que os alunos tenham os requisitos para se inscrever nos cursos. Workshops distintos podem ter níveis de dificuldade distintos com relação à necessidade dos requisitos.</p>
 	<li>Os certificados de horas que serão entregues são individuais para cada workshop?</li>	
