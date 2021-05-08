@@ -1,5 +1,5 @@
 ---
-schedule: 19h -- 21h (BRT)
+schedule: 19h às 21h (BRT)
 lecturer: Caroline Guandalin (DFMA-IFUSP), Francisco Maion (DFMA-IFUSP)
 ---
 
