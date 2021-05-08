@@ -2,6 +2,7 @@
 
 Caso sua dúvida não esteja respondida abaixo, nos contate pelo e-mail [lambdadps@gmail.com](mailto:lambdadps@gmail.com).
 
+<div style="text-align: justify">
 <ol>
 	<li>É preciso pagar para se inscrever?</li>			
 		<p>Não, a inscrição é gratuita.</p>
@@ -24,3 +25,4 @@ Caso sua dúvida não esteja respondida abaixo, nos contate pelo e-mail [lambdad
 	<li>Os cursos serão gravados e disponibilizados ao público após a escola?</li>			
 		<p>A critério do ministrante de cada curso, sendo que a <a href="https://lambdadps.github.io" target="_blank">DPS</a> disponibilizará seu <a href="https://www.youtube.com/channel/UCPntaDiZZa1OIGiAUssJTxQ" target="_blank">canal no YouTube</a> para hospedar as aulas que forem gravadas.</p>
 </ol>
+</div>
