@@ -1,7 +1,6 @@
 ---
 schedule: 19h -- 21h (BRT)
 lecturer: Caroline Guandalin (DFMA-IFUSP), Francisco Maion (DFMA-IFUSP)
-eventcode: jayme3
 ---
 
 **Ministrante:** [Caroline Guandalin](http://lattes.cnpq.br/8046594106198115) ([DFMA-IFUSP](http://portal.if.usp.br/fma/pt-br/in%C3%ADcio-departamento-de-f%C3%ADsica-matem%C3%A1tica), [IFT-Unesp](https://www.ift.unesp.br))
