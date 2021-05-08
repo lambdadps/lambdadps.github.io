@@ -1,5 +1,6 @@
 ---
 title: Aspects of Experimental High Energy Physics
+shortname: Aspects of Exp. HEP
 schedule: 14h às 16h (BRT)
 lecturer: Prof. Dr. Thiago Tomei (NCC-Unesp, IFT-Unesp)
 eventcode: jayme3
