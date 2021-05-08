@@ -5,7 +5,9 @@ title: Workshops
 <h1>Workshops</h1>
 
 {% for workshop in site.workshops %}
+    {% if workshop.eventcode contains 'jayme3' %}
     <h2><a href="{{ workshop.url }}">{{ workshop.title }}</a></h2>
     <p><b>Ministrante:</b> {{ workshop.lecturer }}</p>
     <p><b>Horário:</b> {{ workshop.schedule }}</p>
+    {% endif %}
 {% endfor %}
