@@ -21,7 +21,15 @@
       <div>
         <nav id="Menu">
           <a href="{{ site.url }}/jayme/2021"><button class="navbutton">Home</button></a>
-          <a href="{{ site.url }}/jayme/2021/workshops"><button class="navbutton">Workshops</button></a>
+          <div class="dropdown"><a href="{{ site.url }}/jayme/2021/workshops"><button class="dropbtn">Workshops</button></a>
+            <div class="dropdown-content">
+              {% for workshop in site.workshops %}
+                {% if workshop.eventcode contains 'jayme3' %}
+                  <a href="{{ workshop.url }}">{{ workshop.title }}</a>
+                {% endif %}
+              {% endfor %}
+            </div>
+          </div>
           <a href="{{ site.url }}/jayme/2021/faq"><button class="navbutton">F.A.Q.</button></a>
           <a href="{{ site.url }}/jayme/2021/inscricoes"><button class="navbutton">Inscrições</button></a>
           <a href="{{ site.url }}"><button class="navbutton">DPS</button></a>
