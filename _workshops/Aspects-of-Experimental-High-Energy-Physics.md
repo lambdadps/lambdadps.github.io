@@ -35,8 +35,7 @@ Items with an (Adv) tag are advanced references.
 
 <div style="text-align: justify">
  <ul>
-  <li><i>Particle Physics: A Very Short Introduction</i>, F. Close. Springer.
-</li>
+  <li><i>Particle Physics: A Very Short Introduction</i>, F. Close. Springer.</li>
  </ul>
 </div>
 
@@ -44,33 +43,31 @@ Theory:
 
 <div style="text-align: justify">
  <ul>
-  <li><i>Standard model: An Introduction</i>, S. F. Novaes, in <i>Proceedings of the 10th Jorge André Swieca Summer School of Particles and Fields</i>. <a href="https://arxiv.org/abs/hep-ph/0001283">Click here for the arXiv file</a>.
-   <li><i>Introduction to QCD</i>, P. Skands, lecture notes from 2012 TASI course. <a href="https://arxiv.org/abs/1207.2389">Click here for the arXiv file</a>.
-   <li>(Adv) <i>Quarks & Leptons: An Introductory Course In Modern Particle Physics</i>, F. Halzen and A. Martin, Wiley.
-   <li>(Adv) <i>The Standard Model and Beyond</i>, P. Langacker. CRC Press.
+  <li><i>Standard model: An Introduction</i>, S. F. Novaes, in <i>Proceedings of the 10th Jorge André Swieca Summer School of Particles and Fields</i>. <a href="https://arxiv.org/abs/hep-ph/0001283">Click here for the arXiv file</a>. </li>
+   <li><i>Introduction to QCD</i>, P. Skands, lecture notes from 2012 TASI course. <a href="https://arxiv.org/abs/1207.2389">Click here for the arXiv file</a>. </li>
+   <li>(Adv) <i>Quarks & Leptons: An Introductory Course In Modern Particle Physics</i>, F. Halzen and A. Martin, Wiley. </li>
+   <li>(Adv) <i>The Standard Model and Beyond</i>, P. Langacker. CRC Press. </li>
 </li>
  </ul>
 </div>
  
  Experiment:
  
- <div style="text-align: justify">
+<div style="text-align: justify">
  <ul>
-  <li><i>The Particle Detector BriefBook</i>, R. K. Bock and A. Vasilescu, Springer. <a href= "http://physics.web.cern.ch/Physics/ParticleDetector/BriefBook/">Click here for the file</a>.
-  <li><i>High P_T Physics at Hadron Colliders</i>, D. Green, Cambridge. Chapters 2 and 3.
-  <li>(Adv) <i>The Physics of Particle Detectors</i> D. Green, Cambridge. Chapters 7 to 11.
-  <li>(Adv) <i>Data Analysis Techniques for High‐Energy Physics</i> R. Frühwirth et.al., Cambridge, Chapters 2 to 4.
-  <li>(Adv) <i>Discovery of the Higgs Boson</i> A. Nisati and V. Sharma (editors), World Scientific.
-</li>
+  <li><i>The Particle Detector BriefBook</i>, R. K. Bock and A. Vasilescu, Springer. <a href= "http://physics.web.cern.ch/Physics/ParticleDetector/BriefBook/">Click here for the file</a>. </li>
+  <li><i>High P_T Physics at Hadron Colliders</i>, D. Green, Cambridge. Chapters 2 and 3. </li>
+  <li>(Adv) <i>The Physics of Particle Detectors</i> D. Green, Cambridge. Chapters 7 to 11. </li>
+  <li>(Adv) <i>Data Analysis Techniques for High‐Energy Physics</i> R. Frühwirth et.al., Cambridge, Chapters 2 to 4. </li>
+  <li>(Adv) <i>Discovery of the Higgs Boson</i> A. Nisati and V. Sharma (editors), World Scientific.</li>
  </ul>
 </div>
    
 Reinterpretation
 
- <div style="text-align: justify">
+<div style="text-align: justify">
  <ul>
-  <li>(Adv) <i>Reinterpretation of LHC results for new physics: status and recommendations after run 2</i>, The LHC BSM Reinterpretation Forum. <a href= "https://scipost.org/10.21468/SciPostPhys.9.2.022">Click here for the file</a>.
-</li>
+  <li>(Adv) <i>Reinterpretation of LHC results for new physics: status and recommendations after run 2</i>, The LHC BSM Reinterpretation Forum. <a href= "https://scipost.org/10.21468/SciPostPhys.9.2.022">Click here for the file</a>.</li>
  </ul>
 </div>
 
