@@ -4,5 +4,5 @@ description:
 github:
   is_project_page: false
 collections:
-  authors:
+  workshops:
     output: true
