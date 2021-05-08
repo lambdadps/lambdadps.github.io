@@ -1,49 +1,35 @@
 ---
 schedule: 19h às 21h (BRT)
 lecturer: Caroline Guandalin (DFMA-IFUSP), Francisco Maion (DFMA-IFUSP)
+eventcode: jayme3
 ---
 
-**Ministrante:** [Caroline Guandalin](http://lattes.cnpq.br/8046594106198115) ([DFMA-IFUSP](http://portal.if.usp.br/fma/pt-br/in%C3%ADcio-departamento-de-f%C3%ADsica-matem%C3%A1tica), [IFT-Unesp](https://www.ift.unesp.br))
+**Ministrante:** [Caroline Guandalin](http://lattes.cnpq.br/8046594106198115) ([DFMA-IFUSP](http://portal.if.usp.br/fma/pt-br/in%C3%ADcio-departamento-de-f%C3%ADsica-matem%C3%A1tica)), [Francisco Maion](http://lattes.cnpq.br/2700312947001086) ([DFMA-IFUSP](http://portal.if.usp.br/fma/pt-br/in%C3%ADcio-departamento-de-f%C3%ADsica-matem%C3%A1tica))
 
 **Horário:** 19h às 21h (BRT)
 
-**Abstract:** High Energy Physics (HEP) explores the elementary particles, which are the fundamental constituents of matter, and their interactions. Elementary particles are the underlying structure at the inner kernel of matter and, at the same time, plays an essential role in the evolution of the Universe. The last century has shown that collider accelerators have been among the most powerful tools used to explore the deep structure of matter that enabled the development of a universal quantum field theory – the standard model. HEP experiments led to important discoveries that go from the identification of heavy quarks, passing by the discovery of the W ± and Z 0 bosons, up to the breakthrough represented by the recent discovery of the Higgs boson at CERN. In this course, we will discuss some aspects of the field, with some bias with respect to the current work being done at the Large Hadron Collider.
+**Carga Horária Total:** 8h
 
-**Syllabus:**
+**Descrição:** A cosmologia é uma ciência madura e uma das áreas mais ativas da física moderna, sendo capaz de descrever uma ampla gama de fenômenos através de seu
+modelo padrão (conhecido como ΛCDM). Por ser uma ciência contida em escalas de distâncias e energias inatingíveis com experimentos locais, ela é capaz de explorar o limite de várias teorias, tais como a relatividade geral e o modelo padrão da física de partículas. Neste curso vamos apresentar os principais fundamentos teóricos e observacionais do modelo ΛCDM em aulas parcialmente auto-contidas, explorando de que forma eles contribuem para a sua formulação rigorosa, levando-nos a uma compreensão científica do Universo. 
+
+**Programa do curso:**
 <div style="text-align: justify">
  <ol>
-  <li>Introduction to the Standard Model: Quantum Field Theory. From Particles to Fields. Gauge Invariance. Quantum Electrodynamics. Quantum Chromodynamics. Electroweak Model. Hadronic Collisions.</li>
-  <li>Accelerators and Detectors: Collider vs Fixed Target. Linear Accelerators. Synchrotrons. Accelerator Components. Energy Loss of Charged Particles. Interactions of Photons. Interactions of Hadrons. Scintillators. Gas Chambers. Semiconductor Detectors. Trackers. Calorimeters. Multipurpose Detectors.</li>
-  <li>Data Reconstruction: 
-   <ol>
-    <li>Local Reconstruction: Calorimetry as Example. Readout. Response. Pulse Reconstruction. Energy Calibration.</li>
-    <li>Global Reconstruction: Tracking as Example. Motion in Magnetic Field. Methods of Track Finding. Elements of Track Fitting.</li>
-    <li>Global Event Description. Electron Reconstruction. Muon Reconstruction. Hadronic Jets. Online Reconstruction.</li>
-   </ol></li>
-  <li>Data Analysis: What Do We Actually Measure? Signal and Background. Machine Learning in Analysis. Cut-based Analyses. Background Estimation. Probability. Bayes' Theorem. Hypothesis Testing.</li>
-  <li>(Re-)Interpretation: Information provided by Experiments: Direct BSM Searches, Measurements and Open Data. Reinterpreation Methods. Public Tools. Global Fits fo LHC Data.</li>
+  <li>Observações.</li>
+  <li>Large Scale Structure.</li>
+  <li>Cosmic Microwave Background.</li>
+  <li>Inflação.</li>
  </ol>
 </div>
 
-**Prerequisites:** [Quantum Mechanics I](https://uspdigital.usp.br/jupiterweb/obterDisciplina?nomdis=&sgldis=4302403), [Electromagnetism I](https://uspdigital.usp.br/jupiterweb/obterDisciplina?nomdis=&sgldis=4302303), [Statistical data processing in Experimental Physics
-](https://uspdigital.usp.br/jupiterweb/obterDisciplina?nomdis=&sgldis=4300228), [Experimental Physics VI](https://uspdigital.usp.br/jupiterweb/obterDisciplina?nomdis=&sgldis=4302314).
+**Pré-requisitos:**  Variados - cada aula será independente. Aula 1: [Física I](https://uspdigital.usp.br/jupiterweb/obterDisciplina?nomdis=&sgldis=4302111) e [Física II](https://uspdigital.usp.br/jupiterweb/obterDisciplina?nomdis=&sgldis=4302112), Aula 2: [Cálculo Diferencial e Integral II](https://uspdigital.usp.br/jupiterweb/obterDisciplina?nomdis=&sgldis=MAT0121), Aula 3: [Física II](https://uspdigital.usp.br/jupiterweb/obterDisciplina?nomdis=&sgldis=4302112) e [Física Quântica](https://uspdigital.usp.br/jupiterweb/obterDisciplina?nomdis=&sgldis=4302311), Aula 4: Relatividade (noção de cone de luz, causalidade, etc)
 
-**Bibliography:**
-Items with an (Adv) tag are advanced references.
-
+**Bibliografia:**
 
 <div style="text-align: justify">
  <ul>
-  <li><i>Particle Physics: A Very Short Introduction</i>, F. Close. Springer.
-</li>
- </ul>
-</div>
-
-Theory:
-
-<div style="text-align: justify">
- <ul>
-  <li><i>Standard model: An Introduction</i>, S. F. Novaes, in <i>Proceedings of the 10th Jorge André Swieca Summer School of Particles and Fields</i>. <a href="https://arxiv.org/abs/hep-ph/0001283">Click here for the arXiv file</a>.
+  <li>Pessoa, A.,<i> Livro</i>, Editora.
 </li>
  </ul>
 </div>
