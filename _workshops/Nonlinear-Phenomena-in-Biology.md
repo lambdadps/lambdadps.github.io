@@ -10,14 +10,9 @@ eventcode: jayme3
 
 **Carga Horária Total:** 10h
 
-**Syllabus:** Biological systems are inherently stochastic and highly nonlinear. With a focus on ecological systems, this course will present a variety of 
-phenomena that may arise in biological systems due to these two properties, ranging from oscillations in the abundance of two interacting populations to the 
-formation of regular patterns in spatially extended systems. Guided by these paradigmatic examples, we will develop the mathematical framework needed to 
-formalize them and discuss how it could be extended to other scenarios.
+**Syllabus:** Biological systems are inherently stochastic and highly nonlinear. With a focus on ecological systems, this course will present a variety of  phenomena that may arise in biological systems due to these two properties, ranging from oscillations in the abundance of two interacting populations to the  formation of regular patterns in spatially extended systems. Guided by these paradigmatic examples, we will develop the mathematical framework needed to  formalize them and discuss how it could be extended to other scenarios.
 
-**Prerequisites:** Previous knowledge of differential calculus is very needed. Knowing about ODEs and basic probability (what a probability distribution 
-function is, what is a mean, a variance...) would be desirable. There is no prerequisites on the biology side, I'll guide the course through examples that 
-I will explain in the lectures.
+**Prerequisites:** Previous knowledge of differential calculus is very needed. Knowing about ODEs and basic probability (what a probability distribution  function is, what is a mean, a variance...) would be desirable. There is no prerequisites on the biology side, I'll guide the course through examples that  I will explain in the lectures.
 
 **Bibliography:** (there might be overlap between the content of some of the chapters).
 
