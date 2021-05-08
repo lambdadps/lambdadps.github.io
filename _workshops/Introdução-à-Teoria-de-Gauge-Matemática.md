@@ -25,7 +25,7 @@ Funcional de Yang-Mills, identidade de Bianchi e equação de Yang-Mills. O elet
 
 <div style="text-align: justify">
  <ul>
-   <li> L. W. Tu,<i> San introduction to manifolds,</i> Capítulo 1.</li>
+   <li> L. W. Tu,<i> An introduction to manifolds,</i> Capítulo 1.</li>
    <li> J. Baez, J. Munian, <i>Gauge fields, knots and gravity,</i> Partes I e II.</li>
    <li> R. W. R. Darling, <i>Differential forms and connections</i>.</li>
  </ul>
