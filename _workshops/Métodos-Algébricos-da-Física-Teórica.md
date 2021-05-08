@@ -1,8 +1,12 @@
 ---
-schedule: 19h -- 21h (BRT)
+schedule: 19h às 21h (BRT)
 lecturer: Níckolas de Aguiar Alves (UFABC)
 eventcode: jayme3
 ---
+
+**Ministrante:** [Níckolas de Aguiar Alves](http://lattes.cnpq.br/4933609438452718) ([UFABC](fisica.ufabc.edu.br))
+
+**Horário:** 19h às 21h (BRT)
 
 **Motivação:** Introdução ao uso de grupos, tensores e representações em Física Teórica, com particular ênfase em casos de interesse para a Relatividade, Mecânica
 Quântica e Física de Partículas. Nota-se que o objetivo é oferecer um curso de métodos matemáticos para Física Teórica, não um curso de Física-Matemática, e
