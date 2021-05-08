@@ -11,11 +11,12 @@ defaults:
       path: ""
       type: "workshops"
     values:
-      layout: "workshop"
+      layout: "workshop3"
   - scope:
-      path: "/jayme"
+      path: "jayme"
+      type: "pages"
     values:
-      layout: "jayme"      
+      layout: "jayme3"      
   - scope:
       path: ""
     values:
