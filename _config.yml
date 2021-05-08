@@ -6,3 +6,13 @@ github:
 collections:
   workshops:
     output: true
+defaults:
+  - scope:
+      path: ""
+      type: "workshops"
+    values:
+      layout: "workshop"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
