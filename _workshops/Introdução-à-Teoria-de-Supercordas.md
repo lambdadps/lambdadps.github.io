@@ -14,14 +14,16 @@ eventcode: jayme3
 
 **Programa do curso:**
 
+
+
 <div style="text-align: justify">
- <ul>
+ <ol>
   <li> Motivação, Partícula Relativística.</li>
    <li> Partícula com Spin, Supersimetria. </li>
    <li> Corda Bosônica. </li>
    <li> Supercorda. </li>
     <li> Aplicações das Supercordas. </li>
- </ul>
+ </ol>
 </div>
 
 **Pré-requisitos:** [Eletromagnetismo I](https://uspdigital.usp.br/jupiterweb/obterDisciplina?nomdis=&sgldis=4302303), [Mecânica Quântica I](https://uspdigital.usp.br/jupiterweb/obterDisciplina?nomdis=&sgldis=4302403),
