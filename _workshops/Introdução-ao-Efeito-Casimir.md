@@ -32,6 +32,8 @@ objetos acelerados no vácuo.
  </ul>
 </div>
 
+**Pré-requisitos:** [Física IV](https://uspdigital.usp.br/jupiterweb/obterDisciplina?nomdis=&sgldis=4302212), desejável [Mecânica Quântica I](https://uspdigital.usp.br/jupiterweb/obterDisciplina?nomdis=&sgldis=4302403)
+
 **Bibliografia:**
 
 <div style="text-align: justify">
@@ -43,4 +45,3 @@ objetos acelerados no vácuo.
  </ul>
 </div>
 
-**Requisitos:** [Física IV](https://uspdigital.usp.br/jupiterweb/obterDisciplina?nomdis=&sgldis=4302212), desejável [Mecânica Quântica I](https://uspdigital.usp.br/jupiterweb/obterDisciplina?nomdis=&sgldis=4302403)
