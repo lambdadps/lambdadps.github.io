@@ -2,11 +2,11 @@
 title: Nonlinear Phenomena in Biology
 shortname: Nonlinear Phen. in Biology
 schedule: 14h às 16h (BRT)
-lecturer: Dr. Ricardo Martínez-Garcia (ICTP-SAIFR)
+lecturer: Prof. Dr. Ricardo Martínez-Garcia (ICTP-SAIFR)
 eventcode: jayme3
 ---
 
-**Ministrante:** [Dr. Ricardo Martínez-Garcia](http://lattes.cnpq.br/0141480030649374) ([ICTP-SAIFR](https://www.ictp-saifr.org/))
+**Ministrante:** [Prof. Dr. Ricardo Martínez-Garcia](http://lattes.cnpq.br/0141480030649374) ([ICTP-SAIFR](https://www.ictp-saifr.org/))
 
 **Horário:** 14h às 16h (BRT)
 
@@ -38,9 +38,6 @@ eventcode: jayme3
    <li> Turing, Alan Mathison.,<i> The chemical basis of morphogenesis.</i> Bulletin of mathematical biology 52.1-2 (1990): 153-197.</li>
    <li> Fisher, Ronald Aylmer.,<i> The wave of advance of advantageous genes.</i> Annals of eugenics 7.4 (1937): 355-369. </li>
    <li>Black, Andrew J., and Alan J. McKane.,<i> Stochastic formulation of ecological models and their applications.</i> Trends in Ecology & Evolution 27.6 (2012): 337-345. </li>
-   <li> Edward A., Michael J. Plank, and Simon Benhamou.,<i> Random walk models in biology.</i> Journal of the Royal Society Interface 5.25 (2008): 813-834.</li>
-   <li>  Leah Edelstein-Keshet,<i> Mathematical Models in Biology</i>. SIAM. Chapters 4, 6 and 10.</li>
-   <li>  A. Okubo, S.A. Levin.,<i> Diffusion and Ecological Problems: Modern Perspectives</i>. Chapters 1 and 2.</li>
-   <li>  Otto, S. P. & Day, T. (2011),<i> A biologist's guide to mathematical modeling in ecology and evolution.</i>. Princeton University Press. (Primer 3, Chapters 13-15).</li>
+   <li> Codling, Edward A., Michael J. Plank, and Simon Benhamou.,<i> Random walk models in biology.</i> Journal of the Royal Society Interface 5.25 (2008): 813-834.</li>
  </ul>
 </div>
