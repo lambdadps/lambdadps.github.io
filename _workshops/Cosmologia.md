@@ -28,11 +28,16 @@ eventcode: jayme3
 
 **Bibliografia:**
 
-Em construção
 
 <div style="text-align: justify">
  <ul>
-  <li>Pessoa, A.,<i> Livro</i>, Editora.
-</li>
+  <li>Daniel Baumann's Lecture Notes, <a href="https://www.dropbox.com/s/9y9bj9lzu2h0od9/LecturesNotesV2.pdf?dl=0"><i>Cosmology</i></a>. </li>
+   <li> Durrer, R., <i>The Cosmic Microwave Background</i>, 2nd edition. Cambridge: Cambridge University Press, 2020.</li>
+   <li> Scott Dodelson, Fabian Schmidt., <i>Modern Cosmology</i>, 2nd edition. Academic Press, 2021. </li>
+  <ul>
+   <li> Chapter 5: The inhomogeneous universe: matter & radiation, pages 111-133. </li>
+   <li> Chapter 8: Growth of structure: linear theory, pages 195-229. </li>
+   <li> Chapter 9: The cosmic microwave background, pages 231-269. </li>
+  </ul>
  </ul>
 </div>
