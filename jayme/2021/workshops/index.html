@@ -3,6 +3,31 @@ title: Workshops
 ---
 <h1>Workshops</h1>
 
+ <table style="width:100%">
+  <tr>
+    <th>10h às 12h</th>
+    <th>14h às 16h</th>
+    <th>16h às 18h</th>
+    <th>19h às 21h</th>
+  </tr>
+  <tr>
+    <td>Fund. Filosóficos da MQ</td>
+    <td>Aspects of Exp. HEP</td>
+    <td>Efeito Casimir</td>
+    <td>Cosmologia</td>
+  </tr>
+  <tr>
+    <td>Estado Sólido</td>
+    <td>Teoria de Gauge</td>
+    <td>Supercordas</td>
+    <td>Métodos Algébricos</td>
+  </tr>
+  <tr>
+    <td>Nonlinear Phen. in Biology</td>
+    <td>Transições de Fase</td>
+  </tr>
+</table> 
+
 {% for workshop in site.workshops %}
     {% if workshop.eventcode contains 'jayme3' %}
     <h2><a href="{{ workshop.url }}">{{ workshop.title }}</a></h2>
