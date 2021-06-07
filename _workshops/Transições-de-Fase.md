@@ -37,7 +37,7 @@ principais métodos para estudá-las, e investigar exemplos e aplicações simpl
   <li>Pathria, R., & Beale, P. D. (2011).<i> Statistical Mechanics</i>, 3rd ed.</li>
   <li>Stanley, H. E., & Ahlers, G. (1973).<i> Introduction to phase transitions and critical phenomena</i>, Physics Today, 26(1), 71.</li>
   <li>Yeomans, J. M. (1992).<i> Statistical mechanics of phase transitions</i>, Clarendon Press.</li>
-  <li>Tong, D. (2017).<i> <a href="http://www.damtp.cam.ac.uk/user/tong/statphys.html">Lectures on Statistical Physics</a> & <a href="http://www.damtp.cam.ac.uk/user/tong/statphys.html">Lectures on Statistical Field Theory</a>.</i></li>
+  <li>Tong, D. (2017).<i> <a href="http://www.damtp.cam.ac.uk/user/tong/statphys.html">Lectures on Statistical Physics</a> & <a href="http://www.damtp.cam.ac.uk/user/tong/sft.html">Lectures on Statistical Field Theory</a>.</i></li>
   <li> Notas e códigos serão disponibilizados <a href="https://www.notion.so/Transi-es-de-fase-d7e83ff687de47ecb1744362ae378964">aqui</a>.</li>
  </ul>
 </div>
