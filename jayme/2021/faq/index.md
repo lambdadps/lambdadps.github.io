@@ -21,7 +21,7 @@ Caso sua dúvida não esteja entre as que estão listadas abaixo, nos contate pe
 	<li>Os certificados de horas que serão entregues são individuais para cada workshop?</li>	
 		<p>Sim, os certificados serão dados workshop a workshop. Isso se deve não apenas à intenção de permitir que os estudantes participem apenas dos cursos que lhes interessam, mas também ao fato de o horário de alguns cursos se sobrepõem.</p>
 	<li>Em quantos workshops posso me inscrever?</li>			
-		<p>Em quantos quiser, desde que não haja conflitos de horário (atente-se às datas em que ocorrerá cada workshop). O formulário de inscrição está feito de forma que não seja possível se inscrever em workshops conflitantes (desde que seja preenchido uma única vez).</p>
+		<p>Em quantos quiser, mas notamos que não é possível ser certificado por dois cursos em conflito de horário, visto que é preciso 75% de presença em um curso para que haja aprovação.</p>
 	<li>Os cursos serão gravados e disponibilizados ao público após a escola?</li>			
 		<p>A critério do ministrante de cada curso, sendo que a <a href="https://lambdadps.github.io" target="_blank">DPS</a> disponibilizará seu <a href="https://www.youtube.com/channel/UCPntaDiZZa1OIGiAUssJTxQ" target="_blank">canal no YouTube</a> para hospedar as aulas que forem gravadas.</p>
 </ol>
