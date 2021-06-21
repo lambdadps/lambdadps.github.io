@@ -12,6 +12,8 @@ eventcode: jayme3
 
 **Total Workload:** 10h
 
+**Idioma:** Na primeira aula será decidido o idioma desse curso (português ou inglês), de acordo com a preferência dos alunos presentes.
+
 **Abstract:** High Energy Physics (HEP) explores the elementary particles, which are the fundamental constituents of matter, and their interactions. Elementary particles are the underlying structure at the inner kernel of matter and, at the same time, plays an essential role in the evolution of the Universe. The last century has shown that collider accelerators have been among the most powerful tools used to explore the deep structure of matter that enabled the development of a universal quantum field theory – the standard model. HEP experiments led to important discoveries that go from the identification of heavy quarks, passing by the discovery of the W ± and Z 0 bosons, up to the breakthrough represented by the recent discovery of the Higgs boson at CERN. In this course, we will discuss some aspects of the field, with some bias with respect to the current work being done at the Large Hadron Collider.
 
 **Syllabus:**
