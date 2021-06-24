@@ -3,6 +3,7 @@ title: Cosmologia
 shortname: Cosmologia
 schedule: 19h às 21h (BRT)
 lecturer: Caroline Guandalin (DFMA-IFUSP), Francisco Maion (DFMA-IFUSP)
+vagas: Vagas esgotadas!
 eventcode: jayme3
 ---
 
