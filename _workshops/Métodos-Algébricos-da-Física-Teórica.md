@@ -3,6 +3,7 @@ title: Métodos Algébricos da Física Teórica
 shortname: Métodos Algébricos
 schedule: 19h às 21h (BRT)
 lecturer: Níckolas de Aguiar Alves (UFABC)
+vagas: Vagas esgotadas!
 eventcode: jayme3
 ---
 
