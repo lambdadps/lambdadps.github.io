@@ -9,6 +9,8 @@ eventcode: jayme3
 
 **Ministrante:** [Níckolas de Aguiar Alves](https://alves-nickolas.github.io) ([UFABC](fisica.ufabc.edu.br))
 
+**Website:** Clique [aqui](https://alves-nickolas.github.io/teaching/algebricos/) para acessar o website do workshop.
+
 **Horário:** 19h às 21h (BRT)
 
 **Carga Horária Total:** 10h
