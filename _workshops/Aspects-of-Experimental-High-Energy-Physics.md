@@ -28,7 +28,7 @@ eventcode: jayme3
     <li>Global Event Description. Electron Reconstruction. Muon Reconstruction. Hadronic Jets. Online Reconstruction.</li>
    </ol></li>
   <li>Data Analysis: What Do We Actually Measure? Signal and Background. Machine Learning in Analysis. Cut-based Analyses. Background Estimation. Probability. Bayes' Theorem. Hypothesis Testing.</li>
-  <li>(Re-)Interpretation: Information provided by Experiments: Direct BSM Searches, Measurements and Open Data. Reinterpreation Methods. Public Tools. Global Fits fo LHC Data.</li>
+  <li>(Re-)Interpretation: Information provided by Experiments: Direct BSM Searches, Measurements and Open Data. Reinterpretation Methods. Public Tools. Global Fits fo LHC Data.</li>
  </ol>
 </div>
 
@@ -68,13 +68,21 @@ Theory:
  </ul>
 </div>
    
-Reinterpretation
+  Reinterpretation:
 
 <div style="text-align: justify">
  <ul>
   <li>(Adv) <i>Reinterpretation of LHC results for new physics: status and recommendations after run 2</i>, The LHC BSM Reinterpretation Forum. <a href= "https://scipost.org/10.21468/SciPostPhys.9.2.022">Click here for the file</a>.</li>
  </ul>
 </div>
+
+**Lecture notes:**
+<div style="text-align: justify">
+ <ul>
+  <li><a href="https://drive.google.com/file/d/1FR1IC06wznhsdts7JdidVdbKGGZ5Gz6J/view?usp=sharing">Lecture 1</a></li>
+ </ul>
+</div>
+
 
 
  
