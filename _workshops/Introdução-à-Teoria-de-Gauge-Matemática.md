@@ -34,10 +34,13 @@ Funcional de Yang-Mills, identidade de Bianchi e equação de Yang-Mills. O elet
  </ul>
 </div>
 
+**Aulas**: <a href="https://www.youtube.com/playlist?list=PLUtepDnpw2tPK8nZBN4Rj7jycynZSoSTw">YouTube playlist</a>
+
 **Notas de aula:**
 <div style="text-align: justify">
  <ul>
-  <li><a href="https://www.ime.usp.br/~ewald/minicurso/aula1.pdf">Aula 1</a>: essencialmente álgebra linear.</li>
-  <li><a href="https://www.ime.usp.br/~ewald/minicurso/aula2.pdf">Aula 2</a>: vetores tangentes, campos vetoriais, covetores e k-covetores, produto wedge.</li>
+  <li><a href="https://www.ime.usp.br/~ewald/minicurso/aula1.pdf">Aula 1</a>: Essencialmente álgebra linear.</li>
+  <li><a href="https://www.ime.usp.br/~ewald/minicurso/aula2.pdf">Aula 2</a>: Vetores tangentes, campos vetoriais, covetores e k-covetores, produto wedge.</li>
+  <li><a href="https://www.ime.usp.br/~ewald/minicurso/aula3.pdf">Aula 3</a>: 1-formas e k-formas diferenciais, derivada exterior, comparação com cálculo vetorial, estrela de Hogde no R^3.</li>
  </ul>
 </div>
