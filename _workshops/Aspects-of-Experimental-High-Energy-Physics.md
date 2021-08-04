@@ -76,10 +76,14 @@ Theory:
  </ul>
 </div>
 
+**Lectures**: <a href="https://www.youtube.com/playlist?list=PLUtepDnpw2tNP8j0qUbW-xgc04TjRnK-0">YouTube playlist</a>
+
 **Lecture notes:**
 <div style="text-align: justify">
  <ul>
   <li><a href="https://drive.google.com/file/d/1FR1IC06wznhsdts7JdidVdbKGGZ5Gz6J/view?usp=sharing">Lecture 1</a></li>
+  <li><a href="https://drive.google.com/file/d/1xIOptyntK5B6YeONG0QGUaq-qNl6l9Z5/view?usp=sharing">Lecture 2</a></li>
+  <li><a href="https://drive.google.com/file/d/1GB154F5PHtb4ea3HPYvbgAmeH0HXgxIq/view?usp=sharing">Lecture 3</a></li>
  </ul>
 </div>
 
