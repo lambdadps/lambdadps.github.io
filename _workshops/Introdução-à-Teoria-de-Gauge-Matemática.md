@@ -33,3 +33,11 @@ Funcional de Yang-Mills, identidade de Bianchi e equação de Yang-Mills. O elet
    <li> R. W. R. Darling, <i>Differential forms and connections</i>.</li>
  </ul>
 </div>
+
+**Notas de aula:**
+<div style="text-align: justify">
+ <ul>
+  <li><a href="https://www.ime.usp.br/~ewald/minicurso/aula1.pdf">Aula 1</a>: essencialmente álgebra linear.</li>
+  <li><a href="https://www.ime.usp.br/~ewald/minicurso/aula2.pdf">Aula 2</a>: vetores tangentes, campos vetoriais, covetores e k-covetores, produto wedge.</li>
+ </ul>
+</div>
