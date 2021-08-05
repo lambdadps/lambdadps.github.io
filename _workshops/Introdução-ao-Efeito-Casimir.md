@@ -25,9 +25,9 @@ objetos acelerados no vácuo.
 <div style="text-align: justify">
  <ul>
   <li>Aula 1. QED em baixas energias, introdução a quantização do campo eletromagnético e efeito Casimir. </li>
-  <li>Aula 2. Fórmula de Lifshitz e espalhamento </li>
-  <li>Aula 3. Lifshitz geral. Aplicação átomo-plano. Efeitos de temperatura finita. </li>
-  <li>Aula 4. Experimentos clássicos e atuais. Controvérsia drude-plasma. </li>
+  <li>Aula 2. Fórmula de Lifshitz e espalhamento. </li>
+  <li>Aula 3. Efeito de temperatura finita. </li>
+  <li>Aula 4. Temperatura finita e aplicações. </li>
   <li>Aula 5. Introdução ao efeito Casimir Dinâmico. </li>
  </ul>
 </div>
@@ -44,6 +44,8 @@ objetos acelerados no vácuo.
     <li> Artigos que serão indicados no decorrer do curso. </li>
  </ul>
 </div>
+
+**Aulas:** [YouTube playlist](https://www.youtube.com/playlist?list=PLUtepDnpw2tM3dTvka0zT7TCQX_ZZ-Exu)
 
 
 
