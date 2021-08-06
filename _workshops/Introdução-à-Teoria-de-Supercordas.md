@@ -9,7 +9,7 @@ eventcode: jayme3
 
 **Ministrante:** [Prof. Dr. Nathan Berkovits](http://lattes.cnpq.br/7565192274317470) ([IFT-Unesp](https://www.ift.unesp.br/), [ICTP-SAIFR](https://www.ictp-saifr.org/))
 
-**Notas de Aula:** disponíveis [neste link](https://lambdadps.github.io/jayme/2021/pdf/notas_supercordas.pdf).
+**Notas de Aula:** disponíveis [neste link](https://lambdadps.github.io/jayme/2021/pdf/notas_supercordas.pdf). As anotações feitas no iPad ao longo das aulas estão disponíveis [neste link](https://lambdadps.github.io/jayme/2021/pdf/supercordas_ipad.pdf).
 
 **Horário:** 16h às 18h (BRT)
 
