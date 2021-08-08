@@ -8,6 +8,8 @@ eventcode: jayme3
 
 **Ministrante:** [Renan Hirayama](http://lattes.cnpq.br/4527194577561153) ([Department of Physics, Goethe Universität](https://www.goethe-university-frankfurt.de/63109041/Welcome_to_the_Department_of_Physics?))
 
+**Aulas:** [YouTube playlist](https://www.youtube.com/playlist?list=PLUtepDnpw2tOML38lHNht_HXxgFCd7vwb)
+
 **Horário:** 16h to 18h (BRT)
 
 **Carga Horária Total:** 10h
