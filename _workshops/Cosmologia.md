@@ -7,7 +7,9 @@ vagas: Vagas esgotadas!
 eventcode: jayme3
 ---
 
-**Ministrante:** [Caroline Guandalin](http://lattes.cnpq.br/8046594106198115) ([DFMA-IFUSP](http://portal.if.usp.br/fma/pt-br/in%C3%ADcio-departamento-de-f%C3%ADsica-matem%C3%A1tica)), [Francisco Maion](http://lattes.cnpq.br/2700312947001086) ([DFMA-IFUSP](http://portal.if.usp.br/fma/pt-br/in%C3%ADcio-departamento-de-f%C3%ADsica-matem%C3%A1tica))
+**Ministrantes:** [Caroline Guandalin](http://lattes.cnpq.br/8046594106198115) ([DFMA-IFUSP](http://portal.if.usp.br/fma/pt-br/in%C3%ADcio-departamento-de-f%C3%ADsica-matem%C3%A1tica)), [Francisco Maion](http://lattes.cnpq.br/2700312947001086) ([DFMA-IFUSP](http://portal.if.usp.br/fma/pt-br/in%C3%ADcio-departamento-de-f%C3%ADsica-matem%C3%A1tica))
+
+**Aulas**: <a href="https://www.youtube.com/playlist?list=PLUtepDnpw2tPCaw0fwX7bxJLarh9-oD5e">YouTube playlist</a>
 
 **Horário:** 19h às 21h (BRT)
 
