@@ -42,5 +42,7 @@ Funcional de Yang-Mills, identidade de Bianchi e equação de Yang-Mills. O elet
   <li><a href="https://www.ime.usp.br/~ewald/minicurso/aula1.pdf">Aula 1</a>: Essencialmente álgebra linear.</li>
   <li><a href="https://www.ime.usp.br/~ewald/minicurso/aula2.pdf">Aula 2</a>: Vetores tangentes, campos vetoriais, covetores e k-covetores, produto wedge.</li>
   <li><a href="https://www.ime.usp.br/~ewald/minicurso/aula3.pdf">Aula 3</a>: 1-formas e k-formas diferenciais, derivada exterior, comparação com cálculo vetorial, estrela de Hogde no R^3.</li>
+  <li><a href="https://www.ime.usp.br/~ewald/minicurso/aula4.pdf">Aula 4</a>: equações de Maxwell em formas diferenciais; intuição e exemplos de fibrados vetoriais.</li>
+  <li><a href="https://www.ime.usp.br/~ewald/minicurso/aula5.pdf">Aula 5</a>: mais comentários sobre o eletromagnetismo escrito em formas diferenciais (potenciais, transformações de gauge); definições de fibrado vetorial, conexão, curvatura e transformações de gauge, funcional de Yang-Mills e comentários históricos.</li>
  </ul>
 </div>
