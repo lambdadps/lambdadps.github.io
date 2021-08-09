@@ -8,6 +8,8 @@ eventcode: jayme3
 
 **Ministrante:** [Prof. Dr. Ricardo Martínez-García](http://lattes.cnpq.br/0141480030649374) ([ICTP-SAIFR](https://www.ictp-saifr.org/))
 
+**Aulas:** [YouTube playlist](https://www.youtube.com/playlist?list=PLUtepDnpw2tMb_1G2IXHmam7VEd2P3Gl7)
+
 **Horário:** 14h às 16h (BRT)
 
 **Carga Horária Total:** 10h
