@@ -8,6 +8,19 @@ eventcode: jayme3
 
 **Lecturer:** [Prof. Dr. Thiago Tomei](http://lattes.cnpq.br/8046594106198115) ([NCC-Unesp](https://www2.unesp.br/portal#!/gridunesp), [IFT-Unesp](https://www.ift.unesp.br))
 
+**Lectures**: <a href="https://www.youtube.com/playlist?list=PLUtepDnpw2tNP8j0qUbW-xgc04TjRnK-0">YouTube playlist</a>
+
+**Lecture notes:**
+<div style="text-align: justify">
+ <ul>
+  <li><a href="https://drive.google.com/file/d/1U8pNO3oO0XhkkL0et9yMeWkGaApVjj16/view?usp=sharing">Lecture 1</a></li>
+  <li><a href="https://drive.google.com/file/d/1xIOptyntK5B6YeONG0QGUaq-qNl6l9Z5/view?usp=sharing">Lecture 2</a></li>
+  <li><a href="https://drive.google.com/file/d/1GB154F5PHtb4ea3HPYvbgAmeH0HXgxIq/view?usp=sharing">Lecture 3</a></li>
+  <li><a href="https://drive.google.com/file/d/1dfk0AEwNdgMgKda3vLki-F_3WxUNymCS/view?usp=sharing">Lecture 4</a></li>
+  <li><a href="https://drive.google.com/file/d/1Gz1GT62vtfeCnH_PpoBArlZSSsAoDh3F/view?usp=sharing">Lecture 5</a></li>
+ </ul>
+</div>
+
 **Class Time:** 14h to 16h (BRT)
 
 **Total Workload:** 10h
@@ -75,18 +88,6 @@ Theory:
   <li>(Adv) <i>Reinterpretation of LHC results for new physics: status and recommendations after run 2</i>, The LHC BSM Reinterpretation Forum. <a href= "https://scipost.org/10.21468/SciPostPhys.9.2.022">Click here for the file</a>.</li>
  </ul>
 </div>
-
-**Lectures**: <a href="https://www.youtube.com/playlist?list=PLUtepDnpw2tNP8j0qUbW-xgc04TjRnK-0">YouTube playlist</a>
-
-**Lecture notes:**
-<div style="text-align: justify">
- <ul>
-  <li><a href="https://drive.google.com/file/d/1FR1IC06wznhsdts7JdidVdbKGGZ5Gz6J/view?usp=sharing">Lecture 1</a></li>
-  <li><a href="https://drive.google.com/file/d/1xIOptyntK5B6YeONG0QGUaq-qNl6l9Z5/view?usp=sharing">Lecture 2</a></li>
-  <li><a href="https://drive.google.com/file/d/1GB154F5PHtb4ea3HPYvbgAmeH0HXgxIq/view?usp=sharing">Lecture 3</a></li>
- </ul>
-</div>
-
 
 
  
