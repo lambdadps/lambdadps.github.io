@@ -9,6 +9,8 @@ eventcode: jayme3
 **Ministrantes:** [Larissa Inácio](https://sites.google.com/view/l-inacio/) ([IF-UFRJ](https://www.if.ufrj.br/), [Grupo de Flutuações Quânticas](https://sites.google.com/view/gfq-ufrj/principal?authuser=3)),
 [Guilherme Costa](http://lattes.cnpq.br/9816304801772644) ([IF-UFRJ](https://www.if.ufrj.br/), [Grupo de Flutuações Quânticas](https://sites.google.com/view/gfq-ufrj/principal?authuser=3))
 
+**Aulas:** [YouTube playlist](https://www.youtube.com/playlist?list=PLUtepDnpw2tM3dTvka0zT7TCQX_ZZ-Exu)
+
 **Horário:** 16h às 18h (BRT)
 
 **Carga Horária Total:** 10h
