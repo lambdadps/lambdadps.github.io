@@ -1,6 +1,6 @@
 # Fundamentos Matemáticos para Físicos
 
-**Ministrante:** [Victor Hugo dos Santos Lins](https://lins-victor.github.io/), ([IFUSP](https://portal.if.usp.br/)
+**Ministrante:** [Victor Hugo dos Santos Lins](https://lins-victor.github.io/), ([IFUSP](https://portal.if.usp.br/))
 
 **Website:** Clique [aqui]() para acessar o website do workshop.
 
