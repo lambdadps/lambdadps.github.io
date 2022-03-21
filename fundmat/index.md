@@ -4,15 +4,15 @@
 
 **Website:** Clique [aqui]() para acessar o website do workshop.
 
-**Horário:** 
+**Horário:** 16h15 às 17h30
 
-**Carga Horária Total:** 8h
+**Carga Horária Total:** 5h
 
-**Motivação:** 
+**Motivação:** Vários ingressantes da Física chegam à graduação com dificuldade em alguns temas de matemática. Como a graduação utiliza muitas construções de matemática vindas do Ensino Médio, isso faz com que o processo de transição do EM para o IFUSP possa ser um pouco árduo. Para simplificar e auxiliar os ingressantes com isso, a Dead Physicists Society (DPS) ofereceu de 21/03 a 24/03 um curso de revisão das principais bases matemáticas do Ensino Médio. Foram revisadas as ideias por trás da noção de funções, trigonometria, números complexos, polinômios e matrizes, que são construções que ocorrem com certa frequências nas disciplinas de Cálculo, Geometria Analítica e Física. O minicurso foi realizado presencialmente no IFUSP, sendo também gravado e postado no canal do YouTube da DPS, onde todos podem assistir.
 
-**Ementa:** 
+**Ementa:** Funções reais, trigonometria, números complexos, polinômios e matrizes.
 
-**Pré-requisitos:** 
+**Pré-requisitos:** ensino médio completo. 
 
 **Bibliografia:**
 
@@ -20,12 +20,11 @@ Estas são as referências principais que guiarão o curso. A bibliografia compl
 
 <div style="text-align: justify">
  <ul>
-  <li> Barata, J. C. A., <a href="http://denebola.if.usp.br/~jbarata/Notas_de_aula/"><i>Notas para um curso de Física-Matemática</i></a>. </li>
-   <li> Sundermeyer, K., <i>Symmetries in Fundamental Physics</i>. Springer, Cham, 2014. </li>
-   <li> Weinberg, S., <i>The Quantum Theory of Fields Vol. I: Foundations</i>. Cambridge University Press, Cambridge, 1995. </li>
-   <li> Zee, A., <i>Group Theory in a Nutshell for Physicists</i>. Princeton University Press, Princeton, 2016. </li>
+   <li> Iezzi, G., <i>Fundamentos de matemática elementar - Volumes 1, 3, 4, 6.</i>. Saraiva Didáticos, 2019. </li>
+   <li> Neto, A. C. M., <i>Tópicos da Matemática Elementar - Volume 1</i>. SBM, 2013. </li>
+   <li> Lages, E., <i>A Matemática do Ensino Médio</i>. SBM, 2016. </li>
    <li> Notas de aula. </li>
  </ul>
 </div>
 
-**Notas de aula:** disponíveis [neste link]().
+**Notas de aula:** disponíveis [neste link](https://lins-victor.github.io/pdfs/fmf.pdf).
