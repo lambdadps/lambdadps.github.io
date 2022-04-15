@@ -2,8 +2,6 @@
 
 **Ministrante:** [Victor Hugo dos Santos Lins](https://lins-victor.github.io/), ([IFUSP](https://portal.if.usp.br/))
 
-**Website:** Clique [aqui]() para acessar o website do workshop.
-
 **Horário:** 16h15 às 17h30
 
 **Carga Horária Total:** 5h
@@ -28,3 +26,4 @@ Estas são as referências principais que guiarão o curso. A bibliografia compl
 </div>
 
 **Notas de aula:** disponíveis [neste link](https://lins-victor.github.io/pdfs/fmf.pdf).
+**Gravações:** disponíveis [nesta playlist](https://youtube.com/playlist?list=PLUtepDnpw2tMGt46iS-tW_APqZSNGOEgn).
