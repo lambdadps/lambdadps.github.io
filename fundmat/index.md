@@ -26,4 +26,5 @@ Estas são as referências principais que guiarão o curso. A bibliografia compl
 </div>
 
 **Notas de aula:** disponíveis [neste link](https://lins-victor.github.io/pdfs/fmf.pdf).
+
 **Gravações:** disponíveis [nesta playlist](https://youtube.com/playlist?list=PLUtepDnpw2tMGt46iS-tW_APqZSNGOEgn).
