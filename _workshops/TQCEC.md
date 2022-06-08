@@ -7,7 +7,7 @@ vagas:
 eventcode: jayme4
 ---
 
-**Ministrantes:** [Prof. Dr. André Landulfo](http://lattes.cnpq.br/2705752886744456) ([DFMA-IFUSP](https://www.ufabc.edu.br/))
+**Ministrantes:** [Prof. Dr. André Landulfo](http://lattes.cnpq.br/2705752886744456) ([UFABC](https://www.ufabc.edu.br/))
 
 **Horário:** 
 
