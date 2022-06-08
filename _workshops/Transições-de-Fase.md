@@ -26,7 +26,7 @@ principais métodos para estudá-las, e investigar exemplos e aplicações simpl
   <li> Modelo de Ising e Gás de rede. Método do campo médio. Soluções exatas e aproximadas.</li>
   <li> Fenomenologia de Landau. Correlações de pares. Expoentes críticos e classes de universalidade. Desigualdades termodinâmicas.</li>
   <li> Teoria de escala e sistemas finitos. Grupo de Renormalização e aplicações.</li>
-  <li> Simulações de Monte-Carlo. Conclusão.</li>
+  <li> Simulações de Monte-Carlo. Conclusões.</li>
  </ol>
 </div>
 
