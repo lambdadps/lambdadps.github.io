@@ -1,4 +1,4 @@
-# III Escola Jayme Tiomno de Física Teórica
+# IV Escola de Física Jayme Tiomno
 
 Com a vinda das férias, as atividades acadêmicas dos alunos de graduação do IFUSP tendem a diminuir e, infelizmente, por vezes se anular. Em nome da paixão sentida pelos estudantes pela Física, surge a Escola Jayme Tiomno de Física Teórica, que pretende manter a transmissão de conhecimento aos alunos vívida durante o inverno.
 
