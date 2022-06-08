@@ -4,4 +4,4 @@ Com a vinda das férias, as atividades acadêmicas dos alunos de graduação do 
 
 Para isso, organizaremos alguns workshops de Física e Matemática voltados a alunos de graduação. Cada workshop terá um objetivo diferente no contexto dos cursos de graduação do IFUSP, variando do ensino de ferramentas cujo domínio é um grande facilitador dos cursos à divulgação de áreas de pesquisa para alunos que procuram ingressar brevemente em uma área de pós-graduação.
 
-Todos os eventos ocorrerão entre 02 e 06 de agosto de 2021 por reuniões virtuais ao vivo. As inscrições são gratuitas e serão abertas em breve.
+Todos os eventos ocorrerão entre 08 e 12 de agosto de 2022 de forma híbrida, com alguns cursos presenciais no IFUSP e virtuais em salas do Zoom. As inscrições são gratuitas e serão abertas em breve.
