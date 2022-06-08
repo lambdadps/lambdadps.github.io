@@ -22,7 +22,7 @@ title: Workshops
   </tr>
 </table> 
 
-{% for workshop in site.workshops2 %}
+{% for workshop in site.workshops %}
     {% if workshop.eventcode contains 'jayme4' %}
     <h2><a href="{{ workshop.url }}">{{ workshop.title }}</a></h2>
     <h4>{{ workshop.vagas }}</h4>
