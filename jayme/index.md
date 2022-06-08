@@ -4,4 +4,4 @@ Com a vinda das férias, as atividades acadêmicas dos alunos de graduação do 
 
 Para isso, organizaremos alguns workshops de Física e Matemática voltados a alunos de graduação. Cada workshop terá um objetivo diferente no contexto dos cursos de graduação do IFUSP, variando do ensino de ferramentas cujo domínio é um grande facilitador dos cursos à divulgação de áreas de pesquisa para alunos que procuram ingressar brevemente em uma área de pós-graduação.
 
-Eis os links para as páginas das edições de [2018](fma.if.usp.br/~nickolas/jayme/2018/index.html), [2019](fma.if.usp.br/~nickolas/jayme/2019/index.html) e [2021](https://lambdadps.github.io/jayme/2021/).
+Eis os links para as páginas das edições de [2018](fma.if.usp.br/~nickolas/jayme/2018/index.html), [2019](fma.if.usp.br/~nickolas/jayme/2019/index.html), [2021](https://lambdadps.github.io/jayme/2021/) e [2022](https://lambdadps.github.io/jayme/2022/).
