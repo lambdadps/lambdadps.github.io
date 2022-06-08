@@ -12,7 +12,7 @@ Para isso, organizamos alguns workshops de Física, Computação e Matemática v
 - **Primeira edição:** Níckolas de Aguiar Alves e Wilson Maruyama Santos de Paula
 - **Segunda edição:** Níckolas de Aguiar Alves e Pedro Henrique Trajano Lemos Tredezini
 - **Terceira edição:** Patrick Dreger Andriolo e Théo Louzada Meireles
-- **Quarta edição:** Patrick Dreger Andriolo
+- **Quarta edição:** Patrick Andriolo, Lua Figueiredo, Hugo Portelinha, João Pedro Ghidini
 
 ## Mini Escola de Inverno da Dead Physicists Society
 
