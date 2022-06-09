@@ -18,11 +18,11 @@ eventcode: jayme4
 
 <div style="text-align: justify">
  <ul>
-  <li>Aula 1. Espaços vetoriais simpléticos, simplectomorfismos (transformações canônicas)</li>
-  <li>Aula 2. Equações de Hamilton, fluxos Hamiltonianos, colchete de Poisson </li>
-  <li>Aula 3. Exemplos de sistemas Hamiltonianos </li>
-  <li>Aula 4. Método de Poincaré-Melnikov </li>
-  <li>Aula 5. Panorama sobre estudo futuro </li>
+  <li>Aula 1. Espaços vetoriais simpléticos, simplectomorfismos (transformações canônicas).</li>
+  <li>Aula 2. Equações de Hamilton, fluxos Hamiltonianos, colchete de Poisson. </li>
+  <li>Aula 3. Exemplos de sistemas Hamiltonianos. </li>
+  <li>Aula 4. Método de Poincaré-Melnikov. </li>
+  <li>Aula 5. Panorama sobre estudo futuro. </li>
  </ul>
 </div>
 
