@@ -30,13 +30,41 @@ eventcode: jayme4-distancia
 
 **Bibliografia:**
 
+<i> Introdução à Teoria de Categorias </i>:
+
 <div style="text-align: justify">
  <ul>
-  <li>  Milonni, Peter W., <i> The quantum vacuum: an introduction to quantum electrodynamics.</i> Academic press, 2013. </li>
-   <li> Cohen-Tannoudji, Claude, Jacques Dupont-Roc, and Gilbert Grynberg., <i> Photons and Atoms-Introduction to Quantum Electrodynamics.</i> 1997.</li>
-   <li> Parsegian, V. Adrian., <i> Van der Waals forces: a handbook for biologists, chemists, engineers, and physicists</i>. Cambridge University Press, 2005. </li>
-    <li> Artigos que serão indicados no decorrer do curso. </li>
+  <li>  F. W. Lawvere, S. H. Schanuel. Conceptual Mathematics: A First Introduction to Categories. Cambridge University Press, 2009. </li>
+   <li> S. Awodey. Category Theory. Oxford University Press, 2010.</li>
  </ul>
 </div>
 
-**Aulas:** [YouTube playlist](https://www.youtube.com/playlist?list=PLUtepDnpw2tM3dTvka0zT7TCQX_ZZ-Exu)
+<i> Aplicação de topos em Teoria Quântica </i>:
+
+<div style="text-align: justify">
+ <ul>
+  <li>  C. Flori. A First Course in Topos Quantum Theory. Springer, 2013. </li>
+   <li> H. Halvorson (editor). Deep Beauty: Understanding the Quantum World through Mathematical Innovation. Cambridge University Press, 2011.</li>
+  <li> A. Döring, C. J. Isham. “What is a Thing?”: Topos Theory in the Foundations of Physics. In: B. Coecke (editor), New Structures for Physics. Lecture Notes in Physics, vol 813. Springer, 2010. </li>
+ </ul>
+</div>
+
+<i> Artigos originais </i>:
+
+<div style="text-align: justify">
+ <ul>
+  <li> J. Butterfield, C.J. Isham. A Topos Perspective on the Kochen–Specker Theorem I: Quantum States as Generalized Valuations (with C. J. Isham), International Journal on Theoretical Physics 11, 1998, 2669–2733. </li>
+  <li>  J. Butterfield, C.J. Isham. A Topos Perspective on the Kochen–Specker Theorem II: Conceptual Aspects and Classical Analogues (with C. J. Isham), International Journal on Theoretical Physics 38, 1999, 827–859. </li>
+ </ul>
+</div>
+
+<i> Tópicos da Teoria de Informação Quântica </i>:
+
+<div style="text-align: justify">
+ <ul>
+  <li> S. Abramsky, A. Brandenburger. The sheaf-theoretic structure of non-locality and contextuality. New J. Phys. 13 (113036), 2011, 1–40. </li>
+ </ul>
+</div>
+
+
+
