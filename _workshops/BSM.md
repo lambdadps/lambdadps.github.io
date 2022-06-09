@@ -23,7 +23,7 @@ persistem sem resposta, como o problema da Hierarquia, a ausência de candidatos
 (ME), assim como a geração de massa para os neutrinos. Após isso, vamos apresentar exemplos de
 extensões do MP que ajudariam a solucionar tais problemas.
 
-**Pré-requisitos:** [Mecânica Quântica I](https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=4300403&verdis=1), desejável [Mecânica Clássica]()
+**Pré-requisitos:** [Mecânica Quântica I](https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=4300403&verdis=1), desejável [Mecânica Clássica]().
 
 **Programa do curso:**
 
