@@ -21,10 +21,19 @@
       <div>
         <nav id="Menu">
           <a href="{{ site.url }}/jayme/2022"><button class="navbutton">Home</button></a>
-          <div class="dropdown"><a href="{{ site.url }}/jayme/2022/workshops"><button class="dropbtn">Workshops</button></a>
+          <div class="dropdown"><a href="{{ site.url }}/jayme/2022/workshops"><button class="dropbtn">Workshops presenciais</button></a>
             <div class="dropdown-content">
               {% for workshop in site.workshops %}
-                {% if workshop.eventcode contains 'jayme4' %}
+                {% if workshop.eventcode contains 'jayme4-presencial' %}
+                  <a href="{{ workshop.url }}">{{ workshop.shortname | default: workshop.title }}</a>
+                {% endif %}
+              {% endfor %}
+            </div>
+          </div>
+          <div class="dropdown"><a href="{{ site.url }}/jayme/2022/workshops"><button class="dropbtn">Workshops à distância</button></a>
+            <div class="dropdown-content">
+              {% for workshop in site.workshops %}
+                {% if workshop.eventcode contains 'jayme4-distancia' %}
                   <a href="{{ workshop.url }}">{{ workshop.shortname | default: workshop.title }}</a>
                 {% endif %}
               {% endfor %}
