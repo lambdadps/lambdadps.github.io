@@ -9,6 +9,9 @@ Caso tenha dúvidas, comentários ou sugestões, fale conosco pelo email lambdad
 Organização:
 
 Hugo Portelinha
+
 João Pedro Ghidini
+
 Lua Figueiredo
+
 Patrick Andriolo
