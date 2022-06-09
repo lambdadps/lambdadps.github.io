@@ -36,7 +36,7 @@ Gauge.</li>
 Lagrangiana do MP, Mecanismo de Higgs, Teorias Efetivas.</li>
   <li>Aula 3. Teorias Além do MP (parte I) - Problema da Hierarquia, Supersimetria. </li>
   <li>Aula 4. Teorias Além do MP (parte II) - Geração de Massa dos Neutrinos, Mecanismo da Gangorra (see-saw). </li>
-  <li>Aula 5. Teorias Além do MP (parte III) - Matéria Escura, Novos Mediadores Leves, Buscas fenomenológicas, Futuro da Física de Partículas.
+  <li>Aula 5. Teorias Além do MP (parte III) - Matéria Escura, Novos Mediadores Leves, Buscas fenomenológicas, Futuro da Física de Partículas. </li>
  </ul>
 </div>
 
