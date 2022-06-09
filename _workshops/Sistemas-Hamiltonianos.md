@@ -6,7 +6,7 @@ lecturer: Prof. Dr. Cristian Ortiz (IME-USP)
 eventcode: jayme4
 ---
 
-**Ministrantes:** [Prof. Dr. Cristian Ortiz](https://sites.google.com/view/cristian-ortiz) ([IME-USP](https://www.ime.usp.br/)
+**Ministrantes:** [Prof. Dr. Cristian Ortiz](https://sites.google.com/view/cristian-ortiz) ([IME-USP](https://www.ime.usp.br/))
 
 **Horário:** A definir
 
