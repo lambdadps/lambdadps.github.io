@@ -26,6 +26,7 @@ eventcode: jayme4-distancia
  <ul>
   <li>Aula 1. Noções algébricas importantes: álgebras, *-álgebras, espectro de um elemento de álgebra, estados, álgebras comutativas, espectro de uma álgebra comutativa. </li>
   <li>Aula 2. O teorema de Kochen-Specker (versão usual). </li>
+  
   <li>Aula 3. Introdução à teoria de categorias: noções elementares, funtores, transformações naturais e categorias de pré-feixes.</li>
   <li>Aula 4. Categoria de matrizes autoadjuntas e uma versão categorial do teorema de K-S. </li>
   <li>Aula 5. Pré-feixe espectral sobre contextos clássicos e K-S como ausência de pontos num espaço de estados. </li>
