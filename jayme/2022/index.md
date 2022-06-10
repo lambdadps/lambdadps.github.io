@@ -8,10 +8,7 @@ Caso tenha dúvidas, comentários ou sugestões, fale conosco pelo email lambdad
 
 Organização:
 
-Hugo Portelinha
-
-João Pedro Ghidini
-
-Lua Figueiredo
-
+Hugo Portelinha <br>
+João Pedro Ghidini <br>
+Lua Figueiredo <br>
 Patrick Andriolo
