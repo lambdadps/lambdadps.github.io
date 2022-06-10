@@ -15,7 +15,7 @@ eventcode: jayme4-presencial
 
 **Descrição:** A Teoria Quântica de Campos em Espaços-Tempos Curvos (TQCEC) faz previsões sólidas em
 situações envolvendo campos quânticos na presença de campos gravitacionais (clássicos) intensos. Nesse curso, vamos fazer uma introdução à TQCEC. Após uma breve revisão de alguns conceitos básicos de geometria diferencial e relatividade, iremos discutir algumas propriedades clássicas de um campo escalar em um espaço-tempo curvo (globalmente hiperbólico) arbitrário. Em seguida, faremos a quantização canônica de campos em espaços-tempos curvos, mostraremos que a noção de vácuo e de partícula (quando existir) não são únicas e, em geral, nenhuma é preferível.
-Discutiremos como, quando há simetria, é possível fazer uma escolha ''natural'' de vácuo e de partículas. Tendo desenvolvido o formalismo geral, discutiremos dois efeitos paradigmáticos, a saber, o \textit{efeito Unruh} e o \textit{efeito Hawking}. Finalizaremos o curso mostrando como levando em
+Discutiremos como, quando há simetria, é possível fazer uma escolha ''natural'' de vácuo e de partículas. Tendo desenvolvido o formalismo geral, discutiremos dois efeitos paradigmáticos, a saber, o <i>efeito Unruh</i> e o <i>efeito Hawking</i>. Finalizaremos o curso mostrando como levando em
 conta tanto relatividade geral quanto a mecânica quântica, buracos negros comportam como
 entidades termodinâmicas, com entropia e temperatura bem definidas, chegando assim, em uma
 das fronteiras da pesquisa atual na área, a termodinâmica de buracos negros e suas aplicações.
@@ -37,15 +37,14 @@ das fronteiras da pesquisa atual na área, a termodinâmica de buracos negros e 
     campos e não de partículas. Por fim, mostraremos que, quando o espaço-tempo admite simetrias,
     podemos fazer uma escolha ''natural'' de um estado e vácuo e dar uma interpretação em termos
     de partículas para as excitações do campo.</li>
-  <li>Nessa aula, começaremos a discutir dois efeitos paradigmáticos, os chamados \textit{efeito
-    Unruh} e \textit{efeito Hawking}. Começaremos discutindo o o efeito Unruh, que afirma que observadores
+  <li>Nessa aula, começaremos a discutir dois efeitos paradigmáticos, os chamados <i>efeito Unruh</i> e <i>efeito Hawking</i>. Começaremos discutindo o o efeito Unruh, que afirma que observadores
     uniformemente acelerados no vácuo dos observadores inerciais se sentem imersos em um banho térmico com uma temperatura proporcional à sua aceleração própria. Em seguida, começaremos a discutir o efeito Hawking que mostra que a formação de um buraco negro perturba o vácuo
     quântico produzindo partículas com um espectro térmico com temperatura inversamente proporcional à massa do buraco negro (assumindo buracos negros sem carga ou rotação).</li>
   <li>Nessa última aula, terminaremos a discussão do efeito Hawking e mostraremos como
     ele justifica interpretarmos buracos negros como entidades termodinâmicas com temperatura e
     entropia bem definidas. Analisaremos as leis da termodinâmica de buracos negros (com ênfase
     na segunda lei generalizada, tema de intensa pesquisa atual) bem como alguns problemas em
-    aberto que surgem delas: (1) O ``paradoxo'' da perda de  informação em buracos negros e (2) A
+    aberto que surgem delas: (1) O ''paradoxo'' da perda de  informação em buracos negros e (2) A
     origem da entropia SBH.</li>
  </ol>
 </div>
