@@ -14,6 +14,8 @@ eventcode: jayme4-distancia
 
 **Descrição:** Esse curso pretende introduzir aspectos da computação quântica que nem sempre são cobertos no curso de física, por envolverem conceitos computacionais como complexidade, modelo de circuitos e algoritmos. Vamos colocar a mão na massa utilizando <i>Qiskit</i>, a linguagem de programação quântica da IBM.
 
+**Pré-requisitos:** [Álgebra Linear]() e lógica de programação (preferencialmente [Python](https://uspdigital.usp.br/jupiterweb/obterDisciplina?nomdis=&sgldis=4302403)).
+
 **Programa do curso:**
 
 <div style="text-align: justify">
@@ -44,8 +46,6 @@ eventcode: jayme4-distancia
  </ul>
 </div>
 
-**Pré-requisitos:** [Álgebra Linear]() e lógica de programação (preferencialmente [Python](https://uspdigital.usp.br/jupiterweb/obterDisciplina?nomdis=&sgldis=4302403)).
-
 **Bibliografia:**
 
 <div style="text-align: justify">
@@ -55,5 +55,3 @@ eventcode: jayme4-distancia
    <li> Qiskit textbook: https://qiskit.org/textbook/preface.html </li>
  </ul>
 </div>
-
-**Aulas:** [YouTube playlist](https://www.youtube.com/playlist?list=PLUtepDnpw2tM3dTvka0zT7TCQX_ZZ-Exu)
