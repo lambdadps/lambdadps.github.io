@@ -6,7 +6,7 @@ lecturer: Bruna Shinohara (DFMT-IFUSP)
 eventcode: jayme4-distancia
 ---
 
-**Ministrante:** [Bruna Shinohara](http://lattes.cnpq.br/2905933345926530)
+**Ministrante:** [Bruna Shinohara](http://lattes.cnpq.br/2905933345926530) ([DFMT-IFUSP](http://portal.if.usp.br/fmt/pt-br))
 
 **Horário:** A definir.
 
