@@ -2,7 +2,7 @@
 title: Física Além do Modelo Padrão
 shortname: BSM
 schedule: A definir.
-lecturer: Ana Foguel
+lecturer: Ana Foguel (DFMA-IFUSP)
 eventcode: jayme4-presencial
 ---
 
