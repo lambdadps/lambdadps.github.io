@@ -92,18 +92,8 @@ Apesar de introdutório e de a palavra modelo estar cada vez mais tomando espaç
       </ul>
       </ul>
        <li>Aula 5.  </li>
-   <ul>
      <li> O que ficou de fora </li>
      <li> Brevíssima sobre modelos e ensino de ciências </li>
     </ul>
 </div>
 
-**Bibliografia:**
-
-<div style="text-align: justify">
- <ul>
-  <li> </li>
-   <li> </li>
-   <li>  </li>
- </ul>
-</div>
