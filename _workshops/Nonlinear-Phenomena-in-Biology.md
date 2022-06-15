@@ -3,6 +3,7 @@ title: Nonlinear Phenomena in Biology
 shortname: Nonlinear Phen. in Biology
 schedule: 14h às 16h (BRT)
 lecturer: Prof. Dr. Ricardo Martínez-García (ICTP-SAIFR)
+layout: jayme3
 eventcode: jayme3
 ---
 
