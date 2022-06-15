@@ -3,6 +3,7 @@ title: Transições de Fase
 shortname: Transições de Fase
 schedule: 16h às 18h (BRT)
 lecturer: Renan Hirayama (Department of Physics, Goethe Universität)
+layout: jayme3
 eventcode: jayme3
 ---
 
