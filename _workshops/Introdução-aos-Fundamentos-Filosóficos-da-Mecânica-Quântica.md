@@ -4,6 +4,7 @@ shortname: Fund. Filosóficos da MQ
 schedule: 10h às 12h (BRT)
 lecturer: Diana Taschetto (Departamento de Filosofia, FFLCH-USP)
 vagas: Vagas esgotadas!
+layout: jayme3
 eventcode: jayme3
 ---
 
