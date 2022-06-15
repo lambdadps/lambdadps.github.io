@@ -38,6 +38,7 @@ Apesar de introdutório e de a palavra modelo estar cada vez mais tomando espaç
        <li> Contexto da descoberta e contexto da justificativa </li>
        <li> O que ficou após o fim </li>
    </ul>
+    </ul>
   <li>Aula 2.   </li>
    <ul>
      <li> A lógica da pesquisa científica segundo Popper </li>
@@ -88,6 +89,8 @@ Apesar de introdutório e de a palavra modelo estar cada vez mais tomando espaç
      <ul>
      </ul>
  </ul>
+      </ul>
+      </ul>
        <li>Aula 5.  </li>
    <ul>
      <li> O que ficou de fora </li>
