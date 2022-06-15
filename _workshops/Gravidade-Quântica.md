@@ -1,5 +1,5 @@
 ---
-title: Gravidade Quântica e Segurança Assintótica: Uma Introdução
+title: "Gravidade Quântica e Segurança Assintótica: Uma Introdução"
 shortname: Gravidade Quântica
 schedule: A definir.
 lecturer: Prof. Dr. Antônio Pereira (IF-UFF, IMAPP - Radboud University)
