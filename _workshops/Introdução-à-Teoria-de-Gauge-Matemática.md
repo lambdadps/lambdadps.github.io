@@ -4,6 +4,7 @@ shortname: Teoria de Gauge
 schedule: 14h às 16h (BRT)
 lecturer: Patrícia Ewald (IME-USP, University of Texas at Austin)
 vagas: Vagas esgotadas!
+layout: jayme3
 eventcode: jayme3
 ---
 
