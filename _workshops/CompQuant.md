@@ -1,5 +1,5 @@
 ---
-title: Computação Quântica: Introdução e Algoritmos com Qiskit 
+title: "Computação Quântica: Introdução e Algoritmos com Qiskit" 
 shortname: Qiskit
 schedule: A definir.
 lecturer: Bruna Shinohara (DFMT-IFUSP)
