@@ -4,6 +4,7 @@ shortname: Qiskit
 schedule: A definir.
 lecturer: Bruna Shinohara (DFMT-IFUSP)
 eventcode: jayme4-distancia
+layout: jayme4
 ---
 
 **Ministrante:** [Bruna Shinohara](http://lattes.cnpq.br/2905933345926530) ([DFMT-IFUSP](http://portal.if.usp.br/fmt/pt-br))
