@@ -80,7 +80,7 @@ Apesar de introdutório e de a palavra modelo estar cada vez mais tomando espaç
      <li> Sobre o status do conhecimento científico </li>
      <li> Como os cientistas escolhem modelos </li>
      <li> Perspectivas do perspectivismo </li>
-     <ul>
+     </ul>
      <li> Cartwright </li>
      <ul>
      <li> Sobre as leis da natureza </li>
