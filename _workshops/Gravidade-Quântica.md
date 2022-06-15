@@ -118,12 +118,10 @@ Saueressig</li>
 YouTube: </li>
    <ul>
      <li> Introdução ao grupo de renormalização
-funcional (https://www.youtube.com/playlist?
-list=PLdMypOmT56qYa7LWbUZ43Lu2leW9E
+funcional (https://www.youtube.com/playlist?list=PLdMypOmT56qYa7LWbUZ43Lu2leW9E
 WP1z) </li>
      <li> Gravidade Quântica Assintoticamente Segura
-(https://www.youtube.com/playlist?
-list=PLdMypOmT56qZyQiuUTdnDnvlqhBnzG
+(https://www.youtube.com/playlist?list=PLdMypOmT56qZyQiuUTdnDnvlqhBnzG
 ykR) </li>
     </ul>
  </ul>
