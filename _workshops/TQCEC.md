@@ -4,6 +4,7 @@ shortname: TQCEC
 schedule: A definir.
 lecturer: Prof. Dr. André Landulfo (UFABC)
 vagas:
+layout: jayme4
 eventcode: jayme4-presencial
 ---
 
