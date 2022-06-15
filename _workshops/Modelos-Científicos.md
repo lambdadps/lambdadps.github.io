@@ -102,8 +102,8 @@ Apesar de introdutório e de a palavra modelo estar cada vez mais tomando espaç
 
 <div style="text-align: justify">
  <ul>
-  <li>  Nielsen, Michael A., and Isaac Chuang. "Quantum computation and quantum information." (2002): 558-559. </li>
-   <li> Lecture Notes for Physics 219: Quantum Computation https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.70.9272&rep=rep1&type=pdf</li>
-   <li> Qiskit textbook: https://qiskit.org/textbook/preface.html </li>
+  <li> </li>
+   <li> </li>
+   <li>  </li>
  </ul>
 </div>
