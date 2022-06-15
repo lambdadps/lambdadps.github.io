@@ -4,6 +4,7 @@ shortname: IA na Astrofísica
 schedule: A definir.
 lecturer: Roberta Duarte (IAG-USP)
 eventcode: jayme4-presencial
+layout: jayme4
 ---
 
 **Ministrantes:** [Roberta Duarte](http://lattes.cnpq.br/9249274937812955) ([IAG-USP](https://www.iag.usp.br/))
