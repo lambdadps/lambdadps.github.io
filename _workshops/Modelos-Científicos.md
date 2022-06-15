@@ -95,5 +95,4 @@ Apesar de introdutório e de a palavra modelo estar cada vez mais tomando espaç
      <li> O que ficou de fora </li>
      <li> Brevíssima sobre modelos e ensino de ciências </li>
     </ul>
-</div>
 
