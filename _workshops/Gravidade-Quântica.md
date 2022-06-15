@@ -7,7 +7,7 @@ eventcode: jayme4-distancia
 layout: jayme4
 ---
 
-**Ministrantes:** [Prof. Dr. Antônio Pereira]() ([IF-UFF](), [IMAPP - Radboud University])
+**Ministrantes:** [Prof. Dr. Antônio Pereira]() ([IF-UFF](), [IMAPP - Radboud University]())
 
 **Horário:** A definir.
 
