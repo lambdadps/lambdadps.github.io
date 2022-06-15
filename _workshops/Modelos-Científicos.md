@@ -3,7 +3,7 @@ title: "Introdução aos modelos científicos a partir da filosofia da ciência:
 shortname: Modelos Científicos
 schedule: A definir.
 lecturer: João Pedro Ghidini (DFEP-IFUSP)
-eventcode: jayme4-distancia
+eventcode: jayme4-presencial
 layout: jayme4
 ---
 
