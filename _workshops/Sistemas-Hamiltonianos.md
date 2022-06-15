@@ -4,6 +4,7 @@ shortname: Sistemas Hamiltonianos
 schedule: A definir.
 lecturer: Prof. Dr. Cristian Ortiz (IME-USP)
 eventcode: jayme4-presencial
+layout: jayme4
 ---
 
 **Ministrantes:** [Prof. Dr. Cristian Ortiz](https://sites.google.com/view/cristian-ortiz) ([IME-USP](https://www.ime.usp.br/))
