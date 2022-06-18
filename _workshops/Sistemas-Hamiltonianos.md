@@ -7,7 +7,7 @@ eventcode: jayme4-presencial
 layout: jayme4
 ---
 
-**Ministrantes:** [Prof. Dr. Cristian Ortiz](https://sites.google.com/view/cristian-ortiz) ([IME-USP](https://www.ime.usp.br/))
+**Ministrante:** [Prof. Dr. Cristian Ortiz](https://sites.google.com/view/cristian-ortiz) ([IME-USP](https://www.ime.usp.br/))
 
 **Horário:** A definir
 
@@ -33,7 +33,7 @@ layout: jayme4
 
 <div style="text-align: justify">
  <ul>
-  <li>  A. Cannas, <i>Lectures on Symplectic Geometry</i> </li>
-    <li> J. Mardsen e T. Ratiu, <i> Introduction to Mechanics and Symmetry </i> </li>
+  <li>  A. Cannas, <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjJpuON0bf4AhURnpUCHVZnAk8QFnoECAUQAQ&url=https%3A%2F%2Fpeople.math.ethz.ch%2F~acannas%2FPapers%2Flsg.pdf&usg=AOvVaw3jW5-CXsOZPOho0TZI1uGj"><i>Lectures on Symplectic Geometry</i></a>.</li>
+    <li>  J. Mardsen e T. Ratiu, <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjHt87n0Lf4AhXDjJUCHRDfCv4QFnoECAMQAQ&url=https%3A%2F%2Fwww.fisica.net%2Fmecanicaclassica%2Fintroduction_to_mechanics_and_symmetry_by_jerrold_marsden.pdf&usg=AOvVaw22DQWXc4bHgl1z_H7ciWWU"><i>Introduction to Mechanics and Symmetry</i></a>.</li>
  </ul>
 </div>
