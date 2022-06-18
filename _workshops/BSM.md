@@ -24,7 +24,7 @@ persistem sem resposta, como o problema da Hierarquia, a ausência de candidatos
 (ME), assim como a geração de massa para os neutrinos. Após isso, vamos apresentar exemplos de
 extensões do MP que ajudariam a solucionar tais problemas.
 
-**Pré-requisitos:** [Mecânica Quântica I](https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=4300403&verdis=1), desejável [Mecânica Clássica]().
+**Pré-requisitos:** [Mecânica Quântica I](https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=4300403&verdis=1), desejável [Mecânica Clássica](https://uspdigital.usp.br/jupiterweb/obterDisciplina?nomdis=&sgldis=4302305).
 
 **Programa do curso:**
 
@@ -36,7 +36,7 @@ Gauge.</li>
   <li>Aula 2. Modelo Padrão da Física de Partículas (parte II) -
 Lagrangiana do MP, Mecanismo de Higgs, Teorias Efetivas.</li>
   <li>Aula 3. Teorias Além do MP (parte I) - Problema da Hierarquia, Supersimetria. </li>
-  <li>Aula 4. Teorias Além do MP (parte II) - Geração de Massa dos Neutrinos, Mecanismo da Gangorra (see-saw). </li>
+  <li>Aula 4. Teorias Além do MP (parte II) - Geração de Massa dos Neutrinos, Mecanismo da Gangorra (<i>see-saw</i>). </li>
   <li>Aula 5. Teorias Além do MP (parte III) - Matéria Escura, Novos Mediadores Leves, Buscas fenomenológicas, Futuro da Física de Partículas. </li>
  </ul>
 </div>
@@ -45,10 +45,10 @@ Lagrangiana do MP, Mecanismo de Higgs, Teorias Efetivas.</li>
 
 <div style="text-align: justify">
  <ul>
-  <li>  Mark Thomson, Modern Particle Physics (2013) </li>
-   <li> Coughlan, G.D. and Dodd, J.E. and Gripaios, B.M., The Ideas of Particle Physics: An Introduction
-for Scientists, Cambridge University Press (2006)</li>
-   <li> Alex Pomarol, Beyond the Standard Model (arXiv:1202.1391) </li>
-    <li> S. P. Martin, A Supersymmetry Primer (arXiv:hep-ph/9709356) </li>
+  <li>  M. Thomson, <i>Modern Particle Physics</i> (2013) </li>
+   <li> Coughlan, G.D.; Dodd, J.E. and Gripaios, B.M., <i>The Ideas of Particle Physics: An Introduction
+for Scientists</i>, Cambridge University Press (2006)</li>
+   <li>A. Pomarol, <a href="https://arxiv.org/abs/1202.1391"><i>Beyond the Standard Model</i></a> </li>
+    <li> S. P. Martin, <a href="https://arxiv.org/abs/1202.1391"><i>A Supersymmetry Primer</i></a>  </li>
  </ul>
 </div>
