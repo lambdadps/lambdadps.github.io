@@ -27,7 +27,7 @@ layout: jayme4
  </ul>
 </div>
 
-**Pré-requisitos:** [Python](), [Cálculo I](), [Álgebra Linear]().
+**Pré-requisitos:** [Python](https://uspdigital.usp.br/jupiterweb/obterDisciplina?nomdis=&sgldis=MAC0115), [Cálculo I](https://uspdigital.usp.br/jupiterweb/obterDisciplina?nomdis=&sgldis=MAT0111), [Álgebra Linear](https://uspdigital.usp.br/jupiterweb/obterDisciplina?nomdis=&sgldis=MAT0122).
 
 **Bibliografia:**
 
