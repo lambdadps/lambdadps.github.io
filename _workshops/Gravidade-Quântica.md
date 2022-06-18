@@ -7,7 +7,7 @@ eventcode: jayme4-distancia
 layout: jayme4
 ---
 
-**Ministrantes:** [Prof. Dr. Antônio Pereira]() ([IF-UFF](), [IMAPP - Radboud University]())
+**Ministrante:** [Prof. Dr. Antônio Pereira]() ([IF-UFF](), [IMAPP - Radboud University]())
 
 **Horário:** A definir.
 
@@ -117,12 +117,8 @@ Saueressig</li>
    <li> Aulas disponíveis no canal “GravBR"do
 YouTube: </li>
    <ul>
-     <li> Introdução ao grupo de renormalização
-funcional (https://www.youtube.com/playlist?list=PLdMypOmT56qYa7LWbUZ43Lu2leW9E
-WP1z) </li>
-     <li> Gravidade Quântica Assintoticamente Segura
-(https://www.youtube.com/playlist?list=PLdMypOmT56qZyQiuUTdnDnvlqhBnzG
-ykR) </li>
+     <li>  <a href="https://www.youtube.com/playlist?list=PLdMypOmT56qYa7LWbUZ43Lu2leW9EWP1z">Introdução ao grupo de renormalização</a></li>
+     <li> <a href="https://www.youtube.com/playlist?list=PLdMypOmT56qZyQiuUTdnDnvlqhBnzGykR">Gravidade Quântica Assintoticamente Segura</a></li> </li>
     </ul>
  </ul>
 </div>
