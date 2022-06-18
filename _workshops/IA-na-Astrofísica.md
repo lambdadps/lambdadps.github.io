@@ -7,7 +7,7 @@ eventcode: jayme4-presencial
 layout: jayme4
 ---
 
-**Ministrantes:** [Roberta Duarte](http://lattes.cnpq.br/9249274937812955) ([IAG-USP](https://www.iag.usp.br/))
+**Ministrante:** [Roberta Duarte](http://lattes.cnpq.br/9249274937812955) ([IAG-USP](https://www.iag.usp.br/))
 
 **Horário:** A definir.
 
@@ -33,7 +33,7 @@ layout: jayme4
 
 <div style="text-align: justify">
  <ul>
-  <li>  Deep Learning, Ian Goodfellow, Yoshua Bengio and Aaron Courville.</li>
-   <li> Astronomia e Astrofísica, Kepler de Souza.</li>
+  <li>Deep Learning, Ian Goodfellow, Yoshua Bengio and Aaron Courville.</li>
+   <li>Astronomia e Astrofísica, Kepler de Souza.</li>
  </ul>
 </div>
