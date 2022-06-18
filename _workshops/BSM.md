@@ -47,7 +47,7 @@ Lagrangiana do MP, Mecanismo de Higgs, Teorias Efetivas.</li>
  <ul>
   <li>  M. Thomson, <i>Modern Particle Physics</i> (2013). </li>
    <li> Coughlan, G. D.; Dodd, J. E. and Gripaios, B. M., <i>The Ideas of Particle Physics: An Introduction for Scientists</i>, Cambridge University Press (2006).</li>
-   <li>A. Pomarol, <a href="https://arxiv.org/abs/1202.1391"><i>Beyond the Standard Model</i></a> .</li>
-    <li> S. P. Martin, <a href="https://arxiv.org/abs/1202.1391"><i>A Supersymmetry Primer</i></a>  .</li>
+   <li>A. Pomarol, <a href="https://arxiv.org/abs/1202.1391"><i>Beyond the Standard Model</i></a>.</li>
+    <li> S. P. Martin, <a href="https://arxiv.org/abs/1202.1391"><i>A Supersymmetry Primer</i></a>.</li>
  </ul>
 </div>
