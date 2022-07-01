@@ -2,14 +2,14 @@
 title: "Computação Quântica: Introdução e Algoritmos com Qiskit" 
 shortname: Qiskit
 schedule: A definir.
-lecturer: Bruna Shinohara (DFMT-IFUSP)
+lecturer: Arthur Faria (IFGW-Unicamp, Universtät Stuttgart) e Bruna Shinohara (DFMT-IFUSP)
 eventcode: jayme4-distancia
 layout: jayme4
 ---
 
 # Computação Quântica: Introdução e Algoritmos com Qiskit
 
-**Ministrantes:** [Bruna Shinohara](http://lattes.cnpq.br/2905933345926530) ([DFMT-IFUSP](http://portal.if.usp.br/fmt/pt-br))
+**Ministrantes:** [Arthur Faria](http://lattes.cnpq.br/0367753472249522), ([IFGW-Unicamp](https://portal.ifi.unicamp.br/), [Universität Stuttgart](https://www.uni-stuttgart.de/)), [Bruna Shinohara](http://lattes.cnpq.br/2905933345926530) ([DFMT-IFUSP](http://portal.if.usp.br/fmt/pt-br)), 
 
 **Formato:** À distância.
 
@@ -19,7 +19,7 @@ layout: jayme4
 
 **Descrição:** Esse curso pretende introduzir aspectos da computação quântica que nem sempre são cobertos no curso de física, por envolverem conceitos computacionais como complexidade, modelo de circuitos e algoritmos. Vamos colocar a mão na massa utilizando <i>Qiskit</i>, a linguagem de programação quântica da IBM.
 
-**Pré-requisitos:** [Álgebra Linear]() e lógica de programação (preferencialmente [Python](https://uspdigital.usp.br/jupiterweb/obterDisciplina?nomdis=&sgldis=4302403)).
+**Pré-requisitos:** [Álgebra Linear](https://uspdigital.usp.br/jupiterweb/obterDisciplina?nomdis=&sgldis=MAT0122) e [lógica de programação](https://uspdigital.usp.br/jupiterweb/obterDisciplina?nomdis=&sgldis=4302403) (preferencialmente Python).
 
 **Programa do curso:**
 
@@ -55,8 +55,8 @@ layout: jayme4
 
 <div style="text-align: justify">
  <ul>
-  <li>  Nielsen, Michael A., and Isaac Chuang. "Quantum computation and quantum information." (2002): 558-559. </li>
-   <li> Lecture Notes for Physics 219: Quantum Computation https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.70.9272&rep=rep1&type=pdf</li>
-   <li> Qiskit textbook: https://qiskit.org/textbook/preface.html </li>
+  <li>  Nielsen, Michael A., and Isaac Chuang. <i>Quantum computation and quantum information</i>. (2002): 558-559. </li>
+  <li> <a href="https://qiskit.org/textbook/preface.html">Qiskit textbook</a>.</li>
+   <li> John Preskill Lecture Notes for Physics 219: <a href="https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.70.9272&rep=rep1&type=pdf"><i>Quantum Computation</i></a>.</li>
  </ul>
 </div>
