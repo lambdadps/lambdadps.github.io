@@ -7,6 +7,8 @@ eventcode: jayme4-presencial
 layout: jayme4
 ---
 
+#Inteligência Artificial na Astrofísica
+
 **Ministrante:** [Roberta Duarte](http://lattes.cnpq.br/9249274937812955) ([IAG-USP](https://www.iag.usp.br/))
 
 **Horário:** A definir.
