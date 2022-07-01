@@ -19,6 +19,8 @@ layout: jayme4
 
 **Descrição:** No curso, terá como introdução alguns conceitos de Astrofísica nas primeiras aulas, focando em Astrofísica Computacional e em buracos negros. E nas últimas duas aulas, os alunos irão ter contato com a criação de métodos de inteligência artificial que poderão ser aplicados na Astrofísica (e na Física, de forma geral).
 
+**Pré-requisitos:** [Python](https://uspdigital.usp.br/jupiterweb/obterDisciplina?nomdis=&sgldis=MAC0115), [Cálculo I](https://uspdigital.usp.br/jupiterweb/obterDisciplina?nomdis=&sgldis=MAT0111), [Álgebra Linear](https://uspdigital.usp.br/jupiterweb/obterDisciplina?nomdis=&sgldis=MAT0122).
+
 **Programa do curso:**
 
 <div style="text-align: justify">
@@ -30,8 +32,6 @@ layout: jayme4
   <li>Aula 5. Introdução à Inteligência Artificial: exemplo de aplicação na Astronomia. </li>
  </ul>
 </div>
-
-**Pré-requisitos:** [Python](https://uspdigital.usp.br/jupiterweb/obterDisciplina?nomdis=&sgldis=MAC0115), [Cálculo I](https://uspdigital.usp.br/jupiterweb/obterDisciplina?nomdis=&sgldis=MAT0111), [Álgebra Linear](https://uspdigital.usp.br/jupiterweb/obterDisciplina?nomdis=&sgldis=MAT0122).
 
 **Bibliografia:**
 
