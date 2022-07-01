@@ -23,7 +23,7 @@ layout: jayme4
 
  Como aplicação concreta, mostraremos que, nesta abordagem, o famoso teorema de Kochen-Specker, um resultado central para os fundamentos da teoria quântica, se refere ao fato de o “espaço de estados” no topos associado aos contextos clássicos não possuir nenhum “ponto” (e mesmo assim ser “não vazio”, possuindo “partes” não triviais!). O minicurso conterá uma introdução à teoria de categorias focada nos fatos mais relevantes para a aplicação em questão, e o conhecimento prévio desta teoria não será visto como pré-requisito. A exposição será o mais elementar possível e de caráter somente introdutório, mas dará o subsídio necessário para que o aluno interessado em aprofundar-se no tema possa aventurar-se na literatura original.
 
-**Pré-requisitos:** [Álgebra Linear]() e [Mecânica Quântica I](https://uspdigital.usp.br/jupiterweb/obterDisciplina?nomdis=&sgldis=4302403)
+**Pré-requisitos:** [Álgebra Linear](https://uspdigital.usp.br/jupiterweb/obterDisciplina?nomdis=&sgldis=MAT0122) e [Mecânica Quântica I](https://uspdigital.usp.br/jupiterweb/obterDisciplina?nomdis=&sgldis=4302403)
 
 **Programa do curso:**
 
