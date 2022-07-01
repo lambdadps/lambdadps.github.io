@@ -29,11 +29,10 @@ layout: jayme4
 
 <div style="text-align: justify">
  <ul>
-  <li>Aula 1. Noções algébricas importantes: álgebras, *-álgebras, espectro de um elemento de álgebra, estados, álgebras comutativas, espectro de uma álgebra comutativa. </li>
-  <li>Aula 2. O teorema de Kochen-Specker (versão usual). </li>
-  
-  <li>Aula 3. Introdução à teoria de categorias: noções elementares, funtores, transformações naturais e categorias de pré-feixes.</li>
-  <li>Aula 4. Categoria de matrizes autoadjuntas e uma versão categorial do teorema de K-S. </li>
+  <li>Aula 1. Noções algébricas importantes: álgebras, *-álgebras, espectro de um elemento de álgebra, estados, álgebras comutativas, espectro de uma álgebra comutativa. </li> <br>
+  <li>Aula 2. O teorema de Kochen-Specker (versão usual). </li> <br>
+  <li>Aula 3. Introdução à teoria de categorias: noções elementares, funtores, transformações naturais e categorias de pré-feixes.</li> <br>
+  <li>Aula 4. Categoria de matrizes autoadjuntas e uma versão categorial do teorema de K-S. </li> <br>
   <li>Aula 5. Pré-feixe espectral sobre contextos clássicos e K-S como ausência de pontos num espaço de estados. </li>
  </ul>
 </div>
@@ -44,7 +43,7 @@ layout: jayme4
 
 <div style="text-align: justify">
  <ul>
-  <li>  F. W. Lawvere, S. H. Schanuel. Conceptual Mathematics: A First Introduction to Categories. Cambridge University Press, 2009. </li>
+  <li>  F. W. Lawvere, S. H. Schanuel. Conceptual Mathematics: A First Introduction to Categories. Cambridge University Press, 2009. </li> <br>
    <li> S. Awodey. Category Theory. Oxford University Press, 2010.</li>
  </ul>
 </div>
@@ -53,8 +52,8 @@ layout: jayme4
 
 <div style="text-align: justify">
  <ul>
-  <li>  C. Flori. A First Course in Topos Quantum Theory. Springer, 2013. </li>
-   <li> H. Halvorson (editor). Deep Beauty: Understanding the Quantum World through Mathematical Innovation. Cambridge University Press, 2011.</li>
+  <li>  C. Flori. A First Course in Topos Quantum Theory. Springer, 2013. </li> <br>
+   <li> H. Halvorson (editor). Deep Beauty: Understanding the Quantum World through Mathematical Innovation. Cambridge University Press, 2011.</li> <br>
   <li> A. Döring, C. J. Isham. “What is a Thing?”: Topos Theory in the Foundations of Physics. In: B. Coecke (editor), New Structures for Physics. Lecture Notes in Physics, vol 813. Springer, 2010. </li>
  </ul>
 </div>
@@ -63,7 +62,7 @@ layout: jayme4
 
 <div style="text-align: justify">
  <ul>
-  <li> J. Butterfield, C.J. Isham. A Topos Perspective on the Kochen–Specker Theorem I: Quantum States as Generalized Valuations (with C. J. Isham), International Journal on Theoretical Physics 11, 1998, 2669–2733. </li>
+  <li> J. Butterfield, C.J. Isham. A Topos Perspective on the Kochen–Specker Theorem I: Quantum States as Generalized Valuations (with C. J. Isham), International Journal on Theoretical Physics 11, 1998, 2669–2733. </li> <br>
   <li>  J. Butterfield, C.J. Isham. A Topos Perspective on the Kochen–Specker Theorem II: Conceptual Aspects and Classical Analogues (with C. J. Isham), International Journal on Theoretical Physics 38, 1999, 827–859. </li>
  </ul>
 </div>
