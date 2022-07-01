@@ -67,22 +67,23 @@ ajustado a depender do público inscrito nas aulas.
 
 <div style="text-align: justify">
  <ul>
-  <li>Noções básicas sobre a noção de campo, e.g.,
-campo eletromagnético.</li> <br>
-  <li>Aspectos básicos de mecânica analítica:
+  <li>Noções básicas sobre a noção de campo, <i>e.g.</i>, <a href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?nomdis=&sgldis=4302303">campo eletromagnético</a>.</li> <br>
+  
+  <li>Aspectos básicos de <a href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?nomdis=&sgldis=4302305">mecânica analítica</a>:
 formulações lagrangiana e hamiltoniana da
-mecânica</li> <br>
+mecânica.</li> <br>
   
   <li>Conhecimentos básicos de mecânica quântica
 (é desejável que seja o equivalente de um
-primeiro curso de mecânica quântica de
-graduação)</li> <br>
+primeiro curso de <a href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?nomdis=&sgldis=4302403">mecânica quântica da graduação</a>). </li> <br>
+  
   <li>É desejável que se tenha noções elementares
-de relatividade especial e geral. </li> <br>
-  <li>Um bônus: noções básicas de teoria quântica
-de campos (mas, vou supor desde o princípio
+de <a href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?nomdis=&sgldis=4300337">relatividade especial e geral</a>. </li> <br>
+  
+  <li>Um bônus: noções básicas de <a href="https://uspdigital.usp.br/jupiterweb/obterDisciplina?nomdis=&sgldis=4305107">teoria quântica de campos</a> (mas, vou supor desde o princípio
 que este não será um pré-requisito da vasta
-maioria da turma) </li>
+maioria da turma).</li>
+  
  </ul>
 </div>
 
@@ -93,7 +94,7 @@ maioria da turma) </li>
   <li>Aula 1. Introdução às interações fundamentais e ao
 problema da gravidade quântica </li> <br>
   
-  <li>Aula 2.Gravidade quântica através da integral de
+  <li>Aula 2. Gravidade quântica através da integral de
 Feynman </li> <br>
   
   <li>Aula 3. Constantes que não são constantes e o
