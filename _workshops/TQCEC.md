@@ -10,7 +10,7 @@ eventcode: jayme4-presencial
 
 # Uma Introdução à Teoria Quântica de Campos em Espaços-Tempos Curvos <br><br>
 
-**Ministrantes:** [Prof. Dr. André Landulfo](http://lattes.cnpq.br/2705752886744456) ([UFABC](https://www.ufabc.edu.br/))
+**Ministrante:** [Prof. Dr. André Landulfo](http://lattes.cnpq.br/2705752886744456) ([UFABC](https://www.ufabc.edu.br/))
 
 **Formato:** Presencial.
 
