@@ -55,8 +55,8 @@ layout: jayme4
 
 <div style="text-align: justify">
  <ul>
-  <li>  Nielsen, Michael A., and Isaac Chuang. <i>Quantum computation and quantum information</i>. (2002): 558-559. </li>
-  <li> <a href="https://qiskit.org/textbook/preface.html">Qiskit textbook</a>.</li>
+  <li>  Nielsen, Michael A., and Isaac Chuang. <i>Quantum computation and quantum information</i>. (2002): 558-559. </li> <br>
+  <li> <a href="https://qiskit.org/textbook/preface.html">Qiskit textbook</a>.</li> <br>
    <li> John Preskill Lecture Notes for Physics 219: <a href="https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.70.9272&rep=rep1&type=pdf"><i>Quantum Computation</i></a>.</li>
  </ul>
 </div>
