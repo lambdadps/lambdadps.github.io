@@ -11,6 +11,8 @@ layout: jayme4
 
 **Ministrante:** [João Pedro Ghidini](http://lattes.cnpq.br/6401439148291747) ([DFEP-IFUSP](http://portal.if.usp.br/fep/))
 
+**Formato:** Presencial.
+
 **Horário:** A definir.
 
 **Carga Horária Total:** 10h
