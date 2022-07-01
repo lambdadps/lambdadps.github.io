@@ -2,7 +2,7 @@
 title: Introdução à Cosmologia
 shortname: Cosmologia
 schedule: A definir.
-lecturer: Elisa Ferreira (DFMA-IFUSP, Kavli IPMU)
+lecturer: Profa. Dra. Elisa Ferreira (DFMA-IFUSP, Kavli IPMU)
 eventcode: jayme4-distancia
 layout: jayme4
 ---
