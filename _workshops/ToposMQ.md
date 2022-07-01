@@ -1,6 +1,6 @@
 ---
 title: Aplicação da Teoria de Topos aos Fundamentos Matemáticos da Teoria Quântica
-shortname: Topos na MQ
+shortname: Teoria de Topos
 schedule: A definir.
 lecturer: Prof. Dr. Walter Pedra (DFMA-IFUSP)
 eventcode: jayme4-distancia
