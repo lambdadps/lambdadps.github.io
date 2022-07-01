@@ -6,7 +6,7 @@ lecturer: Profa. Dra. Elisa Ferreira (DFMA-IFUSP, Kavli IPMU)
 eventcode: jayme4-distancia
 layout: jayme4
 ---
-# Introdução à Cosmologia
+# Introdução à Cosmologia <br><br>
 
 **Ministrante:** [Profa. Dra. Elisa Ferreira](http://lattes.cnpq.br/9760822468503576) ([DFMA-IFUSP](http://portal.if.usp.br/fma/pt-br/in%C3%ADcio-departamento-de-f%C3%ADsica-matem%C3%A1tica), [Kavli IPMU](https://kavlifoundation.org/institutes/kavli-institute-for-the-physics-and-mathematics-of-the-universe))
 
