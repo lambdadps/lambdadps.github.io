@@ -19,6 +19,8 @@ layout: jayme4
 
 **Descrição:** O objetivo deste minicurso consiste em apresentar alguns conceitos básicos da Geometria Simplética, uma sub-área da Geometria Diferencial que surge no formalismo geométrico da Mecânica Hamiltoniana. Os objetos de estudo da Geometria Simplética são as variedades simpléticas. Porém, neste curso daremos atenção aos espaços vetoriais simpléticos e exemplos de sistemas Hamiltonianos que podem ser descritos neste contexto. Se o tempo permitir, poderemos estudar situações não-lineares.
 
+**Pré-requisitos:** [Álgebra Linear I](https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=MAT0122&verdis=2) e [Cálculo em várias variáveis](https://uspdigital.usp.br/jupiterweb/obterDisciplina?nomdis=&sgldis=MAT0216)
+
 **Programa do curso:**
 
 <div style="text-align: justify">
@@ -30,8 +32,6 @@ layout: jayme4
   <li>Aula 5. Panorama sobre estudo futuro. </li>
  </ul>
 </div>
-
-**Pré-requisitos:** [Álgebra Linear I](https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=MAT0122&verdis=2) e [Cálculo em várias variáveis](https://uspdigital.usp.br/jupiterweb/obterDisciplina?nomdis=&sgldis=MAT0216)
 
 **Bibliografia:**
 
