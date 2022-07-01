@@ -7,7 +7,7 @@ eventcode: jayme4-distancia
 layout: jayme4
 ---
 
-# Aplicação da Teoria de Topos aos Fundamentos Matemáticos da Teoria Quântica
+# Aplicação da Teoria de Topos aos Fundamentos Matemáticos da Teoria Quântica <br><br>
 
 **Ministrante:** [Prof. Dr. Walter Pedra](http://lattes.cnpq.br/1498618533380124) ([DFMA-IFUSP](http://portal.if.usp.br/fma/pt-br/in%C3%ADcio-departamento-de-f%C3%ADsica-matem%C3%A1tica))
 
