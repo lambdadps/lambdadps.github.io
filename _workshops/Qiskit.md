@@ -7,7 +7,7 @@ eventcode: jayme4-distancia
 layout: jayme4
 ---
 
-# Computação Quântica: Introdução e Algoritmos com Qiskit
+# Computação Quântica: Introdução e Algoritmos com Qiskit <br><br>
 
 **Ministrantes:** [Arthur Faria](http://lattes.cnpq.br/0367753472249522) ([IFGW-Unicamp](https://portal.ifi.unicamp.br/), [Universität Stuttgart](https://www.uni-stuttgart.de/)), [Bruna Shinohara](http://lattes.cnpq.br/2905933345926530) ([DFMT-IFUSP](http://portal.if.usp.br/fmt/pt-br)), 
 
