@@ -12,6 +12,8 @@ eventcode: jayme4-presencial
 
 **Ministrantes:** [Prof. Dr. André Landulfo](http://lattes.cnpq.br/2705752886744456) ([UFABC](https://www.ufabc.edu.br/))
 
+**Formato:** Presencial.
+
 **Horário:** A definir.
 
 **Carga Horária Total:** 10h
