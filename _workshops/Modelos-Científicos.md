@@ -7,7 +7,7 @@ eventcode: jayme4-presencial
 layout: jayme4
 ---
 
-#Introdução aos modelos científicos a partir da filosofia da ciência: uma abordagem pela física
+# Introdução aos modelos científicos a partir da filosofia da ciência: uma abordagem pela física
 
 **Ministrante:** [João Pedro Ghidini](http://lattes.cnpq.br/6401439148291747) ([DFEP-IFUSP](http://portal.if.usp.br/fep/))
 
