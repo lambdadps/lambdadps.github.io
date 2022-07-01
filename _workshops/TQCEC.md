@@ -32,9 +32,11 @@ das fronteiras da pesquisa atual na área, a termodinâmica de buracos negros e 
  <ol>
   <li>Breve introdução a alguns aspectos de geometria diferencial como definição de variedades
     e tensores (em particular o tensor métrico), curvas causais (e alguns conjuntos formado usando elas) e superfícies de Cauchy. Além disso, começaremos uma revisão de alguns dos aspectos de relatividade geral necessários para o curso.</li>
+  
   <li>Terminaremos a revisão dos tópicos de relatividade geral necessários e estudaremos as
     propriedades de um campo escalar livre em espaços-tempos globalmente hiperbólicos. Iniciaremos
     a introdução à quantização de campos em espaços-tempos curvos reformulando a quantização do oscilador harmônico de uma maneira que mimetize o procedimento que será seguido para campos em espaços-tempos gerais.</li>
+  
   <li>Desenvolveremos o procedimento de quantização canônica de um campo escalar livre
     em um espaço-tempo globalmente hiperbólico. Mostraremos que a noção de vácuo e (quando
     existir) de partícula não são únicas e que não existe em geral um vácuo preferencial. Discutiremos
@@ -42,9 +44,11 @@ das fronteiras da pesquisa atual na área, a termodinâmica de buracos negros e 
     campos e não de partículas. Por fim, mostraremos que, quando o espaço-tempo admite simetrias,
     podemos fazer uma escolha ''natural'' de um estado e vácuo e dar uma interpretação em termos
     de partículas para as excitações do campo.</li>
+  
   <li>Nessa aula, começaremos a discutir dois efeitos paradigmáticos, os chamados <i>efeito Unruh</i> e <i>efeito Hawking</i>. Começaremos discutindo o o efeito Unruh, que afirma que observadores
     uniformemente acelerados no vácuo dos observadores inerciais se sentem imersos em um banho térmico com uma temperatura proporcional à sua aceleração própria. Em seguida, começaremos a discutir o efeito Hawking que mostra que a formação de um buraco negro perturba o vácuo
     quântico produzindo partículas com um espectro térmico com temperatura inversamente proporcional à massa do buraco negro (assumindo buracos negros sem carga ou rotação).</li>
+  
   <li>Nessa última aula, terminaremos a discussão do efeito Hawking e mostraremos como
     ele justifica interpretarmos buracos negros como entidades termodinâmicas com temperatura e
     entropia bem definidas. Analisaremos as leis da termodinâmica de buracos negros (com ênfase
