@@ -11,6 +11,8 @@ layout: jayme4
 
 **Ministrante:** [Prof. Dr. Walter Pedra](http://lattes.cnpq.br/1498618533380124) ([DFMA-IFUSP](http://portal.if.usp.br/fma/pt-br/in%C3%ADcio-departamento-de-f%C3%ADsica-matem%C3%A1tica))
 
+**Formato:** À distância.
+
 **Horário:** A definir.
 
 **Carga Horária Total:** 10h
