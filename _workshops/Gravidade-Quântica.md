@@ -68,17 +68,17 @@ ajustado a depender do público inscrito nas aulas.
 <div style="text-align: justify">
  <ul>
   <li>Noções básicas sobre a noção de campo, e.g.,
-campo eletromagnético.</li>
+campo eletromagnético.</li> <br>
   <li>Aspectos básicos de mecânica analítica:
 formulações lagrangiana e hamiltoniana da
-mecânica</li>
+mecânica</li> <br>
   
   <li>Conhecimentos básicos de mecânica quântica
 (é desejável que seja o equivalente de um
 primeiro curso de mecânica quântica de
-graduação)</li>
+graduação)</li> <br>
   <li>É desejável que se tenha noções elementares
-de relatividade especial e geral. </li>
+de relatividade especial e geral. </li> <br>
   <li>Um bônus: noções básicas de teoria quântica
 de campos (mas, vou supor desde o princípio
 que este não será um pré-requisito da vasta
@@ -91,13 +91,15 @@ maioria da turma) </li>
 <div style="text-align: justify">
  <ul>
   <li>Aula 1. Introdução às interações fundamentais e ao
-problema da gravidade quântica </li>
+problema da gravidade quântica </li> <br>
+  
   <li>Aula 2.Gravidade quântica através da integral de
-Feynman </li>
+Feynman </li> <br>
   
   <li>Aula 3. Constantes que não são constantes e o
-grupo de renormalização</li>
-  <li>Aula 4. Segurança assintótica </li>
+grupo de renormalização</li> <br>
+  
+  <li>Aula 4. Segurança assintótica </li><br>
   <li>Aula 5. Onde estamos e para onde vamos (?) </li>
  </ul>
 </div>
@@ -113,16 +115,16 @@ referências que podem ser úteis:
 <div style="text-align: justify">
  <ul>
   <li> "An Introduction to Covariant Quantum Gravity
-and Asymptotic Safety", Roberto Percacci </li>
+and Asymptotic Safety", Roberto Percacci </li> <br>
    <li>“Quantum Gravity and the Functional
 Renormalization Group: The Road towards
 Asymptotic Safety”, Martin Reuter e Frank
-Saueressig</li>
+Saueressig</li> <br>
    <li> Aulas disponíveis no canal “GravBR"do
 YouTube: </li>
    <ul>
      <li>  <a href="https://www.youtube.com/playlist?list=PLdMypOmT56qYa7LWbUZ43Lu2leW9EWP1z">Introdução ao grupo de renormalização</a></li>
-     <li> <a href="https://www.youtube.com/playlist?list=PLdMypOmT56qZyQiuUTdnDnvlqhBnzGykR">Gravidade Quântica Assintoticamente Segura</a></li> </li>
+     <li> <a href="https://www.youtube.com/playlist?list=PLdMypOmT56qZyQiuUTdnDnvlqhBnzGykR">Gravidade Quântica Assintoticamente Segura</a></li> 
     </ul>
  </ul>
 </div>
