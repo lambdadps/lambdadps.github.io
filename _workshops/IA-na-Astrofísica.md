@@ -23,10 +23,10 @@ layout: jayme4
 
 <div style="text-align: justify">
  <ul>
-  <li>Aula 1. Introdução à Astronomia: estrelas, galáxias, estrutura em larga escala, cosmologia. </li>
-  <li>Aula 2. Introdução aos Buracos negros. </li>
-  <li>Aula 3. Introdução à Inteligência Artificial: teoria. </li>
-  <li>Aula 4. Introdução à Inteligência Artificial: aplicação em como criar uma rede neural. </li>
+  <li>Aula 1. Introdução à Astronomia: estrelas, galáxias, estrutura em larga escala, cosmologia. </li> <br>
+  <li>Aula 2. Introdução aos Buracos negros. </li> <br>
+  <li>Aula 3. Introdução à Inteligência Artificial: teoria. </li> <br>
+  <li>Aula 4. Introdução à Inteligência Artificial: aplicação em como criar uma rede neural. </li> <br>
   <li>Aula 5. Introdução à Inteligência Artificial: exemplo de aplicação na Astronomia. </li>
  </ul>
 </div>
@@ -37,7 +37,7 @@ layout: jayme4
 
 <div style="text-align: justify">
  <ul>
-  <li>Deep Learning, Ian Goodfellow, Yoshua Bengio and Aaron Courville.</li>
-   <li>Astronomia e Astrofísica, Kepler de Souza.</li>
+  <li>I. Goodfellow, Y. Bengio and A. Courville, <i>Deep Learning</i>.</li> <br>
+   <li>Kepler de Souza, <i>Astronomia e Astrofísica</i>.</li>
  </ul>
 </div>
