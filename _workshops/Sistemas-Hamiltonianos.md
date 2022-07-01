@@ -11,6 +11,8 @@ layout: jayme4
 
 **Ministrante:** [Prof. Dr. Cristian Ortiz](https://sites.google.com/view/cristian-ortiz) ([IME-USP](https://www.ime.usp.br/))
 
+**Formato:** Presencial.
+
 **Horário:** A definir
 
 **Carga Horária Total:** 10h
