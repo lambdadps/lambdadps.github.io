@@ -3,12 +3,12 @@ title: Introdução à Cosmologia
 shortname: Cosmologia
 schedule: A definir.
 lecturer: Elisa Ferreira (DFMA-IFUSP, Kavli IPMU)
-eventcode: jayme4-presencial
+eventcode: jayme4-distancia
 layout: jayme4
 ---
 # Introdução à Cosmologia
 
-**Ministrante:** [Profa. Dra. Elisa Ferreira](http://lattes.cnpq.br/9760822468503576) ([DFMA-IFUSP](http://portal.if.usp.br/fma/pt-br/in%C3%ADcio-departamento-de-f%C3%ADsica-matem%C3%A1tica))
+**Ministrante:** [Profa. Dra. Elisa Ferreira](http://lattes.cnpq.br/9760822468503576) ([DFMA-IFUSP](http://portal.if.usp.br/fma/pt-br/in%C3%ADcio-departamento-de-f%C3%ADsica-matem%C3%A1tica), [Kavli IPMU](https://kavlifoundation.org/institutes/kavli-institute-for-the-physics-and-mathematics-of-the-universe))
 
 **Horário:** A definir
 
@@ -36,9 +36,9 @@ desafios. Pretendo também dar um panorama dos atuais tópicos de pesquisa na á
 revisando algumas das grandes questões em aberto na cosmologia e as interessantes teorias
 que tentam explicá-las.
 
-**Pré-requisitos:** [Mecânica Quântica I](https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=4300403&verdis=1), desejável [Mecânica Clássica](https://uspdigital.usp.br/jupiterweb/obterDisciplina?nomdis=&sgldis=4302305).
+**Pré-requisitos:** Curso para alunos no final da graduação e começo da pós-graduação. Pré-requisitos somente os cursos básicos do curso de física ou astronomia. Conhecimento prévio de relatividade geral ou cosmologia não será necessário.
 
-**Programa do curso:** Curso para alunos no final da graduação e começo da pós-graduação. Pré-requisitos somente os cursos básicos do curso de física ou astronomia. Conhecimento prévio de relatividade geral ou cosmologia não será necessário.
+**Programa do curso:** 
 
 <div style="text-align: justify">
  <ul>
@@ -61,12 +61,14 @@ térmica do universo.</li>
  </ul>
 </div>
 
-<i> Livros e notas de aula mais avançados para quem se interessar: </i>
+Livros e notas de aula mais avançados para quem se interessar:
 
 <div style="text-align: justify">
  <ul>
   <li> Daniel Baumann, <i>Cosmology</i>, Cambridge University Press, 2022. 
     Ou, <a href="http://cosmology.amsterdam/education/cosmology/">notas de aula</a> do mesmo autor.</li>
+  <li>Scott Dodelson and Fabian Schmidt, <i>Modern Cosmology</i>, Academic Press; 2nd
+edition, 2020</li>
    <li>Viatcheslav Mukhanov, <i>Physical Foundations of Cosmology</i>, Cambridge University Press, 2005</li>
  </ul>
 </div>
