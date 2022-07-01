@@ -114,12 +114,12 @@ referências que podem ser úteis:
 
 <div style="text-align: justify">
  <ul>
-  <li> "An Introduction to Covariant Quantum Gravity
-and Asymptotic Safety", Roberto Percacci </li> <br>
-   <li>“Quantum Gravity and the Functional
+  <li> Percacci R., <i>An Introduction to Covariant Quantum Gravity
+and Asymptotic Safety</i>.</li> <br>
+   <li> Reuter, M. e Saueressig F., <i>Quantum Gravity and the Functional
 Renormalization Group: The Road towards
-Asymptotic Safety”, Martin Reuter e Frank
-Saueressig</li> <br>
+Asymptotic Safety</i>. </li><br>
+    
    <li> Aulas disponíveis no canal “GravBR"do
 YouTube: </li>
    <ul>
