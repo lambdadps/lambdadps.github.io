@@ -35,11 +35,15 @@ extensões do MP que ajudariam a solucionar tais problemas.
  <ul>
   <li>Aula 1. Modelo Padrão da Física de Partículas (parte I) -
 Breve Introdução à TQC, Conteúdo de Partículas, Interações Fundamentais, Simetrias e Grupo de
-Gauge.</li>
+Gauge.</li> <br>
+  
   <li>Aula 2. Modelo Padrão da Física de Partículas (parte II) -
-Lagrangiana do MP, Mecanismo de Higgs, Teorias Efetivas.</li>
-  <li>Aula 3. Teorias Além do MP (parte I) - Problema da Hierarquia, Supersimetria. </li>
-  <li>Aula 4. Teorias Além do MP (parte II) - Geração de Massa dos Neutrinos, Mecanismo da Gangorra (<i>see-saw</i>). </li>
+Lagrangiana do MP, Mecanismo de Higgs, Teorias Efetivas.</li> <br>
+  
+  <li>Aula 3. Teorias Além do MP (parte I) - Problema da Hierarquia, Supersimetria. </li> <br>
+  
+  <li>Aula 4. Teorias Além do MP (parte II) - Geração de Massa dos Neutrinos, Mecanismo da Gangorra (<i>see-saw</i>). </li> <br>
+  
   <li>Aula 5. Teorias Além do MP (parte III) - Matéria Escura, Novos Mediadores Leves, Buscas fenomenológicas, Futuro da Física de Partículas. </li>
  </ul>
 </div>
@@ -48,11 +52,13 @@ Lagrangiana do MP, Mecanismo de Higgs, Teorias Efetivas.</li>
 
 <div style="text-align: justify">
  <ul>
-  <li> Halzen, F. and Martin, A. D., <i>Quarks and Leptons: An Introductory Course in Modern
-Particle Physics</i>, John Wiley & Sons (1984) </li>
-  <li>  Thomson, M., <i>Modern Particle Physics</i> (2013). </li>
-   <li> Coughlan, G. D.; Dodd, J. E. and Gripaios, B. M., <i>The Ideas of Particle Physics: An Introduction for Scientists</i>, Cambridge University Press (2006).</li>
-   <li>A. Pomarol, <a href="https://arxiv.org/abs/1202.1391"><i>Beyond the Standard Model</i></a>.</li>
+  <li> Halzen, F. and Martin, A. D., <i>Quarks and Leptons: An Introductory Course in Modern Particle Physics</i>, John Wiley & Sons (1984) </li> <br>
+  
+  <li>  Thomson, M., <i>Modern Particle Physics</i> (2013). </li> <br>
+  
+   <li> Coughlan, G. D.; Dodd, J. E. and Gripaios, B. M., <i>The Ideas of Particle Physics: An Introduction for Scientists</i>, Cambridge University Press (2006).</li> <br>
+  
+   <li>A. Pomarol, <a href="https://arxiv.org/abs/1202.1391"><i>Beyond the Standard Model</i></a>.</li> <br>
     <li> S. P. Martin, <a href="https://arxiv.org/abs/hep-ph/9709356"><i>A Supersymmetry Primer</i></a>.</li>
  </ul>
 </div>
