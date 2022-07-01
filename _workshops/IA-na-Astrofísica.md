@@ -1,3 +1,5 @@
+# Inteligência Artificial na Astrofísica
+
 ---
 title: Inteligência Artificial na Astrofísica
 shortname: IA na Astrofísica
@@ -6,8 +8,6 @@ lecturer: Roberta Duarte (IAG-USP)
 eventcode: jayme4-presencial
 layout: jayme4
 ---
-
-# Inteligência Artificial na Astrofísica
 
 **Ministrante:** [Roberta Duarte](http://lattes.cnpq.br/9249274937812955) ([IAG-USP](https://www.iag.usp.br/))
 
