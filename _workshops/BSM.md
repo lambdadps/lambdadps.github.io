@@ -6,7 +6,7 @@ lecturer: Ana Foguel (DFMA-IFUSP)
 eventcode: jayme4-presencial
 layout: jayme4
 ---
-# Física Além do Modelo Padrão
+# Física Além do Modelo Padrão <br><br>
 
 **Ministrante:** [Ana Foguel](http://lattes.cnpq.br/6081148732571829) ([DFMA-IFUSP](http://portal.if.usp.br/fma/pt-br/in%C3%ADcio-departamento-de-f%C3%ADsica-matem%C3%A1tica))
 
