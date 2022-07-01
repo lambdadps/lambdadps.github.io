@@ -10,6 +10,8 @@ layout: jayme4
 
 **Ministrante:** [Ana Foguel](http://lattes.cnpq.br/6081148732571829) ([DFMA-IFUSP](http://portal.if.usp.br/fma/pt-br/in%C3%ADcio-departamento-de-f%C3%ADsica-matem%C3%A1tica))
 
+**Formato:** Presencial
+
 **Horário:** A definir
 
 **Carga Horária Total:** 10h
