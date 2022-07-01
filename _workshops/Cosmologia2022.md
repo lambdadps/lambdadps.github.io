@@ -45,11 +45,11 @@ que tentam explicá-las.
 <div style="text-align: justify">
  <ul>
   <li>Aula 1. Introdução geral. Breve introdução à relatividade geral. Estrutura do universo, expansão
-e evolução: as equações de Friedman e as componentes do universo.</li>
+e evolução: as equações de Friedman e as componentes do universo.</li> <br>
   <li>Aula 2. O modelo cosmólico padrão (LCDM): seus pilares teóricos e observacionais. A história
-térmica do universo.</li>
-  <li>Aula 3. O universo inomogêneo. Observações cosmológicas. </li>
-  <li>Aula 4. O universo primordial. Outras questões em aberto: tensões </li>
+térmica do universo.</li> <br>
+  <li>Aula 3. O universo inomogêneo. Observações cosmológicas. </li> <br>
+  <li>Aula 4. O universo primordial. Outras questões em aberto: tensões </li> <br>
   <li>Aula 5. Energia escura e matéria escura. </li>
  </ul>
 </div>
@@ -58,7 +58,7 @@ térmica do universo.</li>
 
 <div style="text-align: justify">
  <ul>
-  <li> B. Ryden, <i>Introduction to cosmology</i>, Addison-Wesley, San Francisco, USA (2003). </li>
+  <li> B. Ryden, <i>Introduction to cosmology</i>, Addison-Wesley, San Francisco, USA (2003). </li> <br>
    <li>(Recurso em português) <a href="https://teses.usp.br/teses/disponiveis/43/43134/tde-10012010-215917/publico/Dissertacao_Elisa_Ferreira.pdf"><i>Tese de mestrado Elisa G. M. Ferreira</i></a> (capítulos 2 e 3).</li>
  </ul>
 </div>
@@ -68,9 +68,9 @@ Livros e notas de aula mais avançados para quem se interessar:
 <div style="text-align: justify">
  <ul>
   <li> Daniel Baumann, <i>Cosmology</i>, Cambridge University Press, 2022. 
-    Ou, <a href="http://cosmology.amsterdam/education/cosmology/">notas de aula</a> do mesmo autor.</li>
+    Ou, <a href="http://cosmology.amsterdam/education/cosmology/">notas de aula</a> do mesmo autor.</li> <br>
   <li>Scott Dodelson and Fabian Schmidt, <i>Modern Cosmology</i>, Academic Press; 2nd
-edition, 2020</li>
+edition, 2020</li> <br>
    <li>Viatcheslav Mukhanov, <i>Physical Foundations of Cosmology</i>, Cambridge University Press, 2005</li>
  </ul>
 </div>
