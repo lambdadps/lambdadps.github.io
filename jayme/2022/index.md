@@ -4,7 +4,7 @@ Este evento reúne minicursos de diversos ramos da Física, voltados a estudante
 
 Todos os workshops ocorrerão entre 08 e 12 de agosto de 2022 de forma híbrida, com alguns cursos presenciais - que acontecerão nos auditórios do IFUSP - e outros à distância, em reuniões virtuais ao vivo em salas do Zoom. As inscrições são gratuitas e serão abertas em breve.
 
-Caso tenha dúvidas, comentários ou sugestões, fale conosco pelo email lambdadps@gmail.com
+Caso tenha dúvidas, comentários ou sugestões, fale conosco pelo email [lambdadps@gmail.com](mailto:lambdadps@gmail.com)
 
 Organização:
 
