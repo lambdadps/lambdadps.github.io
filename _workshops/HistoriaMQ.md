@@ -49,18 +49,19 @@ Assim, nesse curso de curta duração procuraremos apresentar uma seleção de t
       <li> Martin Klein; </li>
       <li> Thomas Kuhn;  </li>
       <li> Olivier Darrigol </li>
-     </ul>
-   </ul>
-  </ul>  <br>
+  </ul></ul></ul>  <br>
    
-  <li>Aula 3. A Dualidade Onda-Partícula na História: </li>
+  <li>Aula 3. </li>
+   <ul> 
+   <li>  A Dualidade Onda-Partícula na História: </li>
    <ul>
      <li> A "revolução experimental" dos anos 1890-1910; </li>
      <li> A tradição de pesquisa com raios-X e o mistério de sua natureza;  </li>
      <li> As propostas monistas de Einstein e Stark; </li>
      <li> Maurice e Louis de Broglie; </li>
      <li> A tese de doutorado de Louis de Broglie: enfim, o dualismo </li>
-   </ul> <br>
+   </ul>
+   </ul><br>
    
   <li>Aula 4.  </li> 
    <ul>
