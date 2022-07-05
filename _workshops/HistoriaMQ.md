@@ -44,7 +44,7 @@ Assim, nesse curso de curta duração procuraremos apresentar uma seleção de t
   <li> O que realmente aconteceu em 1900?
    <ul>
     <li> Max Planck: Revolucionário ou Conservador? </li>
-    <li> Debate Historiográfico acerca da obra de Planck e das origens da Física Quântica:
+    <li> Debate Historiográfico acerca da obra de Planck e das origens da Física Quântica: </li>
      <ul>
       <li> Martin Klein; </li>
       <li> Thomas Kuhn;  </li>
