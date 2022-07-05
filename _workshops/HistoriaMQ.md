@@ -31,27 +31,27 @@ Assim, nesse curso de curta duração procuraremos apresentar uma seleção de t
 **Programa do curso:** 
 
 <div style="text-align: justify">
- <ul>
-  <li>Aula 1. </li> 
-   <ul>
-    <li> Apresentação do Programa </li>
-    <li> Introdução ao campo de História da Física Quântica </li>
-    <li> Max Jammer e a História Conceitual da Física Quântica </li>
-   </ul> <br>
-   
-  <li>Aula 2. </li>
-  <ul>
-  <li> O que realmente aconteceu em 1900?
-   <ul>
-    <li> Max Planck: Revolucionário ou Conservador? </li>
-    <li> Debate Historiográfico acerca da obra de Planck e das origens da Física Quântica: </li>
+<ul>
+     <li>Aula 1. </li> 
      <ul>
-      <li> Martin Klein; </li>
-      <li> Thomas Kuhn;  </li>
-      <li> Olivier Darrigol </li>
-  </ul>
-   </ul>
-  </ul> <br>
+         <li> Apresentação do Programa </li>
+         <li> Introdução ao campo de História da Física Quântica </li>
+         <li> Max Jammer e a História Conceitual da Física Quântica </li>
+     </ul> <br>
+   
+     <li>Aula 2. </li>
+     <ul>
+          <li> O que realmente aconteceu em 1900? </li>
+          <ul>
+               <li> Max Planck: Revolucionário ou Conservador? </li>
+               <li> Debate Historiográfico acerca da obra de Planck e das origens da Física Quântica: </li>
+               <ul>
+                    <li> Martin Klein; </li>
+                    <li> Thomas Kuhn;  </li>
+                    <li> Olivier Darrigol. </li>
+               </ul>
+         </ul>
+     </ul> <br>
    
   <li>Aula 3. </li>
    <ul> 
