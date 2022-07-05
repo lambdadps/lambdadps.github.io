@@ -49,7 +49,7 @@ Assim, nesse curso de curta duração procuraremos apresentar uma seleção de t
       <li> Martin Klein; </li>
       <li> Thomas Kuhn;  </li>
       <li> Olivier Darrigol </li>
-  </ul></ul></ul>  <br>
+  </ul></ul>  <br>
    
   <li>Aula 3. </li>
    <ul> 
