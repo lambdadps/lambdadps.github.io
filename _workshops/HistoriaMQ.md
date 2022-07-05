@@ -8,7 +8,7 @@ layout: jayme4
 ---
 # História da Física Quântica para Maiores: Introdução aos debates teórico-metodológicos e a uma historiografia madura da Física <br><br>
 
-**Ministrante:** [André Fantin](http://lattes.cnpq.br/9760822468503576) ([DFEP-IFUSP](http://portal.if.usp.br/fma/pt-br/in%C3%ADcio-departamento-de-f%C3%ADsica-matem%C3%A1tica))
+**Ministrante:** [André Fantin](http://lattes.cnpq.br/2771902520888210) ([DFEP-IFUSP](https://portal.if.usp.br/fep/pt-br/p%C3%A1gina/in%C3%ADcio))
 
 **Formato:** À distância
 
