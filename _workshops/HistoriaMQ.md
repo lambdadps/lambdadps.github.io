@@ -40,18 +40,18 @@ Assim, nesse curso de curta duração procuraremos apresentar uma seleção de t
    </ul> <br>
    
   <li>Aula 2. </li>
+  <ul>
+  <li> O que realmente aconteceu em 1900?
    <ul>
-    <li> O que realmente aconteceu em 1900?
+    <li> Max Planck: Revolucionário ou Conservador? </li>
+    <li> Debate Historiográfico acerca da obra de Planck e das origens da Física Quântica:
      <ul>
-       <li> Max Planck: Revolucionário ou Conservador? </li>
-       <li> Debate Historiográfico acerca da obra de Planck e das origens da Física Quântica:
-         <ul>
-           <li> Martin Klein; </li>
-           <li> Thomas Kuhn;  </li>
-           <li> Olivier Darrigol </li>
-         </ul>
+      <li> Martin Klein; </li>
+      <li> Thomas Kuhn;  </li>
+      <li> Olivier Darrigol </li>
      </ul>
-   </ul>  <br>
+   </ul>
+  </ul>  <br>
    
   <li>Aula 3. A Dualidade Onda-Partícula na História: </li>
    <ul>
