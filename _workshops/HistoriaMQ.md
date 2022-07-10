@@ -38,7 +38,6 @@ Assim, nesse curso de curta duração procuraremos apresentar uma seleção de t
          <li> Introdução ao campo de História da Física Quântica </li>
          <li> Max Jammer e a História Conceitual da Física Quântica </li>
      </ul> <br>
-   
      <li>Aula 2. </li>
      <ul>
           <li> O que realmente aconteceu em 1900? </li>
@@ -77,7 +76,16 @@ Assim, nesse curso de curta duração procuraremos apresentar uma seleção de t
          </ul>
       </ul> 
   </ul>
-  <li>Aula 5. Energia escura e matéria escura. </li>
+  <li>Aula 5. A tese de Forman: seria a Mecânica Quântica culturalmente determinada? </li>
+     <ul>
+     <li> Cultura de Weimar e acausalidade; </li>
+     <li> As interpretações causais da Mecânica Quântica: evidência positiva da tese de Forman? </li>
+     <li> O debate Historiográfico: </li>
+         <ul>
+          <li> Críticas de Helge Kragh e Norton Wise; </li>
+          <li> Réplica de Forman </li>
+         </ul>
+     </ul>
  </ul>
 </div>
 
@@ -85,6 +93,24 @@ Assim, nesse curso de curta duração procuraremos apresentar uma seleção de t
 
 <div style="text-align: justify">
  <ul>
-  <li> B. Ryden, <i>Introduction to cosmology</i>, Addison-Wesley, San Francisco, USA (2003). </li> <br>
+  <li> BADINO, M. <i> What Have the Historians of Quantum Physics Ever Done for Us? </i>. Centaurus, v. 58, n. 4. 2016. pp. 327-346. </li><br>
+      
+  <li>  BLUM, A. S., JÄHNERT, M., LEHNER, C., & RENN, J.  Translation as heuristics: Heisenberg’s turn to matrix mechanics.<i> Studies in History and Philosophy of Science. Part B, Studies in History and Philosophy of Modern Physics</i>, v. 60, 2017. pp. 3-22.  </li><br>
+
+   <li> BADINO, M. <i> What Have the Historians of Quantum Physics Ever Done for Us? </i>. Centaurus, v. 58, n. 4. 2016. pp. 327-346. </li><br>
+      
+   <li> DARRIGOL, O. From c-numbers to q-numbers: The classical analogy in the history of quantum theory. University of California Press, Los Angeles. 1992. </li><br>
+      <li> FORMAN, P. Weimar Culture, Causality and Quantum Theory, 1918-27: Adaptation by German Physicists and Mathematicians to a Hostile Intellectual Environment. In: CARLSON, C, KOJEVNIKOV, A. & TRISCHLER, H. Weimar Culture and Quantum Mechanics: Selected Papers by Paul Forman and Contemporary Perspectives on the Forman Thesis. Imperial College Press & World Scientific Publishing, Londres & Cingapura. 2011. pp. 85-203. </li><br>
+      <li> FORMAN, P. The Reception of the Forman Thesis in Modernity and Post-Modernity. In: FREIRE JR., O. The Oxford Handbook of the History of Quantum Interpretations. Oxford University Press, Oxford. 2022.pp. 871-887. </li><br>
+      <li> JAMMER, M. The Conceptual Development of Quantum Mechanics. McGraw Hill Companies, New York. 1966.</li><br>
+      <li> JAMMER, M. The Philosophy of Quantum Mechanics: The Interpretations of Quantum Mechanics in Historical Perspective. Wiley, New York. 1974.</li><br>
+      <li> JÄHNERT, M. & LEHNER, C. The Early Debates about the Interpretation of Quantum Mechanics. In: FREIRE JR., O. The Oxford Handbook of the History of Quantum Interpretations. Oxford University Press, Oxford. 2022. pp. 135 -173. </li><br>
+      <li> JOAS, C. & LEHNER, C. The Classical Roots of Wave Mechanics: Schrödinger’s transformations of the optical-mechanical analogy. Studies in History and Philosophy of Science Part B -Studies in the History and Philosophy of Modern Physics, v. 40, n. 4. 2009. pp. 338-351.</li><br>
+      <li> KRAGH, H. Quantum Generations: A History of Physics in the Twentieth Century. Princeton University Press, New Jersey. 2002. </li><br>
+      <li> KUHN, T. S. Black-Body Problem and the Quantum Discontinuity, 1894-1912.  The University of Chicago Press, Chicago. 1978. </li><br>
+      <li> MARTINS, R. A. & ROSA, P. S. História da teoria quântica: a dualidade onda-partícula, de Einstein a De Broglie. Editora Livraria da Física, São Paulo. 2014. </li><br>
+      <li> WHEATON, B. R. The tiger and the shark: empirical roots of wave-particle dualism. Cambridge University Press, Londres. 1983. </li><br>
+      <li> WISE, M. N. Forman Reformed, Again. In: CARLSON, C, KOJEVNIKOV, A. & TRISCHLER, H. Weimar Culture and Quantum Mechanics: Selected Papers by Paul Forman and Contemporary Perspectives on the Forman Thesis. Imperial College Press & World Scientific Publishing, Londres & Cingapura. 2011. pp. 415-433.
+ </li>
  </ul>
 </div>
