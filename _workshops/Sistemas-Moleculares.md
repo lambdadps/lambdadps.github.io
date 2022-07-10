@@ -1,5 +1,5 @@
 ---
-title: Simulações Computacionais de Sistemas Moleculares
+title: Simulações Computacionais de Sistemas Moleculares**
 shortname: Sistemas Moleculares
 schedule: A definir.
 lecturer: 
@@ -11,7 +11,7 @@ layout: jayme4
 
 ***A confirmar*
 
-**Ministrante:** 
+**Ministrante:** A confirmar
 
 **Formato:** Presencial.
 
