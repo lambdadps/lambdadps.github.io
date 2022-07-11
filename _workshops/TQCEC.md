@@ -1,7 +1,7 @@
 ---
 title: Uma Introdução à Teoria Quântica de Campos em Espaços-Tempos Curvos
 shortname: TQCEC
-schedule: A definir.
+schedule: 10 às 12h
 lecturer: Prof. Dr. André Landulfo (UFABC)
 vagas:
 layout: jayme4
