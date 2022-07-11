@@ -14,7 +14,7 @@ eventcode: jayme4-presencial
 
 **Formato:** Presencial.
 
-**Horário:** A definir.
+**Horário:** 10 às 12h
 
 **Carga Horária Total:** 10h
 
