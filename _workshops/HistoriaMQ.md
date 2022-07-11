@@ -1,7 +1,7 @@
 ---
 title: "História da Física Quântica para Maiores: Introdução aos debates teórico-metodológicos e a uma historiografia madura da Física"
 shortname: História da Física Quântica
-schedule: A definir.
+schedule: 16 às 18h
 lecturer: André Fantin (DFEP-IFUSP)
 eventcode: jayme4-distancia
 layout: jayme4
