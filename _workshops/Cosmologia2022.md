@@ -10,9 +10,9 @@ layout: jayme4
 
 **Ministrante:** [Profa. Dra. Elisa Ferreira](https://www.elisagmferreira.com/) ([DFMA-IFUSP](http://portal.if.usp.br/fma/pt-br/in%C3%ADcio-departamento-de-f%C3%ADsica-matem%C3%A1tica), [Kavli IPMU](https://kavlifoundation.org/institutes/kavli-institute-for-the-physics-and-mathematics-of-the-universe))
 
-**Formato:** À distância
+**Formato:** À distância.
 
-**Horário:** A definir
+**Horário:** 10 às 12h.
 
 **Carga Horária Total:** 10h
 
