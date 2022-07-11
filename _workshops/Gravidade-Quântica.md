@@ -13,7 +13,7 @@ layout: jayme4
 
 **Formato:** À distância.
 
-**Horário:** A definir.
+**Horário:** 8 às 10h.
 
 **Carga Horária Total:** 10h
 
