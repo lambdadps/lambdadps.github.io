@@ -63,9 +63,16 @@ das fronteiras da pesquisa atual na área, a termodinâmica de buracos negros e 
 
 <div style="text-align: justify">
  <ul>
-  <li>1</li>
-  <ul>
-   <li>2</li>
-  </ul>
+  <li>R. M. Wald, <i>Quantum Field Theory in Curved Spacetime and Black Hole Thermodynamics</i> (The
+University of Chicago Press, Chicago, 1994).</li><br>
+   <li>L. E. Parker and D. J. Toms, <i>Quantum Field Theory in Curved Spacetime: Quantized Fields and
+Gravity</i> (Cambridge University Press, Cambridge, 2004).</li><br>
+  <li>S. A. Fulling, <i>Aspects of quantum field theory in curved spacetime</i>, (Cambridge University Press,
+Cambridge 1989).</li><br>
+  <li>N. D. Birrell e P. C. W. Davies, <i>Quantum Field Theory in Curved Space</i>, (Cambridge University
+Press, Cambridge, 1982).</li><br>
+  <li>R, M. Wald, <i>General Relativity</i> (The University of Chicago Press, Chicago, 1984).</li><br>
+  <li>R. M. Wald,  <a href="https://link.springer.com/article/10.12942/lrr-2001-6"><i>The Thermodynamics of Black Holes</i></a>, Living Rev. Relativity 4, 6 (2001).</li><br>
+  <li>W. G. Unruh and R. M. Wald, <i>Information Loss</i>, Rep. Prog. Phys. 80 092002 (2017).</li>
  </ul>
 </div>
