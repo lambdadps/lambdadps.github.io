@@ -1,7 +1,7 @@
 ---
 title: Sistemas Hamiltonianos em espaços vetoriais simpléticos
 shortname: Sistemas Hamiltonianos
-schedule: A definir.
+schedule: 16 às 18h
 lecturer: Prof. Dr. Cristian Ortiz (IME-USP)
 eventcode: jayme4-presencial
 layout: jayme4
