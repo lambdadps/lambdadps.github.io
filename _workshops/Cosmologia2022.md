@@ -59,7 +59,7 @@ térmica do universo.</li> <br>
 <div style="text-align: justify">
  <ul>
   <li> B. Ryden, <i>Introduction to cosmology</i>, Addison-Wesley, San Francisco, USA (2003). </li> <br>
-   <li>(Recurso em português) <a href="https://teses.usp.br/teses/disponiveis/43/43134/tde-10012010-215917/publico/Dissertacao_Elisa_Ferreira.pdf"><i>Tese de mestrado Elisa G. M. Ferreira</i></a> (capítulos 2 e 3).</li>
+   <li>(Recurso em português) <a href="https://teses.usp.br/teses/disponiveis/43/43134/tde-10012010-215917/publico/Dissertacao_Elisa_Ferreira.pdf">Tese de mestrado Elisa G. M. Ferreira</a> (capítulos 2 e 3).</li>
  </ul>
 </div>
 
