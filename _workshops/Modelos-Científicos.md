@@ -9,7 +9,7 @@ layout: jayme4
 
 # Introdução aos modelos científicos a partir da filosofia da ciência: uma abordagem pela física <br><br>
 
-**Ministrante:** [João Pedro Ghidini](http://lattes.cnpq.br/6401439148291747) ([DFEP-IFUSP](http://portal.if.usp.br/fep/))
+**Ministrante:** [João Pedro Ghidini](http://lattes.cnpq.br/6401439148291747) ([DFNC-IFUSP](https://portal.if.usp.br/fnc/pt-br/p%C3%A1gina/in%C3%ADcio))
 
 **Formato:** Presencial.
 
