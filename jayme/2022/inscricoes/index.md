@@ -1,4 +1,4 @@
-# Inscrições <br>
+# Inscrições <br><br>
 
 As inscrições devem ser realizadas [nesta página](http://portal.if.usp.br/extensao/node/575).
 
