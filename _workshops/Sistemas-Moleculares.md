@@ -1,5 +1,5 @@
 ---
-title: Simulações Computacionais de Sistemas Moleculares**
+title: Simulações Computacionais de Sistemas Moleculares
 shortname: Sistemas Moleculares
 schedule: 13 às 15h
 lecturer: Profa. Dra. Kaline Coutinho (DFGE-IFUSP)
