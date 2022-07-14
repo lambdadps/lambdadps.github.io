@@ -74,7 +74,15 @@ Assim, nesse curso de curta duração procuraremos apresentar uma seleção de t
          <li> Teoria da Dispersão </li>
          <li> Princípio da Correspondência </li>
          </ul>
+         <li> Os "Jovens Turcos": Heisenberg, Born e Jordan </li>
       </ul> 
+        <li> História da Mecânica Ondulatória: </li>
+        <ul>
+         <li> Schrödinger e a analogia óptico-mecânica </li>
+         <li> As equações de Schrödinger </li>
+        </ul>
+        <li> Mecânica Quântica vs. Mecânica Ondulatória: o problema da "visuabilidade"; </li>
+        <li> Brevíssimo comentário sobre a Mecânica de Dirac, a formalização de Von Neumann e a palestra Como de Niels Bohr (Complementaridade) </li><br>
   </ul>
   <li>Aula 5. A tese de Forman: seria a Mecânica Quântica culturalmente determinada? </li>
      <ul>
