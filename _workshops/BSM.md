@@ -1,7 +1,7 @@
 ---
 title: Física Além do Modelo Padrão
 shortname: Física Além do MP
-schedule: 16 às 18h
+schedule: 19 às 21h
 lecturer: Ana Foguel (DFMA-IFUSP)
 eventcode: jayme4-presencial
 layout: jayme4
