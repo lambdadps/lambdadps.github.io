@@ -12,7 +12,7 @@ layout: jayme4
 
 **Formato:** Presencial.
 
-**Horário:** 16 às 18h.
+**Horário:** 19 às 21h.
 
 **Carga Horária Total:** 10h
 
