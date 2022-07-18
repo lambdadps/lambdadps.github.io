@@ -1,7 +1,7 @@
 ---
 title: Inteligência Artificial na Astrofísica
 shortname: IA na Astrofísica
-schedule: A definir.
+schedule: 16 às 18h
 lecturer: Roberta Duarte (IAG-USP)
 eventcode: jayme4-presencial
 layout: jayme4
