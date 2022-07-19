@@ -107,12 +107,12 @@ Quanto a parte pedagógica, a estrutura do curso contará com discussões em peq
  <ul>
   <li>  CARTWRIGHT, N. The Dappled World: A study of the Boundaries of Science. Cambridge University Press, United State, New York. 1999 </li> <br>
    <li> DUTRA, L. H. A. Pragmática de Modelos: natureza, estrutura e uso dos modelos científicos. Edições Loyola, 2013. </li> <br>
-  <li> GIERE, R. Explaining Science: A cognitive approach. The University of Chicago Press, Chicago. 1988. </li>
-  <li> GIERE, R. Scientific Perspectivism. The University of Chicago Press, Chicago. 2006. </li>
-  <li> KUHN, T. S. A estrutura das revoluções científicas. Tradução de Beatriz V. Boeira e Nelson Boeira. Editora Perspectiva. São Paulo, 2018. </li>
-  <li> MOULINES, C. U. O desenvolvimento moderno da filosofia da ciência (1890-2000). Associação Filosófica Scientia Studia, tradução: Cláudio Abreu, São Paulo, 2020 </li>
-  <li> POPPER, K. A lógica da pesquisa científica. Tradução de Leonidas Hegenberg e Octanny S. Mota. Editora Cultrix. São Paulo, 2016. </li>
-  <li> SHINN, T. RAGOUET, P. Controvérsias sobre a ciência: por uma sociologia transversalista da atividade científica. Tradução de Pablo R. Mariconda. Associação Filosófica Scientia Studia, Editora 34, São Paulo, 2008. </li>
+  <li> GIERE, R. Explaining Science: A cognitive approach. The University of Chicago Press, Chicago. 1988. </li> <br>
+  <li> GIERE, R. Scientific Perspectivism. The University of Chicago Press, Chicago. 2006. </li> <br>
+  <li> KUHN, T. S. A estrutura das revoluções científicas. Tradução de Beatriz V. Boeira e Nelson Boeira. Editora Perspectiva. São Paulo, 2018. </li><br>
+  <li> MOULINES, C. U. O desenvolvimento moderno da filosofia da ciência (1890-2000). Associação Filosófica Scientia Studia, tradução: Cláudio Abreu, São Paulo, 2020 </li><br>
+  <li> POPPER, K. A lógica da pesquisa científica. Tradução de Leonidas Hegenberg e Octanny S. Mota. Editora Cultrix. São Paulo, 2016. </li><br>
+  <li> SHINN, T. RAGOUET, P. Controvérsias sobre a ciência: por uma sociologia transversalista da atividade científica. Tradução de Pablo R. Mariconda. Associação Filosófica Scientia Studia, Editora 34, São Paulo, 2008. </li><br>
   <li> VAN FRASSEN, B. A Imagem Científica. Tradução de Luiz H. A. Dutra. Editora Unesp, São Paulo - SP. 2006 </li>
  </ul>
 </div>
