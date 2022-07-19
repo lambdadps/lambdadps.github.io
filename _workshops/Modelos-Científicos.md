@@ -100,7 +100,8 @@ Quanto a parte pedagógica, a estrutura do curso contará com discussões em peq
      <li> O que ficou de fora </li>
      <li> Brevíssima sobre modelos e ensino de ciências </li>
     </ul>
-</div>
+  </ul>
+ </div>
  
  
  **Bibliografia:**
