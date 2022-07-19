@@ -13,7 +13,7 @@ Caso sua dúvida não esteja entre as que estão listadas abaixo, nos contate pe
 	<li>Haverá avaliação?</li>			
 		<p>Não, embora os ministrantes possam passar listas de exercícios opcionais.</p>
 	<li>Haverá certificação?</li>			
-		<p>Sim, os participantes inscritos nos workshops receberão certificação de horas, mediante presença em 75% das aulas.</p>
+		<p>Sim, os participantes inscritos nos workshops receberão certificação de horas, mediante presença em 75% das aulas. Não serão emitidos certificados para cursos que ocorreram no mesmo horário</p>
   <li>Por que é obrigatória a presença síncrona nas aulas para receber o certificado?</li>
     <p>Como os certificados não estão atrelados a qualquer avaliação, assistir às aulas síncronas é o único tipo de controle que pode ser feito para assegurar que os alunos de fato cumpriram as horas certificadas.</p>
 	<li>Não tenho os requisitos para o curso em que tenho interesse, isso é muito prejudicial ou ainda posso tentar assistir às aulas?</li>	
