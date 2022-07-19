@@ -25,7 +25,7 @@ No presente curso, introduziremos a abordagem de modelos de caráter conceitual 
 
 Quanto a parte pedagógica, a estrutura do curso contará com discussões em pequenos grupos e uma maior parte expositiva, que além do próprio conteúdo exposto no programa, considerará as discussões realizadas e trará exemplos que remetem a conteúdos comumente trabalhados nos cursos de graduação em física, afim de exemplificar o que está sendo estudado.
 
-**Pré-requisitos:** 
+**Pré-requisitos:** Nenhum.
 
 **Programa do curso:**
 
@@ -100,7 +100,9 @@ Quanto a parte pedagógica, a estrutura do curso contará com discussões em peq
      <li> O que ficou de fora </li>
      <li> Brevíssima sobre modelos e ensino de ciências </li>
     </ul>
-  
+</div>
+ 
+ 
  **Bibliografia:**
   
   <div style="text-align: justify">
