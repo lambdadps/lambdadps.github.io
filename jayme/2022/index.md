@@ -10,5 +10,7 @@ Organização:
 
 Hugo Portelinha <br>
 João Pedro Ghidini <br>
+João Lucas Rodrigues <br>
 Lua Figueiredo <br>
-Patrick Andriolo
+Patrick Andriolo <br>
+Victor Lins
