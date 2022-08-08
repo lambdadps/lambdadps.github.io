@@ -15,6 +15,8 @@ layout: jayme4
 
 **Horário:** 13 às 15h.
 
+**Dias:** 08 a 12 de agosto.
+
 **Carga Horária Total:** 10h
 
 **Descrição:** Especialmente a partir do século XX, a Filosofia da Ciência ganhou uma pluralidade de discussões e métodos. Dentro e fora do meio acadêmico, Karl Popper e Thomas Kuhn ganharam grande notoriedade. Se em outro momento a Filosofia da Ciência poderia ter sido tida como uma atividade intelectual de pouca relevância prática, em momentos de crise de confiança na ciência é comum que cientistas recorram à essa literatura para apontar a validade do conhecimento científico, principalmente à Popper.
