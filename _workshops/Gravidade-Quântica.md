@@ -15,6 +15,8 @@ layout: jayme4
 
 **Horário:** 8 às 10h.
 
+**Dias:** 08 a 12 de agosto.
+
 **Carga Horária Total:** 10h
 
 **Descrição:** A física das interações fundamentais,
