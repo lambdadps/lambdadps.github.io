@@ -24,5 +24,7 @@ Caso sua dúvida não esteja entre as que estão listadas abaixo, nos contate pe
 		<p>Em quantos quiser, mas notamos que não é possível ser certificado por dois cursos em conflito de horário, visto que é preciso 75% de presença em um curso para que haja aprovação.</p>
 	<li>Os cursos serão gravados e disponibilizados ao público após a escola?</li>			
 		<p>A critério do ministrante de cada curso, sendo que a <a href="https://lambdadps.github.io" target="_blank">DPS</a> disponibilizará seu <a href="https://www.youtube.com/channel/UCPntaDiZZa1OIGiAUssJTxQ" target="_blank">canal no YouTube</a> para hospedar as aulas que forem gravadas.</p>
+	<li>Em quais dias ocorrerá cada curso?</li>
+		<p>Todos os cursos, exceto o de Qiskit, ocorrerão nos dias 08 a 12 de agosto. O curso de Qiskit ocorrerá nos dias 08 a 11 de agosto.</p>
 </ol>
 </div>
