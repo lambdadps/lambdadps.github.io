@@ -15,6 +15,8 @@ layout: jayme4
 
 **Horário:** 16 às 18h.
 
+**Dias:** 08 a 12 de agosto.
+
 **Carga Horária Total:** 10h
 
 **Descrição:** O objetivo deste minicurso consiste em apresentar alguns conceitos básicos da Geometria Simplética, uma sub-área da Geometria Diferencial que surge no formalismo geométrico da Mecânica Hamiltoniana. Os objetos de estudo da Geometria Simplética são as variedades simpléticas. Porém, neste curso daremos atenção aos espaços vetoriais simpléticos e exemplos de sistemas Hamiltonianos que podem ser descritos neste contexto. Se o tempo permitir, poderemos estudar situações não-lineares.
