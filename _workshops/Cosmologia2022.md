@@ -14,6 +14,8 @@ layout: jayme4
 
 **Horário:** 10 às 12h.
 
+**Dias:** 08 a 12 de agosto
+
 **Carga Horária Total:** 10h
 
 **Descrição:** A cosmologia é a ciência que estuda o universo desde seu início, evolução, suas
