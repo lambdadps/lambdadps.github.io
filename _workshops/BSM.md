@@ -14,6 +14,8 @@ layout: jayme4
 
 **Horário:** 19 às 21h.
 
+**Dias:** 08 a 12 de agosto
+
 **Carga Horária Total:** 10h
 
 **Descrição:** Atualmente, o Modelo Padrão (MP) da física de partículas representa a descrição mais bem sucedida da
