@@ -16,6 +16,8 @@ eventcode: jayme4-presencial
 
 **Horário:** 10 às 12h.
 
+**Dias:** 08 a 12 de agosto.
+
 **Carga Horária Total:** 10h
 
 **Descrição:** A Teoria Quântica de Campos em Espaços-Tempos Curvos (TQCEC) faz previsões sólidas em
