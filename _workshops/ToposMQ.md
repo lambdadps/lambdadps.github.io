@@ -15,6 +15,8 @@ layout: jayme4
 
 **Horário:** 19 às 21h.
 
+**Dias:** 08 a 12 de agosto.
+
 **Carga Horária Total:** 10h
 
 **Descrição:** O objetivo do minicurso é o de dar uma breve introdução à abordagem baseada na teoria de topos aos fundamentos matemáticos da teoria quântica, proposta por J. Butterfield e C. Isham. Além das aplicações originais aos fundamentos da mecânica quântica, versões desta abordagem têm sido aplicadas recentemente também a tópicos de teoria da informação quântica, como a contextualidade e a não localidade. 
