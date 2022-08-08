@@ -26,5 +26,7 @@ Caso sua dúvida não esteja entre as que estão listadas abaixo, nos contate pe
 		<p>A critério do ministrante de cada curso, sendo que a <a href="https://lambdadps.github.io" target="_blank">DPS</a> disponibilizará seu <a href="https://www.youtube.com/channel/UCPntaDiZZa1OIGiAUssJTxQ" target="_blank">canal no YouTube</a> para hospedar as aulas que forem gravadas.</p>
 	<li>Em quais dias ocorrerá cada curso?</li>
 		<p>Todos os cursos, exceto o de Qiskit, ocorrerão nos dias 08 a 12 de agosto. O curso de Qiskit ocorrerá nos dias 08 a 11 de agosto.</p>
+	<li>Como será averiguada a presença em cursos online?</li>
+		<p>No <b>início</b> de cada aula, será enviado pelo chat um link para ser preenchido com as suas informações pessoais: número de inscrição, nome e e-mail.</p>
 </ol>
 </div>
