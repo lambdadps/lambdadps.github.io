@@ -10,6 +10,8 @@ layout: jayme4
 
 **Ministrante:** [Profa. Dra. Elisa Ferreira](https://www.elisagmferreira.com/) ([DFMA-IFUSP](http://portal.if.usp.br/fma/pt-br/in%C3%ADcio-departamento-de-f%C3%ADsica-matem%C3%A1tica), [Kavli IPMU](https://kavlifoundation.org/institutes/kavli-institute-for-the-physics-and-mathematics-of-the-universe))
 
+**Exercícios:** [Aulas 1 e 2](https://lambdadps.github.io/jayme/2022/pdf/IV_Jayme-Tiomno____Exercicios___Aula_1.pdf).
+
 **Formato:** À distância.
 
 **Horário:** 10 às 12h.
