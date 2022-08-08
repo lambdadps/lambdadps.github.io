@@ -15,6 +15,8 @@ layout: jayme4
 
 **Horário:** 13 às 15h.
 
+**Dias:** 08 a 12 de agosto.
+
 **Carga Horária Total:** 10h
 
 **Descrição:** Neste minicurso serão apresentadas as técnicas tradicionais de simulação de sistemas moleculares (Dinâmica Molecular e Monte Carlo), os conceitos fundamentais de mecânica clássica e estatística e procedimentos de análise de resultados. 
