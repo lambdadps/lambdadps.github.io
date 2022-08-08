@@ -15,6 +15,8 @@ layout: jayme4
 
 **Horário:** 13 às 15h.
 
+**Dias:** 08 a 11 de agosto.
+
 **Carga Horária Total:** 8h
 
 **Descrição:** Esse curso pretende introduzir aspectos da computação quântica que nem sempre são cobertos no curso de física, por envolverem conceitos computacionais como complexidade, modelo de circuitos e algoritmos. Vamos colocar a mão na massa utilizando <i>Qiskit</i>, a linguagem de programação quântica da IBM.
