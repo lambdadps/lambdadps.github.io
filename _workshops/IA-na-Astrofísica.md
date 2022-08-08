@@ -14,6 +14,8 @@ layout: jayme4
 
 **Horário:** 16 às 18h.
 
+**Dias:** 08 a 12 de agosto.
+
 **Carga Horária Total:** 10h
 
 **Descrição:** No curso, terá como introdução alguns conceitos de Astrofísica nas primeiras aulas, focando em Astrofísica Computacional e em buracos negros. E nas últimas duas aulas, os alunos irão ter contato com a criação de métodos de inteligência artificial que poderão ser aplicados na Astrofísica (e na Física, de forma geral).
