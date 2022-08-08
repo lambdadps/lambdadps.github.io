@@ -14,6 +14,8 @@ layout: jayme4
 
 **Horário:** 16 às 18h.
 
+**Dias:** 08 a 12 de agosto.
+
 **Carga Horária Total:** 10h.
 
 **Descrição:** A Física Quântica é tomada por desde cientistas, filósofos, sociólogos e educadores, até pelos próprios atores históricos que a engendraram, como o exemplo paradigmático do que se convencionou chamar uma "revolução científica": uma revisão conceitual, metodológica e mesmo filosófica profunda de uma disciplina científica.
