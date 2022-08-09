@@ -10,7 +10,7 @@ layout: jayme4
 
 **Ministrante:** [Profa. Dra. Elisa Ferreira](https://www.elisagmferreira.com/) ([DFMA-IFUSP](http://portal.if.usp.br/fma/pt-br/in%C3%ADcio-departamento-de-f%C3%ADsica-matem%C3%A1tica), [Kavli IPMU](https://kavlifoundation.org/institutes/kavli-institute-for-the-physics-and-mathematics-of-the-universe))
 
-**Slideshows:** [Aula 1](https://drive.google.com/file/d/1L0PXORRb8Xjzj7bZU7ACOeYX76UFSNX2/view), [Aula 2](https://lambdadps.github.io/jayme/2022/pdf/Cosmo2022Aula2.pdf)
+**Slideshows:** [Aula 1](https://drive.google.com/file/d/1L0PXORRb8Xjzj7bZU7ACOeYX76UFSNX2/view), [Aula 2](https://lambdadps.github.io/jayme/2022/pdf/Cosmo2022Aula2.pdf).
 
 **Exercícios:** [Aulas 1 e 2](https://lambdadps.github.io/jayme/2022/pdf/Cosmo2022ExerciciosAula1.pdf).
 
