@@ -11,6 +11,8 @@ layout: jayme4
 
 **Ministrante:** [Prof. Dr. Walter Pedra](http://lattes.cnpq.br/1498618533380124) ([DFMA-IFUSP](http://portal.if.usp.br/fma/pt-br/in%C3%ADcio-departamento-de-f%C3%ADsica-matem%C3%A1tica))
 
+**Slideshows:** [Aula 1](https://lambdadps.github.io/jayme/2022/pdf/ToposMQ1.pdf).
+
 **Formato:** À distância.
 
 **Horário:** 19 às 21h.
