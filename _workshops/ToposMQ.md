@@ -13,6 +13,8 @@ layout: jayme4
 
 **Slideshows:** [Aulas 1 a 5](https://lambdadps.github.io/jayme/2022/pdf/ToposMQ.pdf).
 
+**Aulas gravadas:** [YouTbe playlist](https://www.youtube.com/playlist?list=PLUtepDnpw2tNP6OKwq1a5zMEHmhykkbCC)
+
 **Formato:** À distância.
 
 **Horário:** 19 às 21h.
