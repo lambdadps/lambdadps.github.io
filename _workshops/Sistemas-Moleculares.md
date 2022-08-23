@@ -11,6 +11,8 @@ layout: jayme4
 
 **Ministrante:** [Profa. Dra. Kaline Coutinho](http://lattes.cnpq.br/9205662588542783) ([DFGE-IFUSP](https://portal.if.usp.br/fge/pt-br/p%C3%A1gina/in%C3%ADcio))
 
+**Slidwshows:** [Aula 1](https://drive.google.com/file/d/1FNJKxRdqOWyqr_n84y7ZzHJM7bFv3Uy9/view?usp=sharing), [Aula 2](https://drive.google.com/file/d/1Hm2xNTO862WUomwL_8OsQZ4sefEHWoY1/view?usp=sharing), [Aula 3](https://drive.google.com/file/d/1FaZLNkCp3isn1vEB_ILPaGPsM9qCQHpO/view?usp=sharing), [Aula 4](https://drive.google.com/file/d/1_uT36Lc3A9mxxqGKDhSHZnGEmj_v7bZo/view?usp=sharing), [Aula 5](https://drive.google.com/file/d/1_Mn7lxwUJMsT_74cC6NwHWVTxwE5Mybm/view?usp=sharing).
+
 **Formato:** Presencial.
 
 **Horário:** 13 às 15h.
