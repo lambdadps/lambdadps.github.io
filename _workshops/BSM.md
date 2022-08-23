@@ -10,7 +10,7 @@ layout: jayme4
 
 **Ministrante:** [Ana Foguel](http://lattes.cnpq.br/6081148732571829) ([DFMA-IFUSP](http://portal.if.usp.br/fma/pt-br/in%C3%ADcio-departamento-de-f%C3%ADsica-matem%C3%A1tica))
 
-**Slidewshows:** [Aulas 1 e 2](https://drive.google.com/file/d/121vXl-KxDBMXqKDuqQ5p1iuE7wZwJBkT/view?usp=sharing).
+**Slidewshows:** [Aulas 1 e 2](https://drive.google.com/file/d/121vXl-KxDBMXqKDuqQ5p1iuE7wZwJBkT/view?usp=sharing), [Aula 3](https://drive.google.com/file/d/1mp7Lchi8SewEkR2oiaVIehZUfHpMH5n4/view?usp=sharing), [Aula 4](https://drive.google.com/file/d/1EyooCV854Deq21V_0GBqsHr3U_0O8Rn_/view?usp=sharing), [Aula 5](https://drive.google.com/file/d/1RLh5OP0c_nOd8_GovFSfbe9gRJBttxsW/view?usp=sharing).
 
 **Formato:** Presencial.
 
