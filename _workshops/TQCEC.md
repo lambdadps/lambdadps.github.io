@@ -14,6 +14,8 @@ eventcode: jayme4-presencial
 
 **Slideshows:** [Aula 1](https://lambdadps.github.io/jayme/2022/pdf/TQCEC1.pdf) e [Aula 2](https://lambdadps.github.io/jayme/2022/pdf/TQCEC2.pdf).
 
+**Notas de Aula:** Disponíveis [neste link](https://lambdadps.github.io/jayme/2022/pdf/Notes_QFTCS.pdf).
+
 **Formato:** Presencial.
 
 **Horário:** 10 às 12h.
