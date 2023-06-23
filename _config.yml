@@ -4,6 +4,7 @@ description:
 
 jayme3title: III Escola Jayme Tiomno de Física Teórica
 jayme4title: IV Escola de Física Jayme Tiomno
+jayme5title: V Escola de Física Jayme Tiomno
 
 github:
   is_project_page: false
@@ -22,7 +23,7 @@ defaults:
       path: "jayme"
       type: "pages"
     values:
-      layout: "jayme4"      
+      layout: "jayme5"      
   - scope:
       path: ""
     values:
