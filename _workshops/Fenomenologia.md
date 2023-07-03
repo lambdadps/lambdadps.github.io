@@ -2,7 +2,7 @@
 title: Fenomenologia em Física de Partículas - Ligando Teoria e Experimento
 shortname: Fenomenologia
 schedule: A definir
-lecturer: Lucas Magno
+lecturer: Lucas Magno (DFMA-IFUSP)
 eventcode: jayme5
 layout: jayme5
 ---
