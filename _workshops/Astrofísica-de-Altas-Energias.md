@@ -1,12 +1,12 @@
 ---
-title: Astrofísica de Altas Energias e Radiações
+title: Introdução à Astrofísica de Altas Energias e Radiações
 shortname: Altas Energias
 schedule: A definir
 lecturer: Luana Passos Reis (IAG-USP)
 eventcode: jayme5
 layout: jayme5
 ---
-# Astrofísica de Altas Energias e Radiações <br><br>
+# Introdução à Astrofísica de Altas Energias e Radiações <br><br>
 
 **Ministrante:** [Luana Passos Reis](http://lattes.cnpq.br/1700594484276889) ([IAG-USP](https://www.iag.usp.br/))
 
