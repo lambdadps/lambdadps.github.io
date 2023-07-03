@@ -6,7 +6,7 @@ lecturer: Lucas Magno (DFMA-IFUSP)
 eventcode: jayme5
 layout: jayme5
 ---
-# Auto-Organização, Complexidade e Emergência <br><br>
+# Fenomenologia em Física de Partículas - Ligando Teoria e Experimento <br><br>
 
 **Ministrante:** [Lucas Magno Dantas Ramos](http://lattes.cnpq.br/8017445029431064) ([DFMA-IFUSP](https://portal.if.usp.br/fma/))
 
