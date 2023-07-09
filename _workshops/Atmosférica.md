@@ -2,13 +2,13 @@
 title: Tópicos de Física Atmosférica
 shortname: Física Atmosférica
 schedule: A definir
-lecturer: Marco Aurélio Brizzotti Andrade (DFAP-IFUSP)
+lecturer: Marco Aurélio de Menezes Franco (DFAP-IFUSP)
 eventcode: jayme5
 layout: jayme5
 ---
 # Tópicos de Física Atmosférica <br><br>
 
-**Ministrante:** [Marco Aurélio Brizzotti Andrade](http://lattes.cnpq.br/2044513229332794) ([DFAP-IFUSP](https://portal.if.usp.br/fap/))
+**Ministrante:** [Marco Aurélio de Menezes Franco ](http://lattes.cnpq.br/4378847535126616) ([DFAP-IFUSP](https://portal.if.usp.br/pesquisa/pt-br/grupos-do-ifusp/fap))
 
 **Formato:** Presencial.
 
