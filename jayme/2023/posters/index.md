@@ -1,4 +1,4 @@
-# Apresentações de pôsters
+# Apresentações de pôsteres
 
 Nesse ano contaremos com sessões de pôsteres para que es participantes do evento possam apresentar seus trabalhos de pesquisa, tanto a nível de graduação quanto pós-graduação.
 
