@@ -2,7 +2,7 @@
 title: Tópicos de Física Atmosférica
 shortname: Física Atmosférica
 schedule: A definir
-lecturer: Marco Aurélio de Menezes Franco (DFAP-IFUSP)
+lecturer: Marco Aurélio de Menezes Franco (IAG-USP)
 eventcode: jayme5
 layout: jayme5
 ---
