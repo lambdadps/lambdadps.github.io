@@ -8,7 +8,7 @@ layout: jayme5
 ---
 # Tópicos de Física Atmosférica <br><br>
 
-**Ministrante:** [Marco Aurélio de Menezes Franco ](http://lattes.cnpq.br/4378847535126616) ([DFAP-IFUSP](https://portal.if.usp.br/pesquisa/pt-br/grupos-do-ifusp/fap))
+**Ministrante:** [Marco Aurélio de Menezes Franco ](http://lattes.cnpq.br/4378847535126616) ([DFAP-IFUSP](https://portal.if.usp.br/fap/))
 
 **Formato:** Presencial.
 
