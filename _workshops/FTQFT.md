@@ -1,6 +1,6 @@
 ---
 title: Introdução à Teoria Quântica de Campos à Temperatura Finita
-shortname: QFT à Temperatura Finita
+shortname: Campos à Temperatura Finita
 schedule: A definir
 lecturer: Gustavo Sadao (DFMA-IFUSP)
 eventcode: jayme5
@@ -20,4 +20,6 @@ layout: jayme5
 
 **Descrição:** 
 
-**Pré-requisitos:** 
+**Bibliografia:** 
+
+**Pré-requisitos:** [Mecânica Quântica](https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=4302403&verdis=1) e [Mecânica Estatística](https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=4302401&verdis=1).
