@@ -45,8 +45,7 @@ enfatizando os processos ocorridos em Galáxias de Núcleo Ativo (AGNs).
 7. Detectores de Altas Energias;
 8. Introdução à Análise de dados (Astropy).
 
-**Bibliografia:** 
-
+   
 **Bibliografia:**
 
 <div style="text-align: justify">
