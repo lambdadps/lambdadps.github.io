@@ -24,18 +24,18 @@ layout: jayme5
 
 **Programa do curso:**
 
-Aula 1: Introdução ao curso: definição de uma categoria e exemplos.
-
-Aula 2: Funtores e transformações naturais.
-
-Aula 3: Conceitos matemáticos no contexto da teoria das categorias: monoides, grupos, isomorfismos.
-
-Aula 4: Construções em categorias: produto de categorias, categorias duais; representação diagramática de propriedades matemáticas.
-
-Aula 5: Discussão sobre algumas aplicações da teoria das categorias na física.
+1. Introdução ao curso: definição de uma categoria e exemplos.
+2. Funtores e transformações naturais.
+3. Conceitos matemáticos no contexto da teoria das categorias: monoides, grupos, isomorfismos.
+4. Construções em categorias: produto de categorias, categorias duais; representação diagramática de propriedades matemáticas.
+5. Discussão sobre algumas aplicações da teoria das categorias na física.
 
 **Bibliografia:**
 
-Steve Awodey, Category Theory.
-
-Saunders Mac Lane, Categories for the working mathematician.
+<div style="text-align: justify">
+ <ul>
+  <li> Steve Awodey, <i>Category Theory.</i> </li> <br>
+  <li> Saunders Mac Lane, <i>Categories for the working mathematician.</i> </li> <br>
+ </ul>
+</div>
+ 
