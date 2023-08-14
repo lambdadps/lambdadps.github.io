@@ -47,9 +47,16 @@ enfatizando os processos ocorridos em Galáxias de Núcleo Ativo (AGNs).
 
 **Bibliografia:** 
 
-Astrofísica de Altas Energias. Uma Première, Jorge E. Horvath;
-Radiative Processes in Astrophysics, George B. Rybicki & Alan P Lightman;
-Apostila: Plasmas em Astrofísica, Elisabete M. de Gouveia Dal Pino;
-Documentação do Astropy: Astropy Documentation — Astropy v5.3.1 .
+**Bibliografia:**
+
+<div style="text-align: justify">
+ <ul>
+  <li> <i>Radiative Processes in Astrophysics</i>, George B. Rybicki & Alan P Lightman; </li> <br>
+  <li> <i>Plasmas em Astrofísica</i> (apostila), Elisabete M. de Gouveia Dal Pino; </li> <br>
+  <li> Documentação do Astropy: <i>Astropy Documentation</i> — Astropy v5.3.1 . </li> <br>
+ </ul>
+</div>
+
+
 
 
