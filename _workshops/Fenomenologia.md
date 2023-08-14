@@ -49,6 +49,18 @@ de inferência e sua necessidade.
 Experimentos de oscilação de neutrinos; Detectores de Matéria Escura; TPCs de
 Argônio Líquido; Buscas invisíveis; Buscas por partículas de vida longa.
 
-
-
 **Bibliografia:**
+
+<div style="text-align: justify">
+ <ul>
+  <li> Enrico Bertuzzo, <i> <a href="fmatrm.if.usp.br/~enrico/SM/Particle_Physics_Book.pdf">Lectures on Particle Physics</i></a>, Notas de aula do curso de Física de
+Partículas de 2021 </li> <br>
+  
+  <li> Oscar Éboli, <i> <a href="https://edisciplinas.usp.br/course/view.php?id=85265">Física de Anéis de Colisão (2021)</i></a>, Vídeos e Slides da disciplina PGF5228, ministrada em 2021. </li> <br>
+  
+   <li> Francis Halzen and Alan D. Martin, <i>Quarks and Leptons: An Introductory Course in
+Modern Particle Physics</i>, John Wiley & Sons, 1984 </li> <br>
+  
+   <li> Andre de Gouvea, <i> <a href= "https://arxiv.org/abs/hep-ph/0411274">2004 TASI Lectures on Neutrino Physics</i></a>, 2004. </li> <br>
+ </ul>
+</div>
