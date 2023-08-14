@@ -53,13 +53,13 @@ Argônio Líquido; Buscas invisíveis; Buscas por partículas de vida longa.
 
 <div style="text-align: justify">
  <ul>
-  <li> Enrico Bertuzzo, <i> <a href="fmatrm.if.usp.br/~enrico/SM/Particle_Physics_Book.pdf">Lectures on Particle Physics</i></a>, Notas de aula do curso de Física de Partículas de 2021 </li>
+  <li> Enrico Bertuzzo, <i> <a href="fmatrm.if.usp.br/~enrico/SM/Particle_Physics_Book.pdf">Lectures on Particle Physics</a></i>, Notas de aula do curso de Física de Partículas de 2021 </li>
   
-  <li> Oscar Éboli, <i> <a href="https://edisciplinas.usp.br/course/view.php?id=85265">Física de Anéis de Colisão (2021)</i></a>, Vídeos e Slides da disciplina PGF5228, ministrada em 2021. </li>
+  <li> Oscar Éboli, <i> <a href="https://edisciplinas.usp.br/course/view.php?id=85265">Física de Anéis de Colisão (2021)</a></i>, Vídeos e Slides da disciplina PGF5228, ministrada em 2021. </li>
   
    <li> Francis Halzen and Alan D. Martin, <i>Quarks and Leptons: An Introductory Course in
 Modern Particle Physics</i>, John Wiley & Sons, 1984 </li>
   
-   <li> Andre de Gouvea, <i> <a href= "https://arxiv.org/abs/hep-ph/0411274">2004 TASI Lectures on Neutrino Physics</i></a>, 2004. </li>
+   <li> Andre de Gouvea, <i> <a href= "https://arxiv.org/abs/hep-ph/0411274">2004 TASI Lectures on Neutrino Physics</a></i>, 2004. </li>
  </ul>
 </div>
