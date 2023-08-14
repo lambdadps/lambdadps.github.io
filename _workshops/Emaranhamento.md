@@ -59,8 +59,13 @@ Quântico.
 
 **Bibliografia:**
 
-• Michael A. Nielsen and Isaac L. CHuang, Quantum Computation and Quantum information, John Cambridge
-University Press, 2000.
-• Vlatko Vedral, Introduction to Quantum Information Science, Oxford University Press, 2007.
-• Samuel L. Braunstein, Arun K. Pati (eds.) , Quantum Information with Continuous Variables, Springer
-Netherlands (2003)
+<div style="text-align: justify">
+ <ul>
+  <li>Michael A. Nielsen and Isaac L. CHuang, <i>Quantum Computation and Quantum information</i>, John Cambridge
+University Press, 2000. </li> <br>
+  <li> Vlatko Vedral, <i>Introduction to Quantum Information Science, Oxford University Press</i>, 2007. </li> <br>
+  <li> Samuel L. Braunstein, Arun K. Pati, <i>Quantum Information with Continuous Variables</i>, Springer
+Netherlands (2003) </li> <br>
+ </ul>
+</div>
+
