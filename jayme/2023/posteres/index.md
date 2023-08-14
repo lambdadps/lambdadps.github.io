@@ -9,6 +9,7 @@ As inscrições de pôsteres podem ser feitas no formulário abaixo até dia 01 
    <li> O idioma dos trabalhos é opcional: trabalhos em português e inglês são aceitos.</li>
    <li> Há gráficas próximas ao IFUSP, como a do Instituto de Matemática e Estatística e a da Faculdade de Arquitetura e Urbanismo, que imprimem pôsteres em lona ou papel fotográfico. </li>
    <li> Sugestões de templates podem ser encontradas <a href="https://www.overleaf.com/gallery/tagged/poster">nessa página.</a> </li>
+  <li> Estudantes que apresentarem trabalhos receberão certificados. </li>
  </ul>
 </div>
 
