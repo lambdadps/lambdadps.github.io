@@ -14,9 +14,9 @@ layout: jayme5
 
 **Horário:** A definir.
 
-**Dias:** 4 a 8 de setembro 
+**Dias:** 4 a 6 de setembro.
 
-**Carga Horária Total:** A definir
+**Carga Horária Total:** 6 horas.
 
 **Descrição:** A Astrofísica de Altas Energias é uma área da astronomia que estuda objetos e fenômenos
 que emitem radiação extremamente energética, como raios gama, raios X e raios cósmicos.
