@@ -16,7 +16,7 @@ layout: jayme5
 
 **Dias:** 4 a 8 de setembro 
 
-**Carga Horária Total:** 10h
+**Carga Horária Total:** 10 horas.
 
 **Descrição:** Neste minicurso exploraremos conceitos relacionados à ordem, organização e complexidade nas
 ciências naturais, de maneira introdutória, histórica e filosófica. Não abordaremos as técnicas
