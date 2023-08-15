@@ -52,7 +52,7 @@ enfatizando os processos ocorridos em Galáxias de Núcleo Ativo (AGNs).
  <ul>
   <li> <i>Radiative Processes in Astrophysics</i>, George B. Rybicki & Alan P Lightman; </li> <br>
   <li> <i>Plasmas em Astrofísica</i> (apostila), Elisabete M. de Gouveia Dal Pino; </li> <br>
-  <li> Documentação do Astropy: <i>Astropy Documentation</i> — <a href=https://docs.astropy.org/en/stable/>Astropy v5.3.1 </a>. </li> <br>
+  <li> Documentação do Astropy: <i>Astropy Documentation</i> — <a href = "https://docs.astropy.org/en/stable/"> Astropy v5.3.1 </a>. </li> <br>
  </ul>
 </div>
 
