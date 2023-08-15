@@ -1,6 +1,6 @@
 ---
 title: Fenomenologia em Física de Partículas - Ligando Teoria e Experimento
-shortname: Fenomenologia
+shortname: Partículas
 schedule: A definir
 lecturer: Lucas Magno (DFMA-IFUSP)
 eventcode: jayme5
@@ -16,7 +16,7 @@ layout: jayme5
 
 **Dias:** 4 a 8 de setembro 
 
-**Carga Horária Total:** 10h
+**Carga Horária Total:** 10 horas.
 
 **Descrição:** Usualmente, a Física costuma ser introduzida como dividida em dois setores
 complementares: Teoria e Experimento. Na prática, porém, há diversos cenários onde a
@@ -32,7 +32,7 @@ Padrão com técnicas experimentais, no contexto de tanto compreender como proje
 experimentos para explorar novos modelos, quanto entender quais modelos podem ser
 testados com determinadas classes de experimentos.
 
-**Pré-requisitos:** Mecânica Quântica I, Noções de Relatividade restrita, operações básicas com quadrivetores. Desejável: Mecânica Quântica II.
+**Pré-requisitos:** [Mecânica Quântica I](https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=4302403&verdis=1), Noções de Relatividade restrita, operações básicas com quadrivetores. Desejável: [Mecânica Quântica II](https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=4302404&verdis=1).
 
 **Programa do curso:**
 
