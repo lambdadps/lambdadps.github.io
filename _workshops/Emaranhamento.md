@@ -14,9 +14,9 @@ layout: jayme5
 
 **Horário:** A definir.
 
-**Dias:** 4 a 8 de setembro 
+**Dias:** 4 a 8 de setembro.
 
-**Carga Horária Total:** A definir
+**Carga Horária Total:** 10 horas.
 
 **Descrição:** Durante o século XX e começo do século XXI, a mecânica quântica não só foi uma quebra de paradigma nas
 base da física que pretendia descrever a natureza do mundo microscópico, mas também produziu uma
@@ -32,6 +32,8 @@ avanços da primeira revolução quântica e como surge o conceito de emaranhame
 introdutória dos estados emaranhados, os critérios de emaranhamento e como é possível medir essa
 propriedade no laboratório. Após isso, vamos apresentar as principais áreas em que será possível ter o que é
 chamada como segunda revolução quântica.
+
+**Pré-requisitos:** Física Moderna.
 
 **Ementa:**
 
@@ -54,8 +56,6 @@ sensoriamento quântico.
 9. Segunda revolução quântica.
 Tecnologias em Comunicação, Cryptografia, Processamento, Simulação e Sensoriamento
 Quântico.
-
-**Pré-requisitos:** Física Moderna.
 
 **Bibliografia:**
 
