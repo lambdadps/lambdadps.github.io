@@ -33,7 +33,7 @@ introdutória dos estados emaranhados, os critérios de emaranhamento e como é 
 propriedade no laboratório. Após isso, vamos apresentar as principais áreas em que será possível ter o que é
 chamada como segunda revolução quântica.
 
-**Pré-requisitos:** Física Moderna.
+**Pré-requisitos:** [Física Moderna](https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=4302311&verdis=1).
 
 **Ementa:**
 
