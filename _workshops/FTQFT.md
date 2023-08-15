@@ -16,7 +16,7 @@ layout: jayme5
 
 **Dias:** 4 a 8 de setembro 
 
-**Carga Horária Total:** A definir
+**Carga Horária Total:** 10 horas.
 
 **Descrição:** 
 
