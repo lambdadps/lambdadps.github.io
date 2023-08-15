@@ -32,7 +32,7 @@ crucial na emissão de radiação nessas faixas energéticas. O objetivo deste c
 introduzir aos estudantes essa área de pesquisa e seus principais conceitos e fenômenos,
 enfatizando os processos ocorridos em Galáxias de Núcleo Ativo (AGNs).
 
-**Pré-requisitos:** Eletromagnetismo I, desejável: Eletromagnetismo II, Física de Plasmas.
+**Pré-requisitos:** [Eletromagnetismo I](https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=4302303&verdis=1), desejável: [Eletromagnetismo II](https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=4302304&verdis=1), [Física de Plasmas](https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=4300326&verdis=1).
 
 **Ementa:** 
 
@@ -52,7 +52,7 @@ enfatizando os processos ocorridos em Galáxias de Núcleo Ativo (AGNs).
  <ul>
   <li> <i>Radiative Processes in Astrophysics</i>, George B. Rybicki & Alan P Lightman; </li> <br>
   <li> <i>Plasmas em Astrofísica</i> (apostila), Elisabete M. de Gouveia Dal Pino; </li> <br>
-  <li> Documentação do Astropy: <i>Astropy Documentation</i> — Astropy v5.3.1 . </li> <br>
+  <li> Documentação do Astropy: <i>Astropy Documentation</i> — <a link=https://docs.astropy.org/en/stable/>Astropy v5.3.1</a> . </li> <br>
  </ul>
 </div>
 
