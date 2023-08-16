@@ -1,6 +1,6 @@
 ---
 title: Auto-Organização, Complexidade e Emergência
-shortname: Auto-Organização
+shortname: Complexidade
 schedule: A definir
 lecturer: Osvaldo Pessoa (FFLCH-USP)
 eventcode: jayme5
