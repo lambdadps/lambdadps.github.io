@@ -20,6 +20,18 @@ layout: jayme5
 
 **Descrição:** 
 
+**Pré-requisitos:** [Mecânica Quântica](https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=4302403&verdis=1) e [Mecânica Estatística](https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=4302401&verdis=1).
+
 **Bibliografia:** 
 
-**Pré-requisitos:** [Mecânica Quântica](https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=4302403&verdis=1) e [Mecânica Estatística](https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=4302401&verdis=1).
+<div style="text-align: justify">
+ <ul>
+  <li> Le bellac, <i> Thermal Field Theory</i>. </li> <br>
+  <li> J. Kapusta, <i> Finite-temperature field theory</i>.   </li> <br>
+  <li> N.P.Landsman, <i> Real- and imaginary-time field theory at finite temperature and density</i>.  </li> <br>
+  <li> M. Laine, <i> Basics of Thermal Field Theory</i>.  </li> <br>
+  <li> M. Schwartz, <i> Quantum Field Theory and the Standard Model</i>.  </li> <br>
+ </ul>
+</div>
+
+
