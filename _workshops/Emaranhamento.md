@@ -41,19 +41,19 @@ chamada como segunda revolução quântica.
 Cem anos da mecânica quântica, principais desenvolvimentos tecnológicos, introdução ao
 emaranhamento.
 
-3. Estados quânticos e Desigualdade de Bell.
+2. Estados quânticos e Desigualdade de Bell.
 Sistema de dois níveis, Superposição de estados, sistemas bipartites, artigo EPR e desigualdade
 de Bell.
 
-5. Emaranhamento bipartite em Variáveis Discretas (DV).
+3. Emaranhamento bipartite em Variáveis Discretas (DV).
 Estados Separaveis, definindo o emaranhamento, criterios de emaranhamento,
 emaranhamento como recurso.
 
-7. Emaranhamento bipartite em variáveis Continuas (CV).
+4. Emaranhamento bipartite em variáveis Continuas (CV).
 Emaranhamento em variáveis continuas, critério de Duan e PPT, correlações quânticas para
 sensoriamento quântico.
 
-9. Segunda revolução quântica.
+5. Segunda revolução quântica.
 Tecnologias em Comunicação, Cryptografia, Processamento, Simulação e Sensoriamento
 Quântico.
 
