@@ -37,12 +37,19 @@ enfatizando os processos ocorridos em Galáxias de Núcleo Ativo (AGNs).
 **Ementa:** 
 
 1. Contexto de Astrofísica de Altas Energias;
+
 2. Galáxias de Núcleo Ativo (AGNs);
+
 3. Introdução à Radiações;
+
 4. Definição de Plasma;
+
 5. Processos Radioativos;
+
 6. Breve introdução à Magnetohidrodinâmica;
+
 7. Detectores de Altas Energias;
+
 8. Introdução à Análise de dados (Astropy).
 
    
