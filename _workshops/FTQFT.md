@@ -26,10 +26,10 @@ layout: jayme5
 
 <div style="text-align: justify">
  <ul>
-  <li> Le bellac, <i> Thermal Field Theory</i>. </li> <br>
+  <li> M. Le Bellac, <i> Thermal Field Theory</i>. </li> <br>
   <li> J. Kapusta, <i> Finite-temperature field theory</i>.   </li> <br>
-  <li> N.P.Landsman, <i> Real- and imaginary-time field theory at finite temperature and density</i>.  </li> <br>
-  <li> M. Laine, <i> Basics of Thermal Field Theory</i>.  </li> <br>
+  <li> N.P.Landsman, <i> <a href = "https://www.sciencedirect.com/science/article/pii/0370157387901219"> Real- and imaginary-time field theory at finite temperature and density</a></i>.  </li> <br>
+  <li> M. Laine, <i> <a href = "https://arxiv.org/abs/1701.01554">Basics of Thermal Field Theory</a></i>.  </li> <br>
   <li> M. Schwartz, <i> Quantum Field Theory and the Standard Model</i>.  </li> <br>
  </ul>
 </div>
