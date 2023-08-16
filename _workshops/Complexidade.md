@@ -37,9 +37,13 @@ conceito de “emergência” e do debate entre posições emergentistas e reduc
 **Programa do curso:**
 
 1. Ordem e Organização
+
 2. Cibernética e Sistêmica
+
 3. Auto-Organização e Flutuações
+
 4. Complexidade
+
 5. Emergência e Redução
 
 **Bibliografia:** A ser definida durante o decorrer das aulas.
