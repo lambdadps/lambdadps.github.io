@@ -25,9 +25,13 @@ layout: jayme5
 **Programa do curso:**
 
 1. Introdução ao curso: definição de uma categoria e exemplos.
+
 2. Funtores e transformações naturais.
+
 3. Conceitos matemáticos no contexto da teoria das categorias: monoides, grupos, isomorfismos.
+
 4. Construções em categorias: produto de categorias, categorias duais; representação diagramática de propriedades matemáticas.
+
 5. Discussão sobre algumas aplicações da teoria das categorias na física.
 
 **Bibliografia:**
