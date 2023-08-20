@@ -20,7 +20,7 @@ layout: jayme5
 
 **Descrição:** A compreensão profunda da física e química atmosféricas desempenha um papel crucial nos esforços para enfrentar os desafios relacionados às mudanças climáticas e ao aumento da temperatura média global. A atmosfera da Terra é um sistema complexo, onde processos físicos e químicos interagem de maneira intrincada, influenciando diretamente os padrões climáticos e a qualidade do ar que respiramos. As mudanças climáticas são impulsionadas em grande parte pelo aumento das concentrações de gases de efeito estufa na atmosfera, resultantes das atividades humanas, como a queima de combustíveis fósseis e o desmatamento. Ao estudar física e química atmosférica, os alunos adquirem conhecimento sobre os processos físicos que governam a dinâmica atmosférica, como a radiação solar, a formação de nuvens, os padrões de vento e as interações entre diferentes camadas da atmosfera. Além disso, o entendimento das reações químicas que ocorrem na atmosfera é fundamental para compreender a formação de poluentes atmosféricos, como ozônio e material particulado, que têm implicações diretas na saúde humana e na qualidade do ar. Este curso oferecerá aos alunos uma base introdutória de conhecimento teórico, ao mesmo tempo em que os envolve em exercícios numéricos e experimentos práticos.
 
-**Pré-requisitos:** Cálculo I, Física I. Desejável: Física II, Física III e Eletromagnetismo.
+**Pré-requisitos:** [Cálculo I](https://uspdigital.usp.br/jupiterweb/obterDisciplina?nomdis=&sgldis=MAT0111), [Física I](https://uspdigital.usp.br/jupiterweb/obterDisciplina?nomdis=&sgldis=4302111). Desejável: [Física II](https://uspdigital.usp.br/jupiterweb/obterDisciplina?nomdis=&sgldis=4302112), [Física III](https://uspdigital.usp.br/jupiterweb/obterDisciplina?nomdis=&sgldis=4302211) e [Eletromagnetismo I](https://uspdigital.usp.br/jupiterweb/obterDisciplina?nomdis=&sgldis=4302303).
 
 **Programa do curso:**
 
@@ -37,8 +37,8 @@ layout: jayme5
 <div style="text-align: justify">
  <ul>
   <li> Seinfeld, J.H. e Pandis, S.N. - <i>Atmospheric Chemistry and Physics: from air pollution to climate change</i>, John Wiley & Sons, New York, 1998, 1326p. </li> <br>
-  <li> Wallace, J.M. e Hobbs, P.V. - Atmospheric Science: An Introductory Survey. Academic Press, New York, 2006, 467p.   </li> <br>
-  <li> Tsonis, A.A. - An introduction to atmospheric thermodynamics, Cambridge University Press, New York, 2002, 171p. </li> <br>
-  <li> Daniel Jacob, Introduction to Atmospheric Chemistry, Princeton University Press, 1999. </li> <br>
+  <li> Wallace, J.M. e Hobbs, P.V. - <i>Atmospheric Science: An Introductory Survey</i>. Academic Press, New York, 2006, 467p.   </li> <br>
+  <li> Tsonis, A.A. - <i>An introduction to atmospheric thermodynamics</i>, Cambridge University Press, New York, 2002, 171p. </li> <br>
+  <li> Daniel Jacob, <i>Introduction to Atmospheric Chemistry</i>, Princeton University Press, 1999. </li> <br>
  </ul>
 </div>
