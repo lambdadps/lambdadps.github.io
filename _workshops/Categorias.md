@@ -8,7 +8,7 @@ layout: jayme5
 ---
 # Introdução à Teoria de Categorias <br><br>
 
-![categorias](https://github.com/lambdadps/lambdadps.github.io/blob/main/jayme/2023/imagens/categorias.png)
+![categorias](https://github.com/lambdadps/lambdadps.github.io/assets/83843721/fe01cb0b-6c90-430b-80b7-f85fb0c0a684)
 
 **Ministrante:** [Ana Camila Costa Esteves](http://lattes.cnpq.br/1385770278771708) ([DFMA-IFUSP](https://portal.if.usp.br/fma/))
 
