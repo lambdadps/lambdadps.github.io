@@ -1,7 +1,7 @@
 ---
 title: Fenomenologia em Física de Partículas - Ligando Teoria e Experimento
 shortname: Partículas
-schedule: A definir
+schedule: 16h às 18h
 lecturer: Lucas Magno (DFMA-IFUSP)
 eventcode: jayme5
 layout: jayme5
@@ -12,7 +12,7 @@ layout: jayme5
 
 **Formato:** Presencial.
 
-**Horário:** A definir.
+**Horário:** 16h às 18h
 
 **Dias:** 4 a 8 de setembro 
 
