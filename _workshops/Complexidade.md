@@ -1,7 +1,7 @@
 ---
 title: Auto-Organização, Complexidade e Emergência
 shortname: Complexidade
-schedule: A definir
+schedule: 16h às 18h
 lecturer: Osvaldo Pessoa (FFLCH-USP)
 eventcode: jayme5
 layout: jayme5
@@ -12,7 +12,7 @@ layout: jayme5
 
 **Formato:** Presencial.
 
-**Horário:** 16 às 18h
+**Horário:** 16 às 18h.
 
 **Dias:** 4 a 8 de setembro 
 
