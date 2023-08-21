@@ -2,7 +2,7 @@
 title: Introdução à Teoria Quântica de Campos à Temperatura Finita
 shortname: Campos à Temperatura Finita
 schedule: 13h às 15h
-lecturer: Gustavo Sadao (DFMA-IFUSP)
+lecturer: Gustavo Sakoda (DFMA-IFUSP)
 eventcode: jayme5
 layout: jayme5
 ---
