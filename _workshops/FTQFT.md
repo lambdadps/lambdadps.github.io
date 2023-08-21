@@ -8,7 +8,7 @@ layout: jayme5
 ---
 # Introdução à Teoria Quântica de Campos à Temperatura Finita <br><br>
 
-**Ministrante:** [Gustavo Sadao](http://lattes.cnpq.br/8625623984145575) ([DFMA-IFUSP](https://portal.if.usp.br/fma/pt-br/in%C3%ADcio-departamento-de-f%C3%ADsica-matem%C3%A1tica))
+**Ministrante:** [Gustavo Sakoda](http://lattes.cnpq.br/8625623984145575) ([DFMA-IFUSP](https://portal.if.usp.br/fma/pt-br/in%C3%ADcio-departamento-de-f%C3%ADsica-matem%C3%A1tica))
 
 **Formato:** Presencial.
 
