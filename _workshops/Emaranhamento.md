@@ -12,7 +12,7 @@ layout: jayme5
 
 **Formato:** Presencial.
 
-**Horário:** A definir.
+**Horário:** 10h às 12h
 
 **Dias:** 4 a 8 de setembro.
 
