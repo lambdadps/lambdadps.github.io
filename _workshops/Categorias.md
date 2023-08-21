@@ -1,7 +1,7 @@
 ---
 title: Introdução à Teoria de Categorias
 shortname: Categorias
-schedule: 10 às 12h
+schedule: 10h às 12h
 lecturer: Ana Camila Costa Esteves (DFMA-IFUSP)
 eventcode: jayme5
 layout: jayme5
@@ -14,7 +14,7 @@ layout: jayme5
 
 **Formato:** Presencial.
 
-**Horário:** 10 às 12h.
+**Horário:** 10h às 12h.
 
 **Dias:** 4 a 8 de setembro 
 
