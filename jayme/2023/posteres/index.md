@@ -1,16 +1,19 @@
 # Apresentações de pôsteres
 
-Nesse ano contaremos com sessões de pôsteres para que es participantes do evento possam apresentar seus trabalhos de pesquisa, tanto a nível de graduação quanto pós-graduação.
-
-As inscrições de pôsteres podem ser feitas no formulário abaixo até dia 01 de setembro. Após essa data, retornaremos aos inscritos dos trabalhos selecionados o dia e horário da apresentação. A seleção servirá para garantir que o número de pôsteres esteja dentro da quantidade de suportes oferecidos pelo IFUSP.
+Nesse ano tivemos uma sessão de pôsters para que estudantes de graduação e pós-graduação pudessem mostrar seus trabalhos. Os pôsters apresentados foram:
 
 <div style="text-align: justify">
  <ul>
-   <li> O idioma dos trabalhos é opcional: trabalhos em português e inglês são aceitos.</li>
-   <li> Há gráficas próximas ao IFUSP, como a do Instituto de Matemática e Estatística e a da Faculdade de Arquitetura e Urbanismo, que imprimem pôsteres em lona ou papel fotográfico. </li>
-   <li> Sugestões de templates podem ser encontradas <a href="https://www.overleaf.com/gallery/tagged/poster">nessa página.</a> </li>
-  <li> Estudantes que apresentarem trabalhos receberão certificados. </li>
+   <li> Fernando Francisco Silva Filho, "<a href="https://drive.google.com/file/d/1LFWa1gsWD2hXvlJ98xAM0pVV16S9WRUP/view?usp=sharing">Powerful ordered collective engines</a>"</li>
+   <li> Mariana Madeo Morilhas, "<a href="https://drive.google.com/file/d/1n261DgmHVKodfKK94d8BiF3kQIpI0FTE/view?usp=sharing">Fact Checking: A Divulgação Científica em favor do discurso ideológico da ciência</a>" </li>
+   <li> Miriam Mathias Gigi, "Investigation of the natural radioactivity at meaipe beach using a neural network" </li>
+  <li> Níckolas de Aguiar Alves, "<a href="https://drive.google.com/file/d/1vukKAkR3DMIRedh43b5kLoD9DW3E8Jl7/view?usp=sharing">Nonperturbative Aspects of Quantum Field Theory in Curved Spacetime</a>" </li>
+  <li> Patrick Dreger Andriolo, "<a href="https://drive.google.com/file/d/1KWDbu8p2WOeE5psWhqxhovCiH-iJDBOZ/view?usp=sharing">Properties of the Quantum Sets of Exclusivity Graphs</a>" </li>
+  <li> Théo Louzada Meireles, "<a href="https://drive.google.com/file/d/1rdHRjdJKbYfd32vT7zVCtWh9m9M2C7eh/view?usp=sharing">Four-mode Entanglement Out of Two Beams: the Four-Wave Mixing Case</a>" </li>
  </ul>
 </div>
 
-Inscreva seu pôster [aqui](https://docs.google.com/forms/d/e/1FAIpQLSelSLrw-nsWNd9gNflnGhImMiYN26ADlBSBVspGtMgRPBirhw/viewform)!
+
+
+
+
