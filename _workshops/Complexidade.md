@@ -46,4 +46,4 @@ conceito de “emergência” e do debate entre posições emergentistas e reduc
 
 5. Emergência e Redução
 
-**Bibliografia:** Osvaldo Pessoa, <a href="https://drive.google.com/file/d/1wzn-3GA06ku8MiYRkdx4OCwkAE-1Xikr/view?usp=sharing"><i> Notas de aula do curso Auto-Organização, Complexidade e Emergência</i></a>.</li> <br>
+**Bibliografia:** Osvaldo Pessoa, <a href="https://drive.google.com/file/d/1wzn-3GA06ku8MiYRkdx4OCwkAE-1Xikr/view?usp=sharing"><i> Auto-Organização, Complexidade e Emergência</i></a>.
