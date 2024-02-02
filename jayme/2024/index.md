@@ -8,5 +8,5 @@ Caso tenha dúvidas, comentários ou sugestões, fale conosco pelo email [lambda
 
 Organização:
 
-Patrick Andriolo (DFMA-IFUSP) <br
+Patrick Andriolo (DFMA-IFUSP) <br>
 Théo Meireles (DFEP-IFUSP)
