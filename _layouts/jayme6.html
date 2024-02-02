@@ -24,7 +24,7 @@
           <div class="dropdown"><a href="{{ site.url }}/jayme/2023/workshops"><button class="dropbtn">Cursos</button></a>
             <div class="dropdown-content">
               {% for workshop in site.workshops %}
-                {% if workshop.eventcode contains 'jayme5' %}
+                {% if workshop.eventcode contains 'jayme6' %}
                   <a href="{{ workshop.url }}">{{ workshop.shortname | default: workshop.title }}</a>
                 {% endif %}
               {% endfor %}
@@ -39,7 +39,7 @@
 
       <section>
         <div id="title">
-          <h1 style="font-weight: 500">{{ site.jayme5title | default: site.github.repository_name }}</h1>
+          <h1 style="font-weight: 500">{{ site.jayme6title | default: site.github.repository_name }}</h1>
           <p>{{ site.title | default: site.github.project_tagline }}</p>
           <hr>
           <span class="credits left">Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></span>
