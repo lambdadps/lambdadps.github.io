@@ -1,4 +1,4 @@
-# Apresentações de pôsteres
+# Apresentações de pôsteres <br><br>
 
 Na edição desse ano teremos uma sessão de pôsteres para que participantes possam mostrar seus projetos de pesquisa.
 
