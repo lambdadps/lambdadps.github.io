@@ -8,6 +8,6 @@ Caso tenha dúvidas, comentários ou sugestões, fale conosco pelo email [lambda
 
 Organização:
 
-Hugo Portelinha (MAT-IME)
+Hugo Portelinha (MAT-IME) <br>
 Patrick Andriolo (DFMA-IFUSP) <br>
 Théo Meireles (DFEP-IFUSP)
