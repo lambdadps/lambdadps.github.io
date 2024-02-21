@@ -19,7 +19,7 @@ defaults:
       path: ""
       type: "workshops"
     values:
-      layout: "workshop3"
+      layout: "workshop6"
   - scope:
       path: "jayme"
       type: "pages"
