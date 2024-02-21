@@ -1,4 +1,4 @@
-# VI Escola de Física Jayme Tiomno <br><br>
+# Início <br><br>
 
 Esse evento reúne minicursos de diversos ramos contemporâneos da Física, voltados a estudantes que estejam em diferentes níveis da graduação e no começo da pós-graduação. O objetivos desses workshops é introduzir assuntos que tipicamente não são vistos nos cursos do IFUSP, a fim de complementar a formação des participantes e, no caso de estudantes de graduação, facilitar a descoberta de possíveis áreas de ingresso para a pós-graduação.
 
