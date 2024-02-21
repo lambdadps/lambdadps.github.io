@@ -2,7 +2,7 @@
 
 Here you may find an imcomplete list of the Dead Physicists Society current and old projects. Some of these are in Portuguese and some are in English. We leave the descriptions in agreement with the project’s language. 
 
-## Escola Jayme Tiomno de Física Teórica
+## Escola de Física Jayme Tiomno
 
 Com a vinda das férias, as atividades acadêmicas dos alunos de graduação do IFUSP tendem a diminuir e, infelizmente, por vezes se anular. Em nome da paixão sentida pelos estudantes pela Física, surge a Escola Jayme Tiomno de Física Teórica, que pretende manter a transmissão de conhecimento aos alunos vívida durante o inverno.
 
