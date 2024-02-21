@@ -1,8 +1,8 @@
 # Apresentações de pôsteres
 
-Na edição desse ano teremos uma sessão de pôsteres para que paerticipantes possam mostrar seus projetos de pesquisa.
+Na edição desse ano teremos uma sessão de pôsteres para que participantes possam mostrar seus projetos de pesquisa.
 
-No ano passado tivemos os seguintes trabalhos apresentados:
+Em 2023 os seguintes trabalhos foram apresentados:
 
 <div style="text-align: justify">
  <ul>
