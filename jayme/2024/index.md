@@ -11,8 +11,3 @@ Organização:
 Hugo Portelinha (MAT-IME) <br>
 Patrick Andriolo (DFMA-IFUSP) <br>
 Théo Meireles (DFEP-IFUSP)
-
-Apoio:
-
-[CEFISMA](https://cefisma.com.br/) - Centro Acadêmico do Instituto de Física da USP  <br>
-Hackerspace IFUSP
