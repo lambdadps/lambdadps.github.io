@@ -8,11 +8,12 @@ Caso tenha dúvidas, comentários ou sugestões, fale conosco pelo email [lambda
 
 Organização:
 
-Bruno Gehlen (USP) <br>
-Carlos Correr (USP) <br>
+Bruno Gehlen (IFUSP) <br>
+Carlos Correr (IFUSP) <br>
 Hugo Portelinha (MAT-IME) <br>
 Patrick Andriolo (DFMA-IFUSP) <br>
-Théo Meireles (DFEP-IFUSP)
+Théo Meireles (DFEP-IFUSP) <br>
+Yuri Pinto (IFUSP)
 
 Apoio:
 
