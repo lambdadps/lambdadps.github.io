@@ -2,7 +2,11 @@
 
 Na edição desse ano teremos uma sessão de pôsteres para que participantes possam mostrar seus projetos de pesquisa.
 
-Em 2023 os seguintes trabalhos foram apresentados:
+<br>
+
+# Pôsteres apresentados anteriormente <br><br>
+
+# 2023 <br><br>
 
 <div style="text-align: justify">
  <ul>
