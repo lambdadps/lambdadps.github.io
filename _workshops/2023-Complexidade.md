@@ -4,7 +4,7 @@ shortname: Complexidade
 schedule: 16h às 18h
 lecturer: Osvaldo Pessoa (FFLCH-USP)
 eventcode: jayme5
-layout: jayme5
+layout: jayme6
 ---
 # Auto-Organização, Complexidade e Emergência <br><br>
 
