@@ -4,7 +4,7 @@ shortname: Sistemas Moleculares
 schedule: 13 às 15h
 lecturer: Profa. Dra. Kaline Coutinho (DFGE-IFUSP)
 eventcode: jayme4-presencial
-layout: jayme4
+layout: jayme6
 ---
 
 # Simulações Computacionais de Sistemas Moleculares <br><br>
