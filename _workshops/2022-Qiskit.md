@@ -4,7 +4,7 @@ shortname: Qiskit
 schedule: 13 às 15h
 lecturer: Arthur Faria (IFGW-Unicamp, Universtät Stuttgart) e Bruna Shinohara (DFMT-IFUSP)
 eventcode: jayme4-distancia
-layout: jayme4
+layout: jayme6
 ---
 
 # Computação Quântica: Introdução e Algoritmos com Qiskit <br><br>
