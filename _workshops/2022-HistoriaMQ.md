@@ -4,7 +4,7 @@ shortname: História da Física Quântica
 schedule: 16 às 18h
 lecturer: André Fantin (DFEP-IFUSP)
 eventcode: jayme4-distancia
-layout: jayme4
+layout: jayme6
 ---
 # História da Física Quântica para Maiores: Introdução aos debates teórico-metodológicos e a uma historiografia madura da Física <br><br>
 
