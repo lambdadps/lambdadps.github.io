@@ -4,7 +4,7 @@ shortname: Gravidade Quântica
 schedule: 8 às 10h
 lecturer: Prof. Dr. Antônio Pereira (IF-UFF, IMAPP - Radboud University)
 eventcode: jayme4-distancia
-layout: jayme4
+layout: jayme6
 ---
 
 # Gravidade Quântica e Segurança Assintótica: Uma Introdução <br><br>
