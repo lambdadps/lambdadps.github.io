@@ -4,7 +4,7 @@ shortname: Campos à Temperatura Finita
 schedule: 13h às 15h
 lecturer: Gustavo Sakoda (DFMA-IFUSP)
 eventcode: jayme5
-layout: jayme5
+layout: jayme6
 ---
 # Introdução à Teoria Quântica de Campos à Temperatura Finita <br><br>
 
