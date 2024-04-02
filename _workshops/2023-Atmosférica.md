@@ -4,7 +4,7 @@ shortname: Física Atmosférica
 schedule: 13h às 15h
 lecturer: Marco Aurélio de Menezes Franco (IAG-USP)
 eventcode: jayme5
-layout: jayme5
+layout: jayme6
 ---
 # Tópicos de Física Atmosférica <br><br>
 
