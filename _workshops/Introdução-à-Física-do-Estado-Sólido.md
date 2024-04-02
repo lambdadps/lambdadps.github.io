@@ -3,7 +3,6 @@ title: Introdução à Física do Estado Sólido
 shortname: Estado Sólido
 schedule: 10h às 12h (BRT)
 lecturer: Raphael Levy (DFMT-IFUSP)
-vagas: Vagas esgotadas!
 eventcode: jayme3
 layout: jayme3
 ---
