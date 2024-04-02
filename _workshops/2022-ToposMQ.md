@@ -4,7 +4,7 @@ shortname: Teoria de Topos
 schedule: 19 às 21h
 lecturer: Prof. Dr. Walter Pedra (DFMA-IFUSP)
 eventcode: jayme4-distancia
-layout: jayme4
+layout: jayme6
 ---
 
 # Aplicação da Teoria de Topos aos Fundamentos Matemáticos da Teoria Quântica <br><br>
