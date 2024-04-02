@@ -4,7 +4,7 @@ shortname: Estado Sólido
 schedule: 10h às 12h (BRT)
 lecturer: Raphael Levy (DFMT-IFUSP)
 eventcode: jayme3
-layout: jayme3
+layout: jayme6
 ---
 
 **Ministrante:** [Raphael Levy Ruscio Castro Teixeira](http://lattes.cnpq.br/9064122070924435) ([DFMT-IFUSP](http://portal.if.usp.br/fmt/pt-br))
