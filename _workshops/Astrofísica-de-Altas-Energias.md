@@ -4,7 +4,7 @@ shortname: Astrofísica
 schedule: 13h às 15h
 lecturer: Luana Passos Reis (IAG-USP)
 eventcode: jayme5
-layout: jayme5
+layout: jayme6
 ---
 # Introdução à Astrofísica de Altas Energias e Radiações <br><br>
 
