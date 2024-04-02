@@ -4,7 +4,7 @@ shortname: Emaranhamento
 schedule: 10h às 12h
 lecturer: Hans Marin Florez (DFEP-IFUSP)
 eventcode: jayme5
-layout: jayme5
+layout: jayme6
 ---
 # Introdução ao Emaranhamento e Tecnologias Quânticas <br><br>
 
