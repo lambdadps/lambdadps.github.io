@@ -4,7 +4,7 @@ shortname: Categorias
 schedule: 10h às 12h
 lecturer: Ana Camila Costa Esteves (DFMA-IFUSP)
 eventcode: jayme5
-layout: jayme5
+layout: jayme6
 ---
 # Introdução à Teoria de Categorias <br><br>
 
