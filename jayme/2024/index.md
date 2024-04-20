@@ -17,5 +17,6 @@ Yuri Pinto (IFUSP)
 
 Apoio:
 
+Comissão de Cultura e Extensão (CCEx-IFUSP) <br>
 Hackerspace <br>
-Comissão de Cultura e Extensão (CCEx-IFUSP)
+Cefisma
