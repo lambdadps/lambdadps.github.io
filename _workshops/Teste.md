@@ -6,7 +6,7 @@ lecturer: Samantha Condessa (IMPA) e Hugo Portelinha (IME-USP)
 eventcode: jayme6
 layout: jayme6
 ---
-# Teste <br><br>
+# Introdução a variedades e aplicações <br><br>
 
 **Ministrantes:** Samantha Condessa (IMPA) e Hugo Portelinha (IME-USP)
 
