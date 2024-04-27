@@ -20,7 +20,7 @@ layout: jayme6
 
 **Descrição:** Variedades diferenciáveis são formas geométricas que, em pequenas regiões, se parecem com um espaço Euclidiano. Desse modo, podemos estender noções do cálculo diferencial a esses objetos, como funções diferenciáveis, derivadas e campos de vetores. Quando munidas de mais estruturas, como uma métrica, uma conexão ou uma forma simplética, variedades se tornam o plano de fundo de Relatividade Geral, teorias de gauge e sistemas Hamiltonianos. Neste curso, pretendemos introduzir o básico sobre variedades e métricas pseudo-Riemannianas e discutir algumas aplicações interessantes sobre o assunto.
 
-**Pré-requisitos:** [Cálculo III](https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=MAT0205&verdis=1) e [Álgebra Linear](https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=MAT0122&verdis=2), desejável: [Topologia](https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=MAT0317&verdis=2)
+**Pré-requisitos:** [Cálculo III](https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=MAT0205&verdis=1) e [Álgebra Linear](https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=MAT0122&verdis=2), desejável [Topologia](https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=MAT0317&verdis=2)
 
 **Ementa:** 
 
