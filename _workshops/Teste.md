@@ -8,7 +8,7 @@ layout: jayme6
 ---
 # Introdução a variedades e aplicações <br><br>
 
-**Ministrantes:** Samantha Condessa (IMPA) e Hugo Portelinha (IME-USP)
+**Ministrantes:** Samantha Condessa ([IMPA](https://impa.br/)) e Hugo Portelinha ([IME-USP](https://www.ime.usp.br/))
 
 **Formato:** Presencial.
 
