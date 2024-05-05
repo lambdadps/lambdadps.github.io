@@ -4,7 +4,7 @@ Esse evento reúne minicursos de diversos ramos contemporâneos da Física, volt
 
 Além dos cursos, temos a intenção de oferecer atividades diversificadas, como apresentações de pôsters, visitas a laboratórios e mesas redondas. Todos as atividades acontecerão na última semana de férias do IFUSP, entre 29 de julho e 02 de agosto de 2024, em formato presencial. As inscrições são gratuitas e serão abertas em breve!
 
-Caso tenha dúvidas, comentários ou sugestões, fale conosco pelo email [lambdadps@gmail.com](mailto:jaymetiomno@gmail.com)
+Caso tenha dúvidas, comentários ou sugestões, fale conosco pelo email [jaymetiomno@gmail.com](mailto:jaymetiomno@gmail.com)
 
 Organização:
 
