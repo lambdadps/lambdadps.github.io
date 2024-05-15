@@ -18,5 +18,5 @@ Yuri Pinto (IFUSP)
 Apoio:
 
 Comissão de Cultura e Extensão (CCEx-IFUSP) <br>
-Hackerspace <br>
-Cefisma
+Centro Acadêmico do Instituto de Física (Cefisma) <br>
+Hackerspace
