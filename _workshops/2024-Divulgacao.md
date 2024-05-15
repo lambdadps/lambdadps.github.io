@@ -1,5 +1,5 @@
 ---
-title: Divulgando Matemática em Vídeos: da ideia à prática –- Um relato de experiência da A Matemaníaca
+title: Divulgando Matemática em Vídeos da ideia à prática –- Um relato de experiência da A Matemaníaca
 shortname: Divulgação
 schedule: A confirmar
 lecturer: Julia Jaccoud (ICMC-USP)
