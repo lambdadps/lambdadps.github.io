@@ -20,7 +20,7 @@ layout: jayme6
 
 **Descrição:** A Termodinâmica Quântica é um campo de pesquisa ainda em emergência que visa introduzir as leias termodinâmicas dentro do contexto de sistemas quânticos, em geral por intermédio do formalismo de sistemas quânticos abertos. Além do apelo tecnológico que advém de ambas essas teorias e, por conseguinte, da sua união, esse tipo de abordagem nos permite investigar a natureza física de muitos sistemas de um ponto de vista mais fundamental, donde surgem resultasdos contraintuitivos, como a possibilidade da inversão do fluxo normal de calor, em que existe um fluxo de energia de um corpo a temperatura <img src="/cgi-bin/mathtex.cgi?T_0" alt="" border=0 align="middle"> para um de temperatura <img src="/cgi-bin/mathtex.cgi?T" alt="" border=0 align="middle">, com <img src="/cgi-bin/mathtex.cgi?T_0<T" alt="" border=0 align="middle">. O presente curso visa dar um panorama geral sobre os principais aspectos da Termodinâmica Quântica, passando por tópicos diversos e efervescentes entre a comunidade científica contemporânea. 
 
-**Pré-requisitos:** [Mecânica Quântica I](https://uspdigital.usp.br/jupiterweb/obterDisciplina?nomdis=&sgldis=4302403)
+**Pré-requisitos:** É desejável um curso de [Mecânica Quântica](https://uspdigital.usp.br/jupiterweb/obterDisciplina?nomdis=&sgldis=4302403) a nível de graduação.
 
 **Ementa:** 
 
