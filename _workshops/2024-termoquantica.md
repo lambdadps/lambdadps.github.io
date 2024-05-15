@@ -8,7 +8,7 @@ layout: jayme6
 ---
 # Introdução à termodinâmica quântica <br><br>
 
-**Ministrantes:** [Luis Felipe Santos da Silva](http://lattes.cnpq.br/6884217566376715) ([IF-USP](https://portal.if.usp.br/ifusp/)) e [Naim Elias Comar](http://lattes.cnpq.br/9945170597447230) ([IF-USP](https://portal.if.usp.br/ifusp/))
+**Ministrantes:** [Luis Felipe Santos da Silva](http://lattes.cnpq.br/6884217566376715) ([DFMA-IFUSP](https://portal.if.usp.br/ifusp/)) e [Naim Elias Comar](http://lattes.cnpq.br/9945170597447230) ([DFMA-IFUSP](https://portal.if.usp.br/ifusp/))
 
 **Formato:** Presencial.
 
