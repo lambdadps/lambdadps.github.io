@@ -8,7 +8,7 @@ layout: jayme6
 ---
 # Divulgando Matemática em Vídeos: da ideia à prática – Um relato de experiência da A Matemaníaca <br><br>
 
-**Ministrantes:** [Julia Jaccoud]( http://lattes.cnpq.br/7852642594923385) ([ICMC-USP](https://www.icmc.usp.br/))
+**Ministrante:** [Julia Jaccoud]( http://lattes.cnpq.br/7852642594923385) ([ICMC-USP](https://www.icmc.usp.br/))
 
 **Formato:** À distância.
 
