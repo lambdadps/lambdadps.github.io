@@ -2,13 +2,13 @@
 title: Simulações computacionais de sistemas físicos
 shortname: Simulações computacionais
 schedule: A confirmar
-lecturer: Lucas Cornetta (IF-USP)
+lecturer: Lucas Cornetta (DFGE-IFUSP)
 eventcode: jayme6
 layout: jayme6
 ---
 # Simulações computacionais de sistemas físicos <br><br>
 
-**Ministrante:** [Lucas Cornetta](http://lattes.cnpq.br/8909403197418807) ([IF-USP](https://portal.if.usp.br/ifusp/))
+**Ministrante:** [Lucas Cornetta](http://lattes.cnpq.br/8909403197418807) ([DFGE-IFUSP](https://portal.if.usp.br/ifusp/))
 
 **Formato:** Presencial
 
