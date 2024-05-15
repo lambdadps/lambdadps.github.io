@@ -1,6 +1,6 @@
 # Inscrições <br><br>
 
-As inscrições podem ser feitas pelo seguinte formulário: 
+As inscrições dos minicursos serão abertas em breve. As inscrições para apresentação de pôsters estão abertas!
 
 **Certificados:** Serão emitidos para @s participantes aprovad@s, sendo que o critério de aprovação nos cursos é a presença em ao menos 75% das aulas.
 
