@@ -1,5 +1,5 @@
 ---
-title: Dinâmica quântica e aplicações em espectroscopia: uma abordagem computacional
+title: Dinâmica quântica e aplicações em espectroscopia, uma abordagem computacional
 shortname: Dinâmica quântica
 schedule: A confirmar
 lecturer: Lucas Cornetta (DFGE-IFUSP)
