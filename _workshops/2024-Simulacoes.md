@@ -1,5 +1,5 @@
 ---
-title: Dinâmica quântica e aplicações em espectroscopia: uma abordagem computacional
+title: Dinâmica quântica e aplicações em espectroscopia, uma abordagem computacional
 shortname: Dinâmica quântica
 schedule: A confirmar
 lecturer: Lucas Cornetta (DFGE-IFUSP)
@@ -34,6 +34,7 @@ layout: jayme6
    - A Hamiltoniana de interação e tratamentos perturbativos. Processos ressonantes.
 5. O espectro de absorção da molécula de N2.*
    - Um estudo de caso. Compração com dados experimentais.
+
 (*) Aulas com desenvolvimento de código.
 
 **Bibliografia:**
