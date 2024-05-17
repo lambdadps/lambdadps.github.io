@@ -1,12 +1,12 @@
 ---
-title: Simulações computacionais de sistemas físicos
+title: Dinâmica quântica e aplicações em espectroscopia: uma abordagem computacional
 shortname: Dinâmica quântica
 schedule: A confirmar
 lecturer: Lucas Cornetta (DFGE-IFUSP)
 eventcode: jayme6
 layout: jayme6
 ---
-# Dinâmica quântica e aplicações em espectroscopia: uma abordagem especial <br><br>
+# Dinâmica quântica e aplicações em espectroscopia: uma abordagem computacional <br><br>
 
 **Ministrante:** [Lucas Cornetta](http://lattes.cnpq.br/8909403197418807) ([DFGE-IFUSP](https://portal.if.usp.br/ifusp/))
 
