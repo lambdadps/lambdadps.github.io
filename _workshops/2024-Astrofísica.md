@@ -3,7 +3,7 @@ title: Introdução à Astrofísica de Altas Energias e seus Métodos Computacio
 shortname: Astrofísica
 schedule: 13h às 15h
 lecturer: Luana Passos Reis (IAG-USP), Lucas Barreto Mota dos Santos (IAG-USP)
-eventcode: jayme5
+eventcode: jayme6
 layout: jayme6
 ---
 # Introdução à Astrofísica de Altas Energias e seus Métodos Computacionais <br><br>
@@ -16,9 +16,9 @@ layout: jayme6
 
 **Dias:** 29 de Julho a 2 de Agosto
 
-**Carga Horária Total:**  horas.
+**Carga Horária Total:**  10 horas.
 
-**Descrição:** Abstract: A astrofísica de altas energias é uma área de pesquisa que investiga os
+**Descrição:** A astrofísica de altas energias é uma área de pesquisa que investiga os
 fenômenos mais extremos conhecidos em nosso universo, como buracos negros
 supermassivos, estrelas de nêutrons e explosões de supernovas. Este curso oferece uma
 introdução abrangente aos princípios fundamentais da astrofísica de altas energias e aos
