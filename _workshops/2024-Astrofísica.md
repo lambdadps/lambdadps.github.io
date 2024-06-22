@@ -1,7 +1,7 @@
 ---
 title: Introdução à Astrofísica de Altas Energias e seus Métodos Computacionais
 shortname: Astrofísica
-schedule: 13h às 15h
+schedule: A confirmar
 lecturer: Luana Passos Reis (IAG-USP), Lucas Barreto Mota dos Santos (IAG-USP)
 eventcode: jayme6
 layout: jayme6
