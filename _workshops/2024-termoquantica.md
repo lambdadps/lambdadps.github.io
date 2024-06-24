@@ -2,13 +2,13 @@
 title: Introdução à Termodinâmica Quântica
 shortname: Termodinâmica quântica
 schedule: A confirmar
-lecturer: Luis Felipe Santos da Silva (DFMA-IFUSP) e Naim Elias Comar (DFMA-IFUSP)
+lecturer: Naim Elias Comar (DFMA-IFUSP)
 eventcode: jayme6
 layout: jayme6
 ---
 # Introdução à Termodinâmica Quântica <br><br>
 
-**Ministrantes:** [Luis Felipe Santos da Silva](http://lattes.cnpq.br/6884217566376715) ([DFMA-IFUSP](https://portal.if.usp.br/ifusp/)) e [Naim Elias Comar](http://lattes.cnpq.br/9945170597447230) ([DFMA-IFUSP](https://portal.if.usp.br/ifusp/))
+**Ministrantes:** [Naim Elias Comar](http://lattes.cnpq.br/9945170597447230) ([DFMA-IFUSP](https://portal.if.usp.br/ifusp/))
 
 **Formato:** Presencial.
 
