@@ -2,7 +2,7 @@
 title: Buracos negros astrofísicos
 shortname: Buracos negros
 schedule: A confirmar
-lecturer: Douglas Ferreira Carlos
+lecturer: Douglas Ferreira Carlos (IAG-USP)
 eventcode: jayme6
 layout: jayme6
 ---
