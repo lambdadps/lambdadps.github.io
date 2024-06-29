@@ -27,6 +27,15 @@ série de observações astronômicas do século passado e atuais, com foco part
 Galáxias de Núcleo Ativo (Active Galactic Nuclei ou AGN) que requerem buracos negros
 com massas de \(10^6 - 10^8 M_\odot\)
 
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}
+});
+</script>
+<script type="text/javascript"
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+
 **Pré-requisitos:** [Física IV](https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=4302212&verdis=1) e [Termodinâmica](https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=4302308&verdis=1)/[Hidrodinâmica](https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=4300324&verdis=2).
 
 **Ementa:** 
