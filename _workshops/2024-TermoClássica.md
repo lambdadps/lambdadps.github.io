@@ -18,12 +18,6 @@ layout: jayme6
 
 **Carga Horária Total:** 10h
 
-**Descrição:**  
-
-**Pré-requisitos:** 
-
-**Ementa:** 
-
 **Bibliografia:**
 
 1. Notas de aula a serem divulgadas
