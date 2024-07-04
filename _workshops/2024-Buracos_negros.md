@@ -1,7 +1,7 @@
 ---
 title: Buracos negros astrofísicos
 shortname: Buracos negros
-schedule: A confirmar
+schedule: 9h às 11h
 lecturer: Douglas Ferreira Carlos (IAG-USP)
 eventcode: jayme6
 layout: jayme6
@@ -12,7 +12,7 @@ layout: jayme6
 
 **Formato:** Presencial.
 
-**Horário:** A confirmar
+**Horário:** 9h às 11h
 
 **Dias:** 29 de Julho a 2 de Agosto
 
