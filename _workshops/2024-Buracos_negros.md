@@ -42,3 +42,7 @@ com massas de 10⁶ a 10⁸ massas solares
 1. Volker Beckmann and Chris Shrader, Active Galactic Nuclei, 2012.
 2. Stuart Shapiro and Saul Teukolsky, Black holes, White Dwarfs and Neutron stars, the physics of compact objects, 1983.
 3. Blandford, Netzer and Woltjer, Active Galactic Nuclei, 1990.
+
+**Inscrição:**
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeHYnA-jRYjnQ3zC_nNmaG6NFK9W3KWOaMo9TU4lU4KTFPrBw/viewform?embedded=true" width="640" height="1505" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
