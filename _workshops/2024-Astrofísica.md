@@ -42,3 +42,9 @@ realizadas as simulações teóricas e a modelagem computacional nessa área de 
 - Simulações computacionais de modelos teóricos;
 - Turbulência e Difusão;
 - Astropy e Astro-estatística.
+
+**Inscrição:** 
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScantjvKBIFwfiCxmcAook1WvgK4opRuPRs7EM3DvRtDu__Mw/viewform?embedded=true" width="640" height="1607" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+
