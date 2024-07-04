@@ -43,3 +43,7 @@ layout: jayme6
 2. Mark A. Ratner, George C. Schatz, Introduction to Quantum Mechanics in Chemistry, Prentice Hall, 2001.
 3. Peter Atkins e Ronald Friedman, Molecular Quantum Mechanics, 4a Ed., Oxford, 2005.
 4. Jeffrey I. Steinfeld, Molecules and Radiation, 2a Ed., Dover, 1985.
+
+**Inscrição:**
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc87UkhMMkS23v2Yx_d65PQGuzk-bjB_WzbwIfJMi6Z4pZe0w/viewform?embedded=true" width="640" height="1607" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
