@@ -1,7 +1,7 @@
 ---
 title: Termodinâmica Clássica & Informação
 shortname: Informação
-schedule: A confirmar
+schedule: 15h às 17h
 lecturer: Gabriel Golfetti
 eventcode: jayme6
 layout: jayme6
@@ -12,7 +12,7 @@ layout: jayme6
 
 **Formato:** Presencial.
 
-**Horário:** A confirmar
+**Horário:** 15h às 17h
 
 **Dias:** 29 de Julho a 2 de Agosto
 
