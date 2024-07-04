@@ -1,7 +1,7 @@
 ---
 title: "Dinâmica quântica e aplicações em espectroscopia: uma abordagem computacional"
 shortname: Dinâmica quântica
-schedule: A confirmar
+schedule: 15h às 17h
 lecturer: Lucas Cornetta (DFGE-IFUSP)
 eventcode: jayme6
 layout: jayme6
@@ -12,7 +12,7 @@ layout: jayme6
 
 **Formato:** Presencial
 
-**Horário:** A confirmar
+**Horário:** 15h às 17h
 
 **Dias:** 29 de julho a 2 de agosto
 
