@@ -1,7 +1,7 @@
 ---
 title: Introdução à Termodinâmica Quântica
 shortname: Termodinâmica quântica
-schedule: A confirmar
+schedule: 11h às 13h
 lecturer: Naim Elias Comar (DFMA-IFUSP)
 eventcode: jayme6
 layout: jayme6
@@ -12,7 +12,7 @@ layout: jayme6
 
 **Formato:** Presencial.
 
-**Horário:** A confirmar
+**Horário:** 11h às 13h
 
 **Dias:** 29 de Julho a 2 de Agosto
 
