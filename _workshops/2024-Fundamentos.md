@@ -1,7 +1,7 @@
 ---
 title: Tópicos em Fundamentos da Teoria Quântica
 shortname: Fundamentos
-schedule: A confirmar
+schedule: 9h às 11h
 lecturer: Amanda Fonseca (DFMA-IFUSP) e Gustavo Pimentel (DFMA-IFUSP)
 eventcode: jayme6
 layout: jayme6
@@ -12,7 +12,7 @@ layout: jayme6
 
 **Formato:** Presencial.
 
-**Horário:** A confirmar
+**Horário:** 9h às 11h
 
 **Dias:** 29 de Julho a 2 de Agosto
 
