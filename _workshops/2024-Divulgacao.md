@@ -29,3 +29,7 @@ Julia Jaccoud, mais conhecida na internet como A Matemaníaca, nascida em São B
 Sua intenção é de seguir buscando novos conhecimentos e suas interseções!
 
 **Pré-requisitos:** Não há.
+
+**Inscrição:**
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd1YkdH5EdLHEBSu-AxWTwpk801HgGM8M76empb-ei-hypY0w/viewform?embedded=true" width="640" height="1607" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
