@@ -1,7 +1,7 @@
 ---
 title: "Divulgando Matemática em Vídeos: da ideia à prática – Um relato de experiência da A Matemaníaca"
 shortname: Divulgação
-schedule: A confirmar
+schedule: 11h às 13h
 lecturer: Julia Jaccoud (ICMC-USP)
 eventcode: jayme6
 layout: jayme6
@@ -12,7 +12,7 @@ layout: jayme6
 
 **Formato:** À distância.
 
-**Horário:** A confirmar
+**Horário:** 11h às 13h
 
 **Dias:** 29 de Julho a 2 de Agosto
 
