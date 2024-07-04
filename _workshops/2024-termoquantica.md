@@ -37,3 +37,7 @@ layout: jayme6
 3. R. Kosloff, "Quantum thermodynamics: A dynamical viewpoint”, Entropy 15, 2100–2128 (2013).
 4. S. Vinjanampathy e J. Anders, “Quantum thermodynamics”, Contemporary Physics 57, 545–579
 (2016).
+
+**Inscrição:**
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSekwnkxCQm0HM3BLkG3Idg0TFvRDA5w4CEs1B_9t-Li8-dCRQ/viewform?embedded=true" width="640" height="1567" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
