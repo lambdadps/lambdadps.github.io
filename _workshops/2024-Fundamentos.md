@@ -47,3 +47,7 @@ Neste minicurso, exploraremos algumas dessas propriedades, como a não-localidad
 11. [Advanced information. NobelPrize.org. Nobel Prize Outreach AB 2024.](https://www.nobelprize.org/prizes/physics/2022/advanced-information/)
 12. .Costantino Budroni, Adán Cabello, Otfried Gühne, Matthias Kleinmann, and Jan-Åke Larsson. Kochen-Specker contextuality. Rev. Mod. Phys. 94, 045007. 2022. 
 13. Cabello A. Interpretations of Quantum Theory: A Map of Madness. In: Lombardi O, Fortin S, Holik F, López C, eds. What Is Quantum Information?. Cambridge University Press; 2017:138-144. 2017.
+
+**Inscrição:**
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScc_eY8PV70ZTRzSlYHgKAxNZsH4vzaY2GJfFAMrak2im7fOA/viewform?embedded=true" width="640" height="1567" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
