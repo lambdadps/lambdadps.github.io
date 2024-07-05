@@ -8,7 +8,7 @@ layout: jayme6
 ---
 # Termodinâmica Clássica & Informação <br><br>
 
-**Ministrantes:** [Gabriel Golfetti](http://lattes.cnpq.br/4057276490239244)
+**Ministrantes:** [Gabriel Golfetti](http://lattes.cnpq.br/4057276490239244) (Goldman Sachs / [Perimeter Institute](https://perimeterinstitute.ca/))
 
 **Formato:** Presencial.
 
