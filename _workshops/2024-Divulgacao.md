@@ -12,7 +12,7 @@ layout: jayme6
 
 **Formato:** À distância.
 
-**Horário:** 11h às 13h
+**Horário:** 8h às 10h
 
 **Dias:** 29 de Julho a 2 de Agosto
 
