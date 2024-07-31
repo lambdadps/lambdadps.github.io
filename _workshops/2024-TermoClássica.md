@@ -20,7 +20,7 @@ layout: jayme6
 
 **Bibliografia:**
 
-1. Notas de aula a serem divulgadas
+1. Notas de aula: [download](https://golfiros.github.io/thermo_info.pdf) - atualizadas em 31/07
 
 **Inscrição:**
 
