@@ -21,6 +21,11 @@ defaults:
     values:
       layout: "workshop6"
   - scope:
+      path: "jayme/2021"
+      type: "pages"
+    values:
+      layout: "jayme3"
+  - scope:
       path: "jayme"
       type: "pages"
     values:
