@@ -26,6 +26,16 @@ defaults:
     values:
       layout: "jayme3"
   - scope:
+      path: "jayme/2022"
+      type: "pages"
+    values:
+      layout: "jayme4"
+  - scope:
+      path: "jayme/2023"
+      type: "pages"
+    values:
+      layout: "jayme5"
+  - scope:
       path: "jayme"
       type: "pages"
     values:
