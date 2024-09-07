@@ -8,12 +8,10 @@ Caso tenha dúvidas, comentários ou sugestões, fale conosco pelo email [jaymet
 
 Organização:
 
-Bruno Gehlen (IFUSP) <br>
 Carlos Correr (IFUSP) <br>
 Hugo Portelinha (MAT-IME) <br>
 Patrick Andriolo (DFMA-IFUSP) <br>
 Théo Meireles (DFEP-IFUSP) <br>
-Yuri Pinto (IFUSP)
 
 Apoio:
 
